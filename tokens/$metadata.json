@@ -11,6 +11,8 @@
     "components/title",
     "components/text",
     "new-set (template)",
-    "new-set (Hornitos)"
+    "new-set (Hornitos)",
+    "Brands/BrandA/core",
+    "Brands/BrandA/theme"
   ]
 }

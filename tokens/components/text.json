@@ -1,42 +1,54 @@
 {
   "text": {
-    "standard": {
-      "text": {
-        "typography": {
-          "value": "{general.global.S-1-default}",
-          "type": "typography"
-        }
-      }
-    },
-    "xs": {
-      "text": {
-        "typography": {
-          "value": "{general.global.XS-1-default}",
-          "type": "typography"
-        }
-      }
-    },
-    "xxs": {
-      "text": {
-        "typography": {
-          "value": "{general.global.XXS-1-default}",
-          "type": "typography"
-        }
-      }
-    },
     "default-emphasis": {
-      "text": {
-        "case": {
-          "value": "none",
-          "type": "textCase"
+      "s": {
+        "text": {
+          "typography": {
+            "value": "{general.global.S-1-default}",
+            "type": "typography"
+          }
+        }
+      },
+      "xs": {
+        "text": {
+          "typography": {
+            "value": "{general.global.XS-1-default}",
+            "type": "typography"
+          }
+        }
+      },
+      "xxs": {
+        "text": {
+          "typography": {
+            "value": "{general.global.XXS-1-default}",
+            "type": "typography"
+          }
         }
       }
     },
     "heavy-emphasis": {
-      "text": {
-        "case": {
-          "value": "uppercase",
-          "type": "textCase"
+      "s": {
+        "text": {
+          "typography": {
+            "value": "{general.global.S-2-emphasis}",
+            "type": "typography"
+          }
+        }
+      },
+      "xs": {
+        "text": {
+          "typography": {
+            "value": "{general.global.XS-1-emphasis}",
+            "type": "typography"
+          }
+        }
+      },
+      "xxs": {
+        "text": {
+          "typography": {
+            "value": "{general.global.XXS-2-emphasis}",
+            "type": "typography"
+          }
         }
       }
     },
