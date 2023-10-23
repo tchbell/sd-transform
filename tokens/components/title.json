@@ -1,0 +1,52 @@
+{
+  "title": {
+    "xxl": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.xxl.text.typography}",
+          "type": "typography"
+        }
+      }
+    },
+    "xl": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.xl.text.typography}",
+          "type": "typography"
+        }
+      }
+    },
+    "l": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.l.text.typography}",
+          "type": "typography"
+        }
+      }
+    },
+    "m": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.m.text.typography}",
+          "type": "typography"
+        }
+      }
+    },
+    "subline": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.subline.text.typography}",
+          "type": "typography"
+        }
+      }
+    },
+    "subline-small": {
+      "text": {
+        "typography": {
+          "value": "{semantic.title.subline-small.text.typography}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

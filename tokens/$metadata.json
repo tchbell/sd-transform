@@ -1,0 +1,16 @@
+{
+  "tokenSetOrder": [
+    "old/font",
+    "old/spacer",
+    "old/shadows",
+    "old/color",
+    "core/colors",
+    "semantic/simple",
+    "semantic/granular",
+    "components/button",
+    "components/title",
+    "components/text",
+    "new-set (template)",
+    "new-set (Hornitos)"
+  ]
+}
