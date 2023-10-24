@@ -1,10 +1,20 @@
 {
   "list": {
-    "default": {
-      "text": {
-        "typography": {
-          "value": "{general.global.S-1-default}",
-          "type": "typography"
+    "item": {
+      "default": {
+        "text": {
+          "typography": {
+            "value": "{general.global.S-1-default}",
+            "type": "typography"
+          }
+        }
+      },
+      "underline": {
+        "text": {
+          "typography": {
+            "value": "{general.global.S-1-link}",
+            "type": "typography"
+          }
         }
       }
     },
@@ -21,14 +31,6 @@
         "color": {
           "value": "{token.font.links.link-neutral-default}",
           "type": "color"
-        }
-      }
-    },
-    "underlined": {
-      "text": {
-        "typography": {
-          "value": "{general.global.S-1-link}",
-          "type": "typography"
         }
       }
     }
