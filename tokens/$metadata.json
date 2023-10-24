@@ -14,6 +14,7 @@
     "components/tabs",
     "components/list",
     "components/separator",
+    "components/filter tags",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",

@@ -18,15 +18,11 @@
         }
       }
     },
-    "title": {
+    "rested": {
       "text": {
         "color": {
-          "value": "{token.font.copy.1-subtle}",
+          "value": "{token.font.list.default}",
           "type": "color"
-        },
-        "typography": {
-          "value": "{general.global.XXS-2-emphasis}",
-          "type": "typography"
         }
       }
     },
@@ -34,14 +30,6 @@
       "text": {
         "color": {
           "value": "{token.font.links.link-neutral-default}",
-          "type": "color"
-        }
-      }
-    },
-    "rested": {
-      "text": {
-        "color": {
-          "value": "{token.font.list.default}",
           "type": "color"
         }
       }
