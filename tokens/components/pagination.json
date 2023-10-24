@@ -20,16 +20,14 @@
         "type": "color"
       }
     },
-    "active": {
-      "scrubber": {
+    "scrubber": {
+      "active": {
         "color": {
           "value": "{token.scrubber-progress-pagination.pagination-active}",
           "type": "color"
         }
-      }
-    },
-    "rested": {
-      "scrubber": {
+      },
+      "rested": {
         "color": {
           "value": "{token.scrubber-progress-pagination.pagination-default}",
           "type": "color"
