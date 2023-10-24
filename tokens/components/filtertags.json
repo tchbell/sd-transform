@@ -1,23 +1,31 @@
 {
-  "filter tags": {
-    "default": {
-      "resting": {
+  "filter-tags": {
+    "resting": {
+      "color": {
         "value": "#A1A1A1",
-        "type": "color"
-      },
-      "hover": {
-        "value": "#454545",
-        "type": "color"
-      },
-      "active": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "disabled": {
-        "value": "#B7B7B7",
         "type": "color"
       }
     },
+    "hover": {
+      "color": {
+        "value": "#454545",
+        "type": "color"
+      }
+    },
+    "active": {
+      "color": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "disabled": {
+      "color": {
+        "value": "#B7B7B7",
+        "type": "color"
+      }
+    }
+  },
+  "filter tags": {
     "text": {
       "typography": {
         "value": "{general.global.XS-1-default}",
