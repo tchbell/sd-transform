@@ -4,34 +4,6 @@
       "typography": {
         "value": "{general.global.XXS-1-default}",
         "type": "typography"
-      },
-      "color": {
-        "value": "{token.font.copy.1-emphasis}",
-        "type": "color"
-      }
-    },
-    "number": {
-      "typography": {
-        "value": "{general.global.XS-1-default}",
-        "type": "typography"
-      },
-      "color": {
-        "value": "{token.form.dropdown.dropdowntext-default}",
-        "type": "color"
-      }
-    },
-    "scrubber": {
-      "active": {
-        "color": {
-          "value": "{token.scrubber-progress-pagination.pagination-active}",
-          "type": "color"
-        }
-      },
-      "rested": {
-        "color": {
-          "value": "{token.scrubber-progress-pagination.pagination-default}",
-          "type": "color"
-        }
       }
     }
   }

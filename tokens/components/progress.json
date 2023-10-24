@@ -1,0 +1,78 @@
+{
+  "progress": {
+    "default": {
+      "text": {
+        "color": {
+          "value": "{token.progress.progress-label-default}",
+          "type": "color"
+        }
+      },
+      "progress-number": {
+        "bg-color": {
+          "value": "{token.progress.progress-background-default}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{token.progress.progress-icon-default}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{token.progress.progress-outline-default}",
+          "type": "color"
+        }
+      },
+      "progress-line": {
+        "color": {
+          "value": "{token.progress.progress-line-default}",
+          "type": "color"
+        }
+      }
+    },
+    "active": {
+      "text": {
+        "color": {
+          "value": "{token.progress.progress-label-active}",
+          "type": "color"
+        }
+      },
+      "progress-number": {
+        "bg-color": {
+          "value": "{token.progress.progress-background-active}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{token.progress.progress-icon-active}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{token.progress.progress-outline-active}",
+          "type": "color"
+        }
+      },
+      "progress-line": {
+        "color": {
+          "value": "{token.progress.progress-line-active}",
+          "type": "color"
+        }
+      }
+    },
+    "text": {
+      "typography": {
+        "value": "{general.global.S-1-default}",
+        "type": "typography"
+      }
+    },
+    "number": {
+      "typography": {
+        "value": "{general.global.XS-3-default}",
+        "type": "typography"
+      }
+    },
+    "title": {
+      "typography": {
+        "value": "{headline.VPM.headline-M}",
+        "type": "typography"
+      }
+    }
+  }
+}
