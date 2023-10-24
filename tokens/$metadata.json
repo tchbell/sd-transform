@@ -15,8 +15,6 @@
     "components/list",
     "components/separator",
     "components/pagination",
-    "components/progress",
-    "components/video",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
