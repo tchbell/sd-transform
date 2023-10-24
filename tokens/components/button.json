@@ -335,6 +335,12 @@
           }
         }
       }
+    },
+    "label": {
+      "typography": {
+        "value": "{button.button-title}",
+        "type": "typography"
+      }
     }
   }
 }

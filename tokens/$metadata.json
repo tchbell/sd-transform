@@ -10,6 +10,7 @@
     "components/button",
     "components/title",
     "components/text",
+    "components/breadcrumbs",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
