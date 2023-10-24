@@ -1,11 +1,13 @@
 {
   "pictograms": {
     "default": {
-      "default": {
+      "colour": {
         "value": "#000000",
         "type": "color"
-      },
-      "hover": {
+      }
+    },
+    "hover": {
+      "color": {
         "value": "#2E2E2E",
         "type": "color"
       }
