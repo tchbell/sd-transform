@@ -1,13 +1,35 @@
 {
   "list": {
-    "text": {
-      "typography": {
-        "value": "{general.global.S-1-default}",
-        "type": "typography"
-      },
-      "color": {
-        "value": "{token.font.list.default}",
-        "type": "color"
+    "default": {
+      "text": {
+        "typography": {
+          "value": "{general.global.S-1-default}",
+          "type": "typography"
+        }
+      }
+    },
+    "rested": {
+      "text": {
+        "color": {
+          "value": "{token.font.list.default}",
+          "type": "color"
+        }
+      }
+    },
+    "active": {
+      "text": {
+        "color": {
+          "value": "{token.font.links.link-neutral-default}",
+          "type": "color"
+        }
+      }
+    },
+    "underlined": {
+      "text": {
+        "typography": {
+          "value": "{general.global.S-1-link}",
+          "type": "typography"
+        }
       }
     }
   }
