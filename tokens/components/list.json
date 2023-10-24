@@ -1,0 +1,14 @@
+{
+  "list": {
+    "text": {
+      "typography": {
+        "value": "{general.global.S-1-default}",
+        "type": "typography"
+      },
+      "color": {
+        "value": "{token.font.list.default}",
+        "type": "color"
+      }
+    }
+  }
+}

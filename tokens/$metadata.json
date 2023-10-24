@@ -12,6 +12,7 @@
     "components/text",
     "components/breadcrumbs",
     "components/tabs",
+    "components/list",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
