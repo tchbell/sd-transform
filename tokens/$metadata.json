@@ -16,6 +16,8 @@
     "components/separator",
     "components/pagination",
     "components/progress",
+    "components/pictograms",
+    "components/filtertags",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
