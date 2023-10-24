@@ -1,0 +1,18 @@
+{
+  "video": {
+    "scrubber": {
+      "progress bar": {
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "pointer": {
+      "active": {
+        "value": "#DB8332",
+        "type": "color"
+      }
+    }
+  }
+}
