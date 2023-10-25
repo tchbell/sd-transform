@@ -5,6 +5,7 @@
     "old/shadows",
     "old/color",
     "core/colors",
+    "core/dimension",
     "semantic/simple",
     "semantic/granular",
     "components/button",

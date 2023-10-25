@@ -1,0 +1,164 @@
+{
+  "spacing": {
+    "S-0": {
+      "value": "{dimension.0_125}",
+      "type": "spacing"
+    },
+    "S-1": {
+      "value": "{dimension.0_25}",
+      "type": "spacing"
+    },
+    "S-2": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    },
+    "S-3": {
+      "value": "16",
+      "type": "spacing"
+    },
+    "S-4": {
+      "value": "20",
+      "type": "spacing"
+    },
+    "S-5": {
+      "value": "24",
+      "type": "spacing"
+    },
+    "S-6": {
+      "value": "32",
+      "type": "spacing"
+    },
+    "S-7": {
+      "value": "40",
+      "type": "spacing"
+    },
+    "S-8": {
+      "value": "48",
+      "type": "spacing"
+    },
+    "S-9": {
+      "value": "64",
+      "type": "spacing"
+    },
+    "S-10": {
+      "value": "80",
+      "type": "spacing"
+    },
+    "S-11": {
+      "value": "96",
+      "type": "spacing"
+    },
+    "S-12": {
+      "value": "120",
+      "type": "spacing"
+    },
+    "none": {
+      "value": "{dimension.0}",
+      "type": "spacing"
+    }
+  },
+  "util": {
+    "baseFontSize": {
+      "value": "16px",
+      "type": "dimension"
+    },
+    "roundness": {
+      "value": "4",
+      "type": "number"
+    },
+    "borderThickness": {
+      "value": "2",
+      "type": "number"
+    }
+  },
+  "dimension": {
+    "0": {
+      "value": "0rem",
+      "type": "dimension"
+    },
+    "100": {
+      "value": "1rem",
+      "type": "dimension"
+    },
+    "125": {
+      "value": "1.25rem",
+      "type": "dimension"
+    },
+    "150": {
+      "value": "1.5rem",
+      "type": "dimension"
+    },
+    "200": {
+      "value": "2rem",
+      "type": "dimension"
+    },
+    "250": {
+      "value": "2.5rem",
+      "type": "dimension"
+    },
+    "300": {
+      "value": "3rem",
+      "type": "dimension"
+    },
+    "400": {
+      "value": "4rem",
+      "type": "dimension"
+    },
+    "500": {
+      "value": "5rem",
+      "type": "dimension"
+    },
+    "600": {
+      "value": "6rem",
+      "type": "dimension"
+    },
+    "700": {
+      "value": "7rem",
+      "type": "dimension"
+    },
+    "750": {
+      "value": "7.5rem",
+      "type": "dimension"
+    },
+    "0_125": {
+      "value": "0.125rem",
+      "type": "dimension"
+    },
+    "0_25": {
+      "value": "0.25rem",
+      "type": "dimension"
+    },
+    "0_50": {
+      "value": "0.5rem",
+      "type": "dimension"
+    }
+  },
+  "border-radius": {
+    "0": {
+      "value": "0rem",
+      "type": "borderRadius"
+    },
+    "1": {
+      "value": "{dimension.0_25}",
+      "type": "borderRadius"
+    },
+    "2": {
+      "value": "{dimension.0_25} * {util.roundness}",
+      "type": "borderRadius"
+    }
+  },
+  "border-width": {
+    "0": {
+      "value": "0",
+      "type": "borderWidth"
+    },
+    "1": {
+      "value": "1",
+      "type": "borderWidth"
+    },
+    "2": {
+      "value": "2",
+      "type": "borderWidth"
+    }
+  }
+}

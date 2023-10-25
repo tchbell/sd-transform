@@ -2,7 +2,7 @@
   "semantic": {
     "color": {
       "actions": {
-        "solid": {
+        "primary-cta": {
           "primary": {
             "rested": {
               "bg": {
@@ -178,7 +178,7 @@
             }
           }
         },
-        "outline": {
+        "secondary-cta": {
           "primary": {
             "rested": {
               "border": {
@@ -306,7 +306,7 @@
             }
           }
         },
-        "minimal": {
+        "tertiary-cta": {
           "primary": {
             "rested": {
               "fg": {
