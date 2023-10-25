@@ -7,6 +7,10 @@
             "value": "{semantic.color.actions.solid.primary.rested.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.primary.rested.border}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.solid.primary.rested.fg}",
             "type": "color"
@@ -15,6 +19,10 @@
         "hover": {
           "bg-color": {
             "value": "{semantic.color.actions.solid.primary.hover.bg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.primary.hover.border}",
             "type": "color"
           },
           "fg-color": {
@@ -27,6 +35,10 @@
             "value": "{semantic.color.actions.solid.primary.disabled.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.primary.disabled.border}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.solid.primary.disabled.fg}",
             "type": "color"
@@ -35,6 +47,10 @@
         "active": {
           "bg-color": {
             "value": "{semantic.color.actions.solid.primary.active.bg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.primary.active.border}",
             "type": "color"
           },
           "fg-color": {
@@ -49,6 +65,10 @@
             "value": "{semantic.color.actions.solid.secondary.rested.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.secondary.rested.border}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.solid.secondary.rested.fg}",
             "type": "color"
@@ -57,6 +77,10 @@
         "hover": {
           "bg-color": {
             "value": "{semantic.color.actions.solid.secondary.hover.bg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.secondary.hover.border}",
             "type": "color"
           },
           "fg-color": {
@@ -69,6 +93,10 @@
             "value": "{semantic.color.actions.solid.secondary.disabled.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.secondary.disabled.border}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.outline.secondary.disabled.fg}",
             "type": "color"
@@ -77,6 +105,10 @@
         "active": {
           "bg-color": {
             "value": "{semantic.color.actions.solid.secondary.active.bg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.secondary.active.border}",
             "type": "color"
           },
           "fg-color": {
@@ -91,6 +123,10 @@
             "value": "{semantic.color.actions.solid.inverse.rested.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.inverse.rested.bg}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.solid.inverse.rested.fg}",
             "type": "color"
@@ -98,6 +134,10 @@
         },
         "hover": {
           "bg-color": {
+            "value": "{semantic.color.actions.solid.inverse.hover.bg}",
+            "type": "color"
+          },
+          "border-color": {
             "value": "{semantic.color.actions.solid.inverse.hover.bg}",
             "type": "color"
           },
@@ -111,6 +151,10 @@
             "value": "{semantic.color.actions.solid.inverse.disabled.bg}",
             "type": "color"
           },
+          "border-color": {
+            "value": "{semantic.color.actions.solid.inverse.disabled.bg}",
+            "type": "color"
+          },
           "fg-color": {
             "value": "{semantic.color.actions.solid.inverse.disabled.fg}",
             "type": "color"
@@ -118,6 +162,10 @@
         },
         "active": {
           "bg-color": {
+            "value": "{semantic.color.actions.solid.inverse.active.bg}",
+            "type": "color"
+          },
+          "border-color": {
             "value": "{semantic.color.actions.solid.inverse.active.bg}",
             "type": "color"
           },
@@ -131,8 +179,8 @@
     "outline": {
       "primary": {
         "rested": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.primary.rested.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.primary.rested.border}",
             "type": "color"
           },
           "fg-color": {
@@ -141,8 +189,8 @@
           }
         },
         "hover": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.primary.hover.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.primary.hover.border}",
             "type": "color"
           },
           "fg-color": {
@@ -151,8 +199,8 @@
           }
         },
         "disabled": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.primary.disabled.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.primary.disabled.border}",
             "type": "color"
           },
           "fg-color": {
@@ -161,8 +209,8 @@
           }
         },
         "active": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.primary.active.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.primary.active.border}",
             "type": "color"
           },
           "fg-color": {
@@ -173,8 +221,8 @@
       },
       "secondary": {
         "rested": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.secondary.rested.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.secondary.rested.border}",
             "type": "color"
           },
           "fg-color": {
@@ -183,8 +231,8 @@
           }
         },
         "hover": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.secondary.hover.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.secondary.hover.border}",
             "type": "color"
           },
           "fg-color": {
@@ -193,8 +241,8 @@
           }
         },
         "disabled": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.secondary.disabled.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.secondary.disabled.border}",
             "type": "color"
           },
           "fg-color": {
@@ -203,8 +251,8 @@
           }
         },
         "active": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.secondary.active.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.secondary.active.border}",
             "type": "color"
           },
           "fg-color": {
@@ -215,8 +263,8 @@
       },
       "inverse": {
         "rested": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.inverse.rested.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.inverse.rested.border}",
             "type": "color"
           },
           "fg-color": {
@@ -225,8 +273,8 @@
           }
         },
         "hover": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.inverse.hover.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.inverse.hover.border}",
             "type": "color"
           },
           "fg-color": {
@@ -235,8 +283,8 @@
           }
         },
         "disabled": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.inverse.disabled.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.inverse.disabled.border}",
             "type": "color"
           },
           "fg-color": {
@@ -245,8 +293,8 @@
           }
         },
         "active": {
-          "bg-color": {
-            "value": "{semantic.color.actions.outline.inverse.active.bg}",
+          "border-color": {
+            "value": "{semantic.color.actions.outline.inverse.active.border}",
             "type": "color"
           },
           "fg-color": {
