@@ -78,59 +78,73 @@
     },
     "100": {
       "value": "1rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "16 px"
     },
     "125": {
       "value": "1.25rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "20 px"
     },
     "150": {
       "value": "1.5rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "24 px\n"
     },
     "200": {
       "value": "2rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "32 px"
     },
     "250": {
       "value": "2.5rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "40 px"
     },
     "300": {
       "value": "3rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "48 px"
     },
     "400": {
       "value": "4rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "64 px"
     },
     "500": {
       "value": "5rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "80 px"
     },
     "600": {
       "value": "6rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "96 px"
     },
     "700": {
       "value": "7rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "112 px"
     },
     "750": {
       "value": "7.5rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "120 px"
     },
     "0_125": {
       "value": "0.125rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "2 px"
     },
     "0_25": {
       "value": "0.25rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "4 px"
     },
     "0_50": {
       "value": "0.5rem",
-      "type": "dimension"
+      "type": "dimension",
+      "description": "8 px"
     }
   },
   "border-radius": {

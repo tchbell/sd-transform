@@ -453,6 +453,16 @@
           "type": "color"
         }
       }
+    },
+    "spacing": {
+      "actions": {
+        "small": {
+          "padding-left": {
+            "value": "{dimension.0_25}",
+            "type": "spacing"
+          }
+        }
+      }
     }
   }
 }
