@@ -456,12 +456,24 @@
     },
     "spacing": {
       "actions": {
-        "small": {
-          "padding-left": {
-            "value": "{dimension.0_25}",
-            "type": "spacing"
-          }
+        "padding-horizontal": {
+          "value": "{dimension.100}",
+          "type": "spacing"
+        },
+        "padding-vertical": {
+          "value": "{dimension.100}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.0_50}",
+          "type": "spacing"
         }
+      }
+    },
+    "actions": {
+      "border-radius": {
+        "value": "{border-radius.0}",
+        "type": "borderRadius"
       }
     }
   }
