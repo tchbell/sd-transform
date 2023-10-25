@@ -13,6 +13,12 @@
         "value": "#000000",
         "type": "color"
       }
+    },
+    "text": {
+      "typography": {
+        "value": "{general.global.XS-1-default}",
+        "type": "typography"
+      }
     }
   }
 }
