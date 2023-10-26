@@ -1,28 +1,64 @@
 {
-  "filter-tags": {
-    "resting": {
-      "color": {
+  "filter-tag": {
+    "rested": {
+      "text-color": {
         "value": "#A1A1A1",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "#e1e1e1",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "#FCFCFC",
         "type": "color"
       }
     },
     "hover": {
-      "color": {
+      "text-color": {
         "value": "#454545",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "#e1e1e1",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "#fcfcfc",
         "type": "color"
       }
     },
     "active": {
-      "color": {
+      "text-color": {
         "value": "#000000",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "#e1e1e1",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "#fcfcfc",
         "type": "color"
       }
     },
     "disabled": {
-      "color": {
+      "text-color": {
         "value": "#B7B7B7",
         "type": "color"
+      },
+      "border-color": {
+        "value": "#e2e2e2",
+        "type": "color"
+      },
+      "background-color": {
+        "value": "#eaeaea",
+        "type": "color"
       }
+    },
+    "border-width": {
+      "value": "{border-width.1}",
+      "type": "borderWidth"
     }
   },
   "filter tags": {
