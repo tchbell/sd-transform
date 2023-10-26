@@ -407,7 +407,7 @@
       "type": "borderRadius"
     },
     "height": {
-      "value": "56",
+      "value": "{semantic.sizing.actions.height}",
       "type": "sizing"
     }
   }

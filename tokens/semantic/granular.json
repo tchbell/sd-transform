@@ -475,6 +475,14 @@
         "value": "{border-radius.0}",
         "type": "borderRadius"
       }
+    },
+    "sizing": {
+      "actions": {
+        "height": {
+          "value": "{dimension.350}",
+          "type": "sizing"
+        }
+      }
     }
   }
 }
