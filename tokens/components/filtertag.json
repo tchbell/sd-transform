@@ -68,5 +68,19 @@
         "type": "typography"
       }
     }
+  },
+  "filtertag": {
+    "height": {
+      "value": "{dimension.500}",
+      "type": "sizing"
+    },
+    "width": {
+      "value": "{dimension.500}",
+      "type": "sizing"
+    },
+    "padding-horizontal": {
+      "value": "{dimension.150}",
+      "type": "spacing"
+    }
   }
 }

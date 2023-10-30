@@ -70,9 +70,31 @@
     },
     "title": {
       "typography": {
-        "value": "{headline.VPM.headline-M}",
+        "value": "{title.VPM.headline-M}",
         "type": "typography"
       }
+    },
+    "height": {
+      "value": "{dimension.250}",
+      "type": "sizing"
+    },
+    "width": {
+      "value": "{dimension.1000}",
+      "type": "sizing"
+    },
+    "progress-number": {
+      "height": {
+        "value": "{semantic.sizing.navigation.medium.height}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.navigation.medium.width}",
+        "type": "sizing"
+      }
+    },
+    "gap": {
+      "value": "{dimension.100}",
+      "type": "spacing"
     }
   }
 }

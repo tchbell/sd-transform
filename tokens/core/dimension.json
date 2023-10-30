@@ -58,7 +58,7 @@
     }
   },
   "util": {
-    "baseFontSize": {
+    "baseRem": {
       "value": "16px",
       "type": "dimension"
     },
@@ -135,6 +135,11 @@
       "value": "7.5rem",
       "type": "dimension",
       "description": "120 px"
+    },
+    "1000": {
+      "value": "10rem",
+      "type": "dimension",
+      "description": "160px"
     },
     "0_125": {
       "value": "0.125rem",

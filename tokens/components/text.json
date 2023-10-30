@@ -55,7 +55,7 @@
     "default": {
       "text": {
         "color": {
-          "value": "{semantic.default.text.color}",
+          "value": "{semantic.color.typography.default.text.color}",
           "type": "color"
         }
       }
@@ -63,7 +63,7 @@
     "accent": {
       "text": {
         "color": {
-          "value": "{semantic.accent.text.color}",
+          "value": "{semantic.color.typography.accent.text.color}",
           "type": "color"
         }
       }

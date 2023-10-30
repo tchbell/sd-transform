@@ -1,23 +1,41 @@
 {
   "breadcrumbs": {
-    "default": {
-      "resting": {
-        "value": "#5C5C5C",
-        "type": "color",
-        "elipsis": {
+    "rested": {
+      "text": {
+        "color": {
           "value": "#5C5C5C",
+          "type": "color",
+          "elipsis": {
+            "value": "#5C5C5C",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "active": {
+      "text": {
+        "color": {
+          "value": "#000000",
           "type": "color"
         }
-      },
-      "active": {
-        "value": "#000000",
-        "type": "color"
       }
     },
     "text": {
       "typography": {
         "value": "{general.global.XS-1-default}",
         "type": "typography"
+      }
+    }
+  },
+  "breadcrumb": {
+    "separator": {
+      "width": {
+        "value": "1",
+        "type": "sizing"
+      },
+      "height": {
+        "value": "16",
+        "type": "sizing"
       }
     }
   }

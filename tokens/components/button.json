@@ -385,7 +385,7 @@
       }
     },
     "padding-horizontal": {
-      "value": "{semantic.spacing.actions.padding-horizontal}",
+      "value": "{semantic.spacing.actions.large.padding-horizontal}",
       "type": "spacing"
     },
     "label": {
@@ -395,20 +395,16 @@
       }
     },
     "padding-vertical": {
-      "value": "{semantic.spacing.actions.padding-vertical}",
+      "value": "{semantic.spacing.actions.large.padding-vertical}",
       "type": "spacing"
     },
     "gap": {
-      "value": "{semantic.spacing.actions.gap}",
+      "value": "{semantic.spacing.actions.large.gap}",
       "type": "spacing"
     },
     "border-radius": {
       "value": "{semantic.actions.border-radius}",
       "type": "borderRadius"
-    },
-    "height": {
-      "value": "{semantic.sizing.actions.height}",
-      "type": "sizing"
     }
   }
 }
