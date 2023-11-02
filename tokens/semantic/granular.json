@@ -546,7 +546,7 @@
             },
             "text": {
               "color": {
-                "value": "{color.neutrals.black}",
+                "value": "{color.grey.500}",
                 "type": "color"
               }
             }
@@ -571,10 +571,18 @@
               "type": "color"
             }
           },
-          "checkmark": {
-            "border-color": {
-              "value": "{color.status.error}",
-              "type": "color"
+          "checkbox": {
+            "checkmark": {
+              "border-color": {
+                "value": "{color.status.error}",
+                "type": "color"
+              }
+            },
+            "text": {
+              "color": {
+                "value": "{color.status.error}",
+                "type": "color"
+              }
             }
           }
         },
@@ -605,13 +613,13 @@
               }
             }
           },
-          "checkmark": {
-            "border-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
-          },
           "checkbox": {
+            "checkmark": {
+              "border-color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            },
             "text": {
               "color": {
                 "value": "{color.neutrals.black}",
@@ -633,14 +641,22 @@
               "type": "color"
             }
           },
-          "checkmark": {
-            "bg-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
+          "checkbox": {
+            "checkmark": {
+              "bg-color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              },
+              "border-color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
             },
-            "border-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
+            "text": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
             }
           }
         },
@@ -653,14 +669,22 @@
           }
         },
         "disabled-filled": {
-          "checkmark": {
-            "bg-color": {
-              "value": "{color.grey.500}",
-              "type": "color"
+          "checkbox": {
+            "checkmark": {
+              "bg-color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              },
+              "border-color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
             },
-            "border-color": {
-              "value": "{color.grey.500}",
-              "type": "color"
+            "text": {
+              "color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
             }
           }
         }
