@@ -6,7 +6,7 @@
         "type": "typography"
       },
       "color": {
-        "value": "{token.font.copy.1-emphasis}",
+        "value": "{semantic.color.pagination.text.color}",
         "type": "color"
       }
     },
@@ -14,16 +14,12 @@
       "typography": {
         "value": "{general.global.XS-1-default}",
         "type": "typography"
-      },
-      "color": {
-        "value": "{token.form.dropdown.dropdowntext-default}",
-        "type": "color"
       }
     },
     "active": {
       "scrubber": {
         "color": {
-          "value": "{token.scrubber-progress-pagination.pagination-active}",
+          "value": "{semantic.color.pagination.active.scrubber.color}",
           "type": "color"
         }
       }
@@ -31,15 +27,9 @@
     "rested": {
       "scrubber": {
         "color": {
-          "value": "{token.scrubber-progress-pagination.pagination-default}",
+          "value": "{semantic.color.pagination.rested.scrubber.color}",
           "type": "color"
         }
-      }
-    },
-    "border": {
-      "color": {
-        "value": "{token.form.border.border-default}",
-        "type": "color"
       }
     }
   }

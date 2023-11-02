@@ -389,17 +389,277 @@
       },
       "typography": {
         "default": {
-          "text": {
+          "text-color": {
+            "value": "{token.font.copy.1-default}",
+            "type": "color"
+          }
+        },
+        "accent": {
+          "text-color": {
+            "value": "{token.font.copy.copy-accent}",
+            "type": "color"
+          }
+        }
+      },
+      "list": {
+        "rested": {
+          "text-color": {
+            "value": "{color.grey.700}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "text-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        },
+        "title-color": {
+          "value": "{color.grey.600}",
+          "type": "color"
+        }
+      },
+      "pagination": {
+        "rested": {
+          "scrubber": {
             "color": {
-              "value": "{token.font.copy.1-default}",
+              "value": "{color.grey.500}",
               "type": "color"
             }
           }
         },
-        "accent": {
-          "text": {
+        "active": {
+          "scrubber": {
             "color": {
-              "value": "{token.font.copy.copy-accent}",
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          }
+        },
+        "text": {
+          "color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        }
+      },
+      "inputs": {
+        "default": {
+          "label": {
+            "color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "inputtext": {
+            "color": {
+              "value": "{color.grey.600}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            }
+          },
+          "helpertext": {
+            "color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            }
+          },
+          "dropdown": {
+            "text": {
+              "color": {
+                "value": "{color.grey.700}",
+                "type": "color"
+              }
+            },
+            "line": {
+              "color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
+            }
+          },
+          "checkbox": {
+            "checkmark": {
+              "border-color": {
+                "value": "{color.grey.600}",
+                "type": "color"
+              }
+            },
+            "text": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "disabled": {
+          "label": {
+            "color": {
+              "value": "{color.grey.600}",
+              "type": "color"
+            }
+          },
+          "inputtext": {
+            "color": {
+              "value": "{color.grey.500}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "color": {
+              "value": "{color.grey.600}",
+              "type": "color"
+            }
+          },
+          "helpertext": {
+            "color": {
+              "value": "{color.grey.600}",
+              "type": "color"
+            }
+          },
+          "dropdown": {
+            "text": {
+              "color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
+            },
+            "line": {
+              "color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
+            }
+          },
+          "checkbox": {
+            "checkmark": {
+              "border-color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
+            },
+            "text": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "error": {
+          "label": {
+            "color": {
+              "value": "{color.status.error}",
+              "type": "color"
+            }
+          },
+          "inputtext": {
+            "color": {
+              "value": "{color.status.error}",
+              "type": "color"
+            }
+          },
+          "helpertext": {
+            "color": {
+              "value": "{color.status.error}",
+              "type": "color"
+            }
+          },
+          "checkmark": {
+            "border-color": {
+              "value": "{color.status.error}",
+              "type": "color"
+            }
+          }
+        },
+        "hover": {
+          "inputtext": {
+            "color": {
+              "value": "{color.grey.800}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "dropdown": {
+            "text": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            },
+            "line": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            }
+          },
+          "checkmark": {
+            "border-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "checkbox": {
+            "text": {
+              "color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "filled": {
+          "inputtext": {
+            "color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "line": {
+            "color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "checkmark": {
+            "bg-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          }
+        },
+        "success": {
+          "helpertext": {
+            "color": {
+              "value": "{color.status.success}",
+              "type": "color"
+            }
+          }
+        },
+        "disabled-filled": {
+          "checkmark": {
+            "bg-color": {
+              "value": "{color.grey.500}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.grey.500}",
               "type": "color"
             }
           }
@@ -459,11 +719,19 @@
     "spacing": {
       "actions": {
         "large": {
-          "padding-horizontal": {
+          "padding-right": {
             "value": "{dimension.100}",
             "type": "spacing"
           },
-          "padding-vertical": {
+          "padding-left": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
             "value": "{dimension.100}",
             "type": "spacing"
           },
@@ -473,11 +741,19 @@
           }
         },
         "medium": {
-          "padding-horizontal": {
+          "padding-right": {
             "value": "{dimension.0_50}",
             "type": "spacing"
           },
-          "padding-vertical": {
+          "padding-left": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
             "value": "{dimension.0_50}",
             "type": "spacing"
           },

@@ -43,11 +43,11 @@
       }
     },
     "padding-horizontal": {
-      "value": "{semantic.spacing.actions.large.padding-horizontal}",
+      "value": "{semantic.spacing.actions.large.padding-right}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{semantic.spacing.actions.medium.padding-vertical}",
+      "value": "{semantic.spacing.actions.medium.padding-top}",
       "type": "spacing"
     },
     "gap": {

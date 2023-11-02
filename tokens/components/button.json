@@ -384,18 +384,26 @@
         }
       }
     },
-    "padding-horizontal": {
-      "value": "{semantic.spacing.actions.large.padding-horizontal}",
+    "padding-right": {
+      "value": "{semantic.spacing.actions.large.padding-right}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{semantic.spacing.actions.large.padding-left}",
       "type": "spacing"
     },
     "label": {
       "typography": {
-        "value": "{button.button-title}",
+        "value": "{button.label}",
         "type": "typography"
       }
     },
-    "padding-vertical": {
-      "value": "{semantic.spacing.actions.large.padding-vertical}",
+    "padding-top": {
+      "value": "{semantic.spacing.actions.large.padding-top}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.actions.large.padding-bottom}",
       "type": "spacing"
     },
     "gap": {

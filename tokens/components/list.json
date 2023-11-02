@@ -9,7 +9,7 @@
           }
         }
       },
-      "underline": {
+      "hover": {
         "text": {
           "typography": {
             "value": "{general.global.S-1-link}",
@@ -21,7 +21,7 @@
     "title": {
       "text": {
         "color": {
-          "value": "{token.font.copy.1-subtle}",
+          "value": "{semantic.color.list.title-color}",
           "type": "color"
         },
         "typography": {
@@ -33,7 +33,7 @@
     "active": {
       "text": {
         "color": {
-          "value": "{token.font.links.link-neutral-default}",
+          "value": "{semantic.color.list.active.text-color}",
           "type": "color"
         }
       }
@@ -41,10 +41,14 @@
     "rested": {
       "text": {
         "color": {
-          "value": "{token.font.list.default}",
+          "value": "{semantic.color.list.rested.text-color}",
           "type": "color"
         }
       }
+    },
+    "gap": {
+      "value": "16",
+      "type": "spacing"
     }
   }
 }
