@@ -10,6 +10,8 @@
     "semantic/simple",
     "semantic/typography",
     "semantic/granular",
+    "view-overrides/VPM",
+    "view-overrides/VPS",
     "components/title",
     "components/text",
     "components/list",
