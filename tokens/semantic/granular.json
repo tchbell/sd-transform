@@ -481,6 +481,12 @@
                 "value": "{color.grey.500}",
                 "type": "color"
               }
+            },
+            "bg": {
+              "color": {
+                "value": "{color.neutrals.white}",
+                "type": "color"
+              }
             }
           },
           "checkbox": {
@@ -785,6 +791,16 @@
             "value": "{dimension.0_50}",
             "type": "spacing"
           }
+        }
+      },
+      "inputs": {
+        "padding-top": {
+          "value": "{dimension.0_50}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{dimension.0_50}",
+          "type": "spacing"
         }
       }
     },

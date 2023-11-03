@@ -1,0 +1,50 @@
+{
+  "accordion": {
+    "text": {
+      "typography": {
+        "value": "{general.global.S-1-default}",
+        "type": "typography"
+      }
+    },
+    "default": {
+      "line": {
+        "color": {
+          "value": "#CFCFCF",
+          "type": "color"
+        }
+      }
+    },
+    "hover": {
+      "line": {
+        "color": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "expanded": {
+      "line": {
+        "color": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "title": {
+      "color": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "circle": {
+      "color": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      }
+    },
+    "gap": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    }
+  }
+}

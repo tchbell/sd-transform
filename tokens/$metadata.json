@@ -6,7 +6,9 @@
     "old/color",
     "core/colors",
     "core/dimension",
+    "core/font",
     "semantic/simple",
+    "semantic/typography",
     "semantic/granular",
     "components/title",
     "components/text",
@@ -21,10 +23,10 @@
     "components/pictograms",
     "components/progress",
     "components/video",
+    "components/accordion",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
-    "Brands/BrandA/theme",
-    "TYPOGRAPHY DEMO"
+    "Brands/BrandA/theme"
   ]
 }

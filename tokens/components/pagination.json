@@ -26,6 +26,10 @@
     },
     "rested": {
       "scrubber": {
+        "40": {
+          "value": "0.4",
+          "type": "opacity"
+        },
         "color": {
           "value": "{semantic.color.pagination.rested.scrubber.color}",
           "type": "color"
