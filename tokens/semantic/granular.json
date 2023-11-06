@@ -721,17 +721,7 @@
       },
       "button": {
         "label": {
-          "value": {
-            "fontFamily": "{fontFamilies.text}",
-            "fontWeight": "{fontWeights.helvetica-neue-2}",
-            "lineHeight": "{lineHeights.10}",
-            "fontSize": "{fontSize.f0}",
-            "letterSpacing": "{letterSpacing.wider}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.uppercase}",
-            "textDecoration": "{textDecoration.none}"
-          },
+          "value": "{semantic.typography.text.sm.emphasis}",
           "type": "typography"
         }
       },
@@ -753,11 +743,11 @@
       },
       "eyebrow": {
         "md": {
-          "value": "{semantic.typography.static.md.emphasis}",
+          "value": "{semantic.typography.text.md.emphasis}",
           "type": "typography"
         },
         "sm": {
-          "value": "{semantic.typography.static.xs.emphasis-heavy}",
+          "value": "{semantic.typography.text.xs.emphasis-heavy}",
           "type": "typography"
         }
       }
@@ -766,7 +756,7 @@
       "xxl": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.responsive.xxl}",
+            "value": "{semantic.typography.title.xxl.default}",
             "type": "typography"
           }
         }
@@ -774,7 +764,7 @@
       "xl": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.responsive.xl}",
+            "value": "{semantic.typography.title.xl.default}",
             "type": "typography"
           }
         }

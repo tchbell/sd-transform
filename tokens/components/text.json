@@ -4,7 +4,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.static.md.default}",
+            "value": "{semantic.typography.text.md.default}",
             "type": "typography"
           }
         }
