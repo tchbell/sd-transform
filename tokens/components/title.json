@@ -47,6 +47,12 @@
           "type": "typography"
         }
       }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.contrast.text-color}",
+        "type": "color"
+      }
     }
   }
 }

@@ -1,33 +1,5 @@
 {
   "text": {
-    "M-1-default": {
-      "value": {
-        "fontFamily": "{fontFamilies.text}",
-        "fontWeight": "{fontWeights.text.400}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
-        "letterSpacing": "{letterSpacing.0}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.none}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
-    "M-1-emphasis": {
-      "value": {
-        "fontFamily": "{fontFamilies.text}",
-        "fontWeight": "{fontWeights.helvetica-neue-1}",
-        "lineHeight": "{lineHeights.0}",
-        "fontSize": "{fontSize.3}",
-        "letterSpacing": "{letterSpacing.1}",
-        "paragraphSpacing": "{paragraphSpacing.0}",
-        "paragraphIndent": "{paragraphIndent.0}",
-        "textCase": "{textCase.uppercase}",
-        "textDecoration": "{textDecoration.none}"
-      },
-      "type": "typography"
-    },
     "S": {
       "default": {
         "value": {

@@ -394,7 +394,7 @@
     },
     "label": {
       "typography": {
-        "value": "{button.label}",
+        "value": "{text.XS.emphasis}",
         "type": "typography"
       }
     },

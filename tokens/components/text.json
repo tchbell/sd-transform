@@ -1,15 +1,15 @@
 {
   "text": {
     "default-emphasis": {
-      "s": {
+      "md": {
         "text": {
           "typography": {
-            "value": "{general.global.S-1-default}",
+            "value": "{text.S.default}",
             "type": "typography"
           }
         }
       },
-      "xs": {
+      "sm": {
         "text": {
           "typography": {
             "value": "{general.global.XS-1-default}",
@@ -17,7 +17,7 @@
           }
         }
       },
-      "xxs": {
+      "xs": {
         "text": {
           "typography": {
             "value": "{general.global.XXS-1-default}",
@@ -27,7 +27,7 @@
       }
     },
     "heavy-emphasis": {
-      "s": {
+      "md": {
         "text": {
           "typography": {
             "value": "{general.global.S-2-emphasis}",
@@ -35,7 +35,7 @@
           }
         }
       },
-      "xs": {
+      "sm": {
         "text": {
           "typography": {
             "value": "{general.global.XS-1-emphasis}",
@@ -43,7 +43,7 @@
           }
         }
       },
-      "xxs": {
+      "xs": {
         "text": {
           "typography": {
             "value": "{general.global.XXS-2-emphasis}",
