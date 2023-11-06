@@ -2,7 +2,7 @@
   "title": {
     "XXL": {
       "value": {
-        "fontFamily": "{fontFamilies.text}",
+        "fontFamily": "{fontFamilies.title}",
         "fontWeight": "{fontWeights.helvetica-neue-4}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.9}",
@@ -16,7 +16,7 @@
     },
     "XL": {
       "value": {
-        "fontFamily": "{fontFamilies.text}",
+        "fontFamily": "{fontFamilies.title}",
         "fontWeight": "{fontWeights.helvetica-neue-4}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.8}",
@@ -30,7 +30,7 @@
     },
     "L": {
       "value": {
-        "fontFamily": "{fontFamilies.text}",
+        "fontFamily": "{fontFamilies.title}",
         "fontWeight": "{fontWeights.text.400}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.5}",
@@ -44,7 +44,7 @@
     },
     "M": {
       "value": {
-        "fontFamily": "{fontFamilies.text}",
+        "fontFamily": "{fontFamilies.title}",
         "fontWeight": "{fontWeights.text.400}",
         "lineHeight": "{lineHeights.0}",
         "fontSize": "{fontSize.4}",
@@ -54,6 +54,14 @@
         "textCase": "{textCase.none}",
         "textDecoration": "{textDecoration.none}"
       },
+      "type": "typography"
+    },
+    "subline": {
+      "value": "{text.S.emphasis}",
+      "type": "typography"
+    },
+    "subline-small": {
+      "value": "{text.XXS.emphasis-CAPS}",
       "type": "typography"
     }
   }

@@ -330,6 +330,14 @@
         "textDecoration": "{textDecoration.none}"
       },
       "type": "typography"
+    },
+    "subline": {
+      "value": "{text.S.emphasis}",
+      "type": "typography"
+    },
+    "subline-small": {
+      "value": "{text.XXS.emphasis-CAPS}",
+      "type": "typography"
     }
   },
   "header": {

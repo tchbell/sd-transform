@@ -35,7 +35,9 @@
     "name": "VPM",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "view-overrides/VPM": "enabled"
+      "view-overrides/VPM": "enabled",
+      "core/font": "source",
+      "semantic/typography": "source"
     },
     "group": "Viewport"
   },
