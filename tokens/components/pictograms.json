@@ -1,0 +1,32 @@
+{
+  "pictograms": {
+    "default": {
+      "colour": {
+        "value": "#000000",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "color": {
+        "value": "#2E2E2E",
+        "type": "color"
+      }
+    },
+    "no info": {
+      "text": {
+        "typography": {
+          "value": "{general.global.XXS-1-default}",
+          "type": "typography"
+        }
+      }
+    },
+    "info": {
+      "text": {
+        "typography": {
+          "value": "{general.global.XXS-1-link}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

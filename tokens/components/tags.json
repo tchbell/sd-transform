@@ -1,0 +1,44 @@
+{
+  "infotag": {
+    "background": {
+      "default": {
+        "color": {
+          "value": "{color.grey.100}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "color": {
+          "value": "{color.grey.800}",
+          "type": "color"
+        }
+      }
+    },
+    "gap": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    },
+    "label": {
+      "default": {
+        "typography": {
+          "value": "{DTC.S-1-default}",
+          "type": "typography"
+        }
+      }
+    },
+    "text": {
+      "default": {
+        "color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
