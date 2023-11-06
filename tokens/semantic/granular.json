@@ -702,6 +702,66 @@
         }
       }
     },
+    "typography": {
+      "header": {
+        "navigation-title": {
+          "value": {
+            "fontFamily": "{fontFamilies.text}",
+            "fontWeight": "{fontWeights.text.400}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.f0}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "button": {
+        "label": {
+          "value": {
+            "fontFamily": "{fontFamilies.text}",
+            "fontWeight": "{fontWeights.helvetica-neue-2}",
+            "lineHeight": "{lineHeights.10}",
+            "fontSize": "{fontSize.f0}",
+            "letterSpacing": "{letterSpacing.wider}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.uppercase}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "footer": {
+        "list-title": {
+          "value": {
+            "fontFamily": "{fontFamilies.text}",
+            "fontWeight": "{fontWeights.text.400}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.f0}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "eyebrow": {
+        "md": {
+          "value": "{semantic.typography.static.md.emphasis}",
+          "type": "typography"
+        },
+        "sm": {
+          "value": "{semantic.typography.static.xs.emphasis-heavy}",
+          "type": "typography"
+        }
+      }
+    },
     "title": {
       "xxl": {
         "text": {
