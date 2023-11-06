@@ -26,6 +26,8 @@
     "components/progress",
     "components/video",
     "components/accordion",
+    "components/message",
+    "components/tags",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",

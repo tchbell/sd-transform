@@ -18,39 +18,51 @@
       "value": "100%",
       "type": "lineHeights"
     },
-    "2": {
-      "value": "150%",
+    "10": {
+      "value": "110%",
       "type": "lineHeights"
     },
-    "3": {
-      "value": "171.43%",
+    "20": {
+      "value": "120%",
       "type": "lineHeights"
     },
-    "4": {
+    "30": {
       "value": "130%",
       "type": "lineHeights"
     },
-    "5": {
-      "value": "100%",
+    "40": {
+      "value": "140%",
       "type": "lineHeights"
     },
-    "6": {
-      "value": "AUTO",
+    "50": {
+      "value": "150%",
       "type": "lineHeights"
     },
-    "7": {
-      "value": "12",
+    "60": {
+      "value": "160%",
       "type": "lineHeights"
     },
-    "10": {
-      "value": "110%",
+    "70": {
+      "value": "170%",
       "type": "lineHeights"
     }
   },
   "fontWeights": {
     "text": {
+      "300": {
+        "value": "Light",
+        "type": "fontWeights"
+      },
       "400": {
         "value": "Regular",
+        "type": "fontWeights"
+      },
+      "500": {
+        "value": "Medium",
+        "type": "fontWeights"
+      },
+      "700": {
+        "value": "Bold",
         "type": "fontWeights"
       },
       "700-italic": {
@@ -58,20 +70,8 @@
         "type": "fontWeights"
       }
     },
-    "helvetica-neue-1": {
-      "value": "Bold",
-      "type": "fontWeights"
-    },
-    "helvetica-neue-2": {
-      "value": "Medium",
-      "type": "fontWeights"
-    },
     "helvetica-neue-3": {
       "value": "Bold Italic",
-      "type": "fontWeights"
-    },
-    "helvetica-neue-4": {
-      "value": "Light",
       "type": "fontWeights"
     },
     "roboto-5": {
@@ -84,43 +84,43 @@
     }
   },
   "fontSize": {
-    "1": {
+    "10": {
       "value": "14",
       "type": "fontSizes"
     },
-    "2": {
+    "20": {
       "value": "16",
       "type": "fontSizes"
     },
-    "3": {
+    "30": {
       "value": "18",
       "type": "fontSizes"
     },
-    "4": {
+    "40": {
       "value": "24",
       "type": "fontSizes"
     },
-    "5": {
+    "50": {
       "value": "32",
       "type": "fontSizes"
     },
-    "6": {
+    "60": {
       "value": "36",
       "type": "fontSizes"
     },
-    "7": {
+    "70": {
       "value": "40",
       "type": "fontSizes"
     },
-    "8": {
+    "80": {
       "value": "52",
       "type": "fontSizes"
     },
-    "9": {
+    "90": {
       "value": "78",
       "type": "fontSizes"
     },
-    "10": {
+    "100": {
       "value": "94",
       "type": "fontSizes"
     },
@@ -134,24 +134,20 @@
       "value": "-1%",
       "type": "letterSpacing"
     },
-    "1": {
-      "value": "0%",
+    "10": {
+      "value": "-0.5%",
       "type": "letterSpacing"
     },
-    "2": {
-      "value": "0",
-      "type": "letterSpacing"
-    },
-    "3": {
+    "20": {
       "value": "6%",
       "type": "letterSpacing"
     },
-    "4": {
+    "30": {
       "value": "7%",
       "type": "letterSpacing"
     },
-    "5": {
-      "value": "-0.5%",
+    "none": {
+      "value": "0%",
       "type": "letterSpacing"
     }
   },

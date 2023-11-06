@@ -2,7 +2,13 @@
   "separator": {
     "default": {
       "color": {
-        "value": "#B7B7B7",
+        "value": "{color.grey.500}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "color": {
+        "value": "{color.neutrals.white}",
         "type": "color"
       }
     }

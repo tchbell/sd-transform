@@ -1,0 +1,18 @@
+{
+  "infotag": {
+    "background": {
+      "default": {
+        "color": {
+          "value": "{color.grey.100}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "color": {
+          "value": "{color.grey.800}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
