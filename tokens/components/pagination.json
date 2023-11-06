@@ -1,27 +1,21 @@
 {
   "pagination": {
-    "text": {
-      "typography": {
-        "value": "{general.global.XXS-1-default}",
-        "type": "typography"
-      },
-      "color": {
-        "value": "{semantic.color.pagination.text.color}",
-        "type": "color"
-      }
+    "text-typography": {
+      "value": "{general.global.XXS-1-default}",
+      "type": "typography"
     },
-    "number": {
-      "typography": {
-        "value": "{general.global.XS-1-default}",
-        "type": "typography"
-      }
+    "text-color": {
+      "value": "{semantic.color.pagination.text.color}",
+      "type": "color"
+    },
+    "number-typography": {
+      "value": "{general.global.XS-1-default}",
+      "type": "typography"
     },
     "active": {
-      "scrubber": {
-        "color": {
-          "value": "{semantic.color.pagination.active.scrubber.color}",
-          "type": "color"
-        }
+      "scrubber-color": {
+        "value": "{semantic.color.pagination.active.scrubber.color}",
+        "type": "color"
       }
     },
     "rested": {
@@ -29,11 +23,11 @@
         "40": {
           "value": "0.4",
           "type": "opacity"
-        },
-        "color": {
-          "value": "{semantic.color.pagination.rested.scrubber.color}",
-          "type": "color"
         }
+      },
+      "scrubber-color": {
+        "value": "{semantic.color.pagination.rested.scrubber.color}",
+        "type": "color"
       }
     }
   }

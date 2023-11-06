@@ -2,70 +2,54 @@
   "text": {
     "default-emphasis": {
       "md": {
-        "text": {
-          "typography": {
-            "value": "{text.S.default}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{text.S.default}",
+          "type": "typography"
         }
       },
       "sm": {
-        "text": {
-          "typography": {
-            "value": "{general.global.XS-1-default}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.XS-1-default}",
+          "type": "typography"
         }
       },
       "xs": {
-        "text": {
-          "typography": {
-            "value": "{general.global.XXS-1-default}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.XXS-1-default}",
+          "type": "typography"
         }
       }
     },
     "heavy-emphasis": {
       "md": {
-        "text": {
-          "typography": {
-            "value": "{general.global.S-2-emphasis}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.S-2-emphasis}",
+          "type": "typography"
         }
       },
       "sm": {
-        "text": {
-          "typography": {
-            "value": "{general.global.XS-1-emphasis}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.XS-1-emphasis}",
+          "type": "typography"
         }
       },
       "xs": {
-        "text": {
-          "typography": {
-            "value": "{general.global.XXS-2-emphasis}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.XXS-2-emphasis}",
+          "type": "typography"
         }
       }
     },
     "default": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.typography.default.text-color}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.default.text-color}",
+        "type": "color"
       }
     },
     "accent": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.typography.accent.text-color}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.accent.text-color}",
+        "type": "color"
       }
     }
   }

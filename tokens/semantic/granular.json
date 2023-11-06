@@ -405,24 +405,24 @@
             "value": "{color.neutrals.black}",
             "type": "color"
           }
-        }
-      },
-      "list": {
-        "rested": {
-          "text-color": {
-            "value": "{color.grey.700}",
+        },
+        "list": {
+          "rested": {
+            "text-color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "title-color": {
+            "value": "{color.grey.600}",
             "type": "color"
           }
-        },
-        "active": {
-          "text-color": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          }
-        },
-        "title-color": {
-          "value": "{color.grey.600}",
-          "type": "color"
         }
       },
       "pagination": {

@@ -2,48 +2,38 @@
   "list": {
     "item": {
       "default": {
-        "text": {
-          "typography": {
-            "value": "{general.global.S-1-default}",
-            "type": "typography"
-          }
+        "text-typography": {
+          "value": "{general.global.S-1-default}",
+          "type": "typography"
         }
       },
       "hover": {
-        "text": {
-          "typography": {
-            "value": "{general.global.S-1-link}",
-            "type": "typography"
-          }
-        }
-      }
-    },
-    "title": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.list.title-color}",
-          "type": "color"
-        },
-        "typography": {
-          "value": "{general.global.XXS-2-emphasis}",
+        "text-typography": {
+          "value": "{general.global.S-1-link}",
           "type": "typography"
         }
       }
     },
+    "title": {
+      "text-color": {
+        "value": "{semantic.color.typography.list.title-color}",
+        "type": "color"
+      },
+      "text-typography": {
+        "value": "{general.global.XXS-2-emphasis}",
+        "type": "typography"
+      }
+    },
     "active": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.list.active.text-color}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.list.active.text-color}",
+        "type": "color"
       }
     },
     "rested": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.list.rested.text-color}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.list.rested.text-color}",
+        "type": "color"
       }
     },
     "gap": {

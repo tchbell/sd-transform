@@ -18,32 +18,32 @@
       "value": "100%",
       "type": "lineHeights"
     },
-    "2": {
-      "value": "150%",
+    "10": {
+      "value": "110%",
       "type": "lineHeights"
     },
-    "3": {
-      "value": "171.43%",
+    "20": {
+      "value": "120%",
       "type": "lineHeights"
     },
-    "4": {
+    "30": {
       "value": "130%",
       "type": "lineHeights"
     },
-    "5": {
-      "value": "100%",
+    "40": {
+      "value": "140%",
       "type": "lineHeights"
     },
-    "6": {
-      "value": "AUTO",
+    "50": {
+      "value": "150%",
       "type": "lineHeights"
     },
-    "7": {
-      "value": "12",
+    "60": {
+      "value": "160%",
       "type": "lineHeights"
     },
-    "10": {
-      "value": "110%",
+    "70": {
+      "value": "170%",
       "type": "lineHeights"
     }
   },
