@@ -747,7 +747,7 @@
           "type": "typography"
         },
         "sm": {
-          "value": "{semantic.typography.text.xs.emphasis-heavy}",
+          "value": "{semantic.typography.text.xs.emphasis-caps}",
           "type": "typography"
         }
       }
