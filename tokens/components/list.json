@@ -4,7 +4,7 @@
       "default": {
         "text": {
           "typography": {
-            "value": "{general.global.S-1-default}",
+            "value": "{semantic.typography.text.md.default}",
             "type": "typography"
           }
         }
@@ -12,7 +12,7 @@
       "hover": {
         "text": {
           "typography": {
-            "value": "{general.global.S-1-link}",
+            "value": "{semantic.typography.text.md.underline}",
             "type": "typography"
           }
         }
