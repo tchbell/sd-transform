@@ -405,24 +405,24 @@
             "value": "{color.neutrals.black}",
             "type": "color"
           }
-        },
-        "list": {
-          "rested": {
-            "text-color": {
-              "value": "{color.grey.700}",
-              "type": "color"
-            }
-          },
-          "active": {
-            "text-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
-          },
-          "title-color": {
-            "value": "{color.grey.600}",
+        }
+      },
+      "list": {
+        "rested": {
+          "text-color": {
+            "value": "{color.grey.700}",
             "type": "color"
           }
+        },
+        "active": {
+          "text-color": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        },
+        "title-color": {
+          "value": "{color.grey.600}",
+          "type": "color"
         }
       },
       "pagination": {
@@ -702,11 +702,61 @@
         }
       }
     },
+    "typography": {
+      "header": {
+        "navigation-title": {
+          "value": {
+            "fontFamily": "{fontFamilies.text}",
+            "fontWeight": "{fontWeights.text.400}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.f0}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "button": {
+        "label": {
+          "value": "{semantic.typography.text.sm.emphasis}",
+          "type": "typography"
+        }
+      },
+      "footer": {
+        "list-title": {
+          "value": {
+            "fontFamily": "{fontFamilies.text}",
+            "fontWeight": "{fontWeights.text.400}",
+            "lineHeight": "{lineHeights.2}",
+            "fontSize": "{fontSize.f0}",
+            "letterSpacing": "{letterSpacing.1}",
+            "paragraphSpacing": "{paragraphSpacing.0}",
+            "paragraphIndent": "{paragraphIndent.0}",
+            "textCase": "{textCase.none}",
+            "textDecoration": "{textDecoration.none}"
+          },
+          "type": "typography"
+        }
+      },
+      "eyebrow": {
+        "md": {
+          "value": "{semantic.typography.text.md.emphasis}",
+          "type": "typography"
+        },
+        "sm": {
+          "value": "{semantic.typography.text.xs.emphasis-heavy}",
+          "type": "typography"
+        }
+      }
+    },
     "title": {
       "xxl": {
         "text": {
           "typography": {
-            "value": "{title.VPL.headline-XXL}",
+            "value": "{semantic.typography.title.xxl.default}",
             "type": "typography"
           }
         }
@@ -714,7 +764,7 @@
       "xl": {
         "text": {
           "typography": {
-            "value": "{title.VPL.headline-XL}",
+            "value": "{semantic.typography.title.xl.default}",
             "type": "typography"
           }
         }
@@ -722,7 +772,7 @@
       "l": {
         "text": {
           "typography": {
-            "value": "{title.VPL.headline-L}",
+            "value": "{semantic.typography.responsive.L}",
             "type": "typography"
           }
         }
@@ -730,12 +780,14 @@
       "m": {
         "text": {
           "typography": {
-            "value": "{title.VPL.headline-M}",
+            "value": "{semantic.typography.responsive.M}",
             "type": "typography"
           }
         }
-      },
-      "subline": {
+      }
+    },
+    "title-eyebrow": {
+      "md": {
         "text": {
           "typography": {
             "value": "{general.global.S-2-emphasis}",
@@ -743,7 +795,7 @@
           }
         }
       },
-      "subline-small": {
+      "sm": {
         "text": {
           "typography": {
             "value": "{general.global.XXS-3-emphasis-CAPS}",
@@ -812,7 +864,7 @@
     },
     "actions": {
       "border-radius": {
-        "value": "{border-radius.0}",
+        "value": "{border-radius.none}",
         "type": "borderRadius"
       }
     },

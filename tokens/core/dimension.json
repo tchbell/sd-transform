@@ -13,43 +13,43 @@
       "type": "spacing"
     },
     "S-3": {
-      "value": "16",
+      "value": "{dimension.100}",
       "type": "spacing"
     },
     "S-4": {
-      "value": "20",
+      "value": "{dimension.125}",
       "type": "spacing"
     },
     "S-5": {
-      "value": "24",
+      "value": "{dimension.150}",
       "type": "spacing"
     },
     "S-6": {
-      "value": "32",
+      "value": "{dimension.200}",
       "type": "spacing"
     },
     "S-7": {
-      "value": "40",
+      "value": "{dimension.250}",
       "type": "spacing"
     },
     "S-8": {
-      "value": "48",
+      "value": "{dimension.300}",
       "type": "spacing"
     },
     "S-9": {
-      "value": "64",
+      "value": "{dimension.300}",
       "type": "spacing"
     },
     "S-10": {
-      "value": "80",
+      "value": "{dimension.500}",
       "type": "spacing"
     },
     "S-11": {
-      "value": "96",
+      "value": "{dimension.600}",
       "type": "spacing"
     },
     "S-12": {
-      "value": "120",
+      "value": "{dimension.750}",
       "type": "spacing"
     },
     "none": {
@@ -63,11 +63,11 @@
       "type": "dimension"
     },
     "roundness": {
-      "value": "4",
+      "value": "1",
       "type": "number"
     },
     "borderThickness": {
-      "value": "2",
+      "value": "1",
       "type": "number"
     }
   },
@@ -158,30 +158,34 @@
     }
   },
   "border-radius": {
-    "0": {
+    "none": {
       "value": "0rem",
       "type": "borderRadius"
     },
-    "1": {
-      "value": "{dimension.0_25}",
+    "sm": {
+      "value": "{border-radius.md}",
       "type": "borderRadius"
     },
-    "2": {
+    "md": {
       "value": "{dimension.0_25} * {util.roundness}",
       "type": "borderRadius"
     }
   },
   "border-width": {
-    "0": {
+    "none": {
       "value": "0",
       "type": "borderWidth"
     },
-    "1": {
-      "value": "1",
+    "xs": {
+      "value": "0.5 * {util.borderThickness}",
       "type": "borderWidth"
     },
-    "2": {
-      "value": "2",
+    "md": {
+      "value": "{util.borderThickness}",
+      "type": "borderWidth"
+    },
+    "lg": {
+      "value": "{util.borderThickness} * 1.5",
       "type": "borderWidth"
     }
   }

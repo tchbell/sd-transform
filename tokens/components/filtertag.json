@@ -57,7 +57,7 @@
       }
     },
     "border-width": {
-      "value": "{border-width.1}",
+      "value": "{border-width.xs}",
       "type": "borderWidth"
     }
   },

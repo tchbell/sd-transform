@@ -394,7 +394,7 @@
     },
     "label": {
       "typography": {
-        "value": "{text.XS.emphasis}",
+        "value": "{semantic.typography.text.sm.emphasis}",
         "type": "typography"
       }
     },
