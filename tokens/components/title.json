@@ -3,7 +3,7 @@
     "xxl": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.xxl.default}",
+          "value": "{semantic.title.xxl.text.typography}",
           "type": "typography"
         }
       }

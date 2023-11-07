@@ -385,6 +385,74 @@
               }
             }
           }
+        },
+        "link": {
+          "primary": {
+            "rested": {
+              "text-color": {
+                "value": "{color.orange.500}",
+                "type": "color"
+              },
+              "icon color": {
+                "value": "{color.orange.500}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "text-color": {
+                "value": "{color.orange.300}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{color.orange.300}",
+                "type": "color"
+              }
+            }
+          },
+          "secondary": {
+            "rested": {
+              "text-color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{color.neutrals.black}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "text-color": {
+                "value": "{color.grey.800}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{color.grey.800}",
+                "type": "color"
+              }
+            }
+          },
+          "inverse": {
+            "rested": {
+              "text-color": {
+                "value": "{color.neutrals.white}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{color.neutrals.white}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "text-color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              },
+              "icon-color": {
+                "value": "{color.grey.500}",
+                "type": "color"
+              }
+            }
+          }
         }
       },
       "typography": {
@@ -747,7 +815,7 @@
           "type": "typography"
         },
         "sm": {
-          "value": "{semantic.typography.text.xs.emphasis-caps}",
+          "value": "{semantic.typography.text.xs.emphasis-heavy}",
           "type": "typography"
         }
       }

@@ -28,6 +28,7 @@
     "components/accordion",
     "components/message",
     "components/tags",
+    "components/link",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
