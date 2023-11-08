@@ -3,7 +3,7 @@
     "xxl": {
       "text": {
         "typography": {
-          "value": "{semantic.title.xxl.text.typography}",
+          "value": "{semantic.typography.title.xxl.text.typography}",
           "type": "typography"
         }
       }
@@ -11,7 +11,7 @@
     "xl": {
       "text": {
         "typography": {
-          "value": "{semantic.title.xl.text.typography}",
+          "value": "{semantic.typography.title.xl.text.typography}",
           "type": "typography"
         }
       }
@@ -19,7 +19,7 @@
     "l": {
       "text": {
         "typography": {
-          "value": "{semantic.title.l.text.typography}",
+          "value": "{semantic.typography.title.l.text.typography}",
           "type": "typography"
         }
       }
@@ -27,7 +27,7 @@
     "m": {
       "text": {
         "typography": {
-          "value": "{semantic.title.m.text.typography}",
+          "value": "{semantic.typography.title.m.text.typography}",
           "type": "typography"
         }
       }
@@ -35,7 +35,7 @@
     "subline": {
       "text": {
         "typography": {
-          "value": "{semantic.title-eyebrow.md.text.typography}",
+          "value": "{semantic.typography.title-eyebrow.md.text.typography}",
           "type": "typography"
         }
       }
@@ -43,7 +43,7 @@
     "subline-small": {
       "text": {
         "typography": {
-          "value": "{semantic.title-eyebrow.sm.text.typography}",
+          "value": "{semantic.typography.title-eyebrow.sm.text.typography}",
           "type": "typography"
         }
       }

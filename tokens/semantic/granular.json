@@ -458,19 +458,13 @@
       "typography": {
         "default": {
           "text-color": {
-            "value": "{token.font.copy.1-default}",
-            "type": "color"
-          }
-        },
-        "accent": {
-          "text-color": {
-            "value": "{token.font.copy.copy-accent}",
+            "value": "{semantic.color.fg.subtle}",
             "type": "color"
           }
         },
         "contrast": {
           "text-color": {
-            "value": "{color.neutrals.black}",
+            "value": "{semantic.color.fg.default}",
             "type": "color"
           }
         }
@@ -818,56 +812,56 @@
           "value": "{semantic.typography.text.xs.emphasis-heavy}",
           "type": "typography"
         }
-      }
-    },
-    "title": {
-      "xxl": {
-        "text": {
-          "typography": {
-            "value": "{semantic.typography.title.xxl.default}",
-            "type": "typography"
+      },
+      "title": {
+        "xxl": {
+          "text": {
+            "typography": {
+              "value": "{semantic.typography.title.xxl.default}",
+              "type": "typography"
+            }
+          }
+        },
+        "xl": {
+          "text": {
+            "typography": {
+              "value": "{semantic.typography.title.xl.default}",
+              "type": "typography"
+            }
+          }
+        },
+        "l": {
+          "text": {
+            "typography": {
+              "value": "{semantic.typography.title.lg.default}",
+              "type": "typography"
+            }
+          }
+        },
+        "m": {
+          "text": {
+            "typography": {
+              "value": "{semantic.typography.title.md.default}",
+              "type": "typography"
+            }
           }
         }
       },
-      "xl": {
-        "text": {
-          "typography": {
-            "value": "{semantic.typography.title.xl.default}",
-            "type": "typography"
+      "title-eyebrow": {
+        "md": {
+          "text": {
+            "typography": {
+              "value": "{general.global.S-2-emphasis}",
+              "type": "typography"
+            }
           }
-        }
-      },
-      "l": {
-        "text": {
-          "typography": {
-            "value": "{semantic.typography.responsive.L}",
-            "type": "typography"
-          }
-        }
-      },
-      "m": {
-        "text": {
-          "typography": {
-            "value": "{semantic.typography.responsive.M}",
-            "type": "typography"
-          }
-        }
-      }
-    },
-    "title-eyebrow": {
-      "md": {
-        "text": {
-          "typography": {
-            "value": "{general.global.S-2-emphasis}",
-            "type": "typography"
-          }
-        }
-      },
-      "sm": {
-        "text": {
-          "typography": {
-            "value": "{general.global.XXS-3-emphasis-CAPS}",
-            "type": "typography"
+        },
+        "sm": {
+          "text": {
+            "typography": {
+              "value": "{general.global.XXS-3-emphasis-CAPS}",
+              "type": "typography"
+            }
           }
         }
       }

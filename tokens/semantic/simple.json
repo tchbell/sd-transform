@@ -370,6 +370,10 @@
           "value": "{color.neutrals.black}",
           "type": "color"
         },
+        "subtle": {
+          "value": "{color.grey.700}",
+          "type": "color"
+        },
         "primary": {
           "default": {
             "value": "{color.orange.500}",
