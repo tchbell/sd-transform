@@ -8,6 +8,10 @@
               "value": "{color.grey.70}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.grey.70}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.neutrals.black}",
               "type": "color"
@@ -31,6 +35,10 @@
           },
           "subtle": {
             "bg": {
+              "value": "{color.grey.200}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.grey.200}",
               "type": "color"
             },
@@ -60,6 +68,10 @@
               "value": "{color.grey.500}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.grey.500}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.neutrals.black}",
               "type": "color"
@@ -83,6 +95,10 @@
           },
           "inverse": {
             "bg": {
+              "value": "{color.grey.900}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.grey.900}",
               "type": "color"
             },
@@ -114,6 +130,10 @@
               "value": "{color.orange.500}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.orange.500}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.neutrals.black}",
               "type": "color"
@@ -129,6 +149,10 @@
           },
           "subtle": {
             "bg": {
+              "value": "{color.orange.300}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.orange.300}",
               "type": "color"
             },
@@ -150,16 +174,20 @@
               "value": "{color.orange.100}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.orange.100}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.grey.900}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.800}",
+              "value": "{color.grey.500}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.700}",
+              "value": "{color.grey.300}",
               "type": "color"
             }
           }
@@ -167,6 +195,10 @@
         "secondary": {
           "default": {
             "bg": {
+              "value": "{color.grey.900}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.grey.900}",
               "type": "color"
             },
@@ -192,6 +224,10 @@
               "value": "{color.grey.700}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.neutrals.white}",
               "type": "color"
@@ -214,8 +250,12 @@
               "value": "{color.grey.100}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.grey.100}",
+              "type": "color"
+            },
             "fg-default": {
-              "value": "{color.neutrals.white}",
+              "value": "{color.grey.80}",
               "type": "color"
             },
             "fg-subtle": {
@@ -235,6 +275,10 @@
         "onInverse": {
           "default": {
             "bg": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.neutrals.white}",
               "type": "color"
             },
@@ -264,6 +308,10 @@
               "value": "{color.grey.200}",
               "type": "color"
             },
+            "border": {
+              "value": "{color.grey.200}",
+              "type": "color"
+            },
             "fg-default": {
               "value": "{color.neutrals.black}",
               "type": "color"
@@ -287,6 +335,10 @@
           },
           "muted": {
             "bg": {
+              "value": "{color.grey.500}",
+              "type": "color"
+            },
+            "border": {
               "value": "{color.grey.500}",
               "type": "color"
             },

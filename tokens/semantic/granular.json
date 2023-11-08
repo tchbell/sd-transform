@@ -6,57 +6,57 @@
           "primary": {
             "rested": {
               "bg": {
-                "value": "{color.orange.500}",
+                "value": "{semantic.color.surface.primary.default.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.orange.500}",
+                "value": "{semantic.color.surface.primary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.default.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "bg": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.surface.primary.subtle.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.surface.primary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.default.fg-default}",
                 "type": "color"
               }
             },
             "active": {
               "bg": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.surface.primary.subtle.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.surface.primary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.default.fg-default}",
                 "type": "color"
               }
             },
             "disabled": {
               "bg": {
-                "value": "{color.orange.100}",
+                "value": "{semantic.color.surface.primary.muted.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.orange.100}",
+                "value": "{semantic.color.surface.primary.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.600}",
+                "value": "{semantic.color.surface.primary.muted.fg-muted}",
                 "type": "color"
               }
             }
@@ -64,57 +64,57 @@
           "secondary": {
             "rested": {
               "bg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.secondary.default.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.secondary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.secondary.default.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "bg": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.subtle.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.secondary.subtle.fg-default}",
                 "type": "color"
               }
             },
             "active": {
               "bg": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.default.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.secondary.default.fg-default}",
                 "type": "color"
               }
             },
             "disabled": {
               "bg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.secondary.muted.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.secondary.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.300}",
+                "value": "{semantic.color.surface.secondary.muted.fg-default}",
                 "type": "color"
               }
             }
@@ -122,57 +122,57 @@
           "inverse": {
             "rested": {
               "bg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.default.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "bg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.onInverse.subtle.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.onInverse.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.muted.fg-default}",
                 "type": "color"
               }
             },
             "active": {
               "bg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.onInverse.subtle.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.onInverse.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.subtle.fg-default}",
                 "type": "color"
               }
             },
             "disabled": {
               "bg": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.surface.onInverse.muted.bg}",
                 "type": "color"
               },
               "border": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.surface.onInverse.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.muted.fg-default}",
                 "type": "color"
               }
             }
@@ -182,41 +182,41 @@
           "primary": {
             "rested": {
               "border": {
-                "value": "{color.orange.500}",
+                "value": "{semantic.color.surface.primary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.default.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "border": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.surface.primary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.subtle.fg-default}",
                 "type": "color"
               }
             },
             "active": {
               "border": {
-                "value": "{color.orange.500}",
+                "value": "{semantic.color.surface.primary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.primary.subtle.fg-default}",
                 "type": "color"
               }
             },
             "disabled": {
               "border": {
-                "value": "{color.orange.100}",
+                "value": "{semantic.color.surface.primary.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.600}",
+                "value": "{semantic.color.surface.primary.muted.fg-muted}",
                 "type": "color"
               }
             }
@@ -224,31 +224,31 @@
           "secondary": {
             "rested": {
               "border": {
-                "value": "{color.grey.600}",
+                "value": "{semantic.color.surface.secondary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.fg.default}",
                 "type": "color"
               }
             },
             "hover": {
               "border": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.fg.default}",
                 "type": "color"
               }
             },
             "active": {
               "border": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.surface.secondary.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.fg.default}",
                 "type": "color"
               }
             },
