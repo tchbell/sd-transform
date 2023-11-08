@@ -254,11 +254,11 @@
             },
             "disabled": {
               "border": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.secondary.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.600}",
+                "value": "{semantic.color.surface.secondary.muted.fg-default}",
                 "type": "color"
               }
             }
@@ -266,41 +266,41 @@
           "inverse": {
             "rested": {
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.fg.secondary.muted}",
                 "type": "color"
               }
             },
             "hover": {
               "border": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.onInverse.subtle.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.fg.secondary.muted}",
                 "type": "color"
               }
             },
             "active": {
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.fg.inverse.default}",
                 "type": "color"
               }
             },
             "disabled": {
               "border": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.surface.onInverse.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.muted.fg-default}",
                 "type": "color"
               }
             }
@@ -310,25 +310,25 @@
           "primary": {
             "rested": {
               "fg": {
-                "value": "{color.orange.500}",
+                "value": "{semantic.color.fg.primary.default}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.fg.primary.subtle}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{color.orange.300}",
+                "value": "{semantic.color.fg.primary.subtle}",
                 "type": "color"
               }
             },
             "disabled": {
               "fg": {
-                "value": "{color.orange.100}",
+                "value": "{semantic.color.fg.primary.muted}",
                 "type": "color"
               }
             }
@@ -336,25 +336,25 @@
           "secondary": {
             "rested": {
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.fg.secondary.default}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.fg.secondary.subtle}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{color.grey.800}",
+                "value": "{semantic.color.fg.secondary.subtle}",
                 "type": "color"
               }
             },
             "disabled": {
               "fg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.fg.secondary.muted}",
                 "type": "color"
               }
             }
@@ -362,25 +362,25 @@
           "inverse": {
             "rested": {
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.fg.inverse.default}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.fg.inverse.subtle}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.fg.inverse.subtle}",
                 "type": "color"
               }
             },
             "disabled": {
               "fg": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.fg.inverse.muted}",
                 "type": "color"
               }
             }

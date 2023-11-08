@@ -305,11 +305,11 @@
           },
           "subtle": {
             "bg": {
-              "value": "{color.grey.200}",
+              "value": "{color.grey.100}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.200}",
+              "value": "{color.grey.100}",
               "type": "color"
             },
             "fg-default": {
@@ -371,16 +371,46 @@
           "type": "color"
         },
         "primary": {
-          "value": "{color.orange.500}",
-          "type": "color"
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          }
         },
         "secondary": {
-          "value": "{color.grey.900}",
-          "type": "color"
+          "default": {
+            "value": "{color.grey.900}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.grey.700}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color.grey.100}",
+            "type": "color"
+          }
         },
         "inverse": {
-          "value": "{color.neutrals.white}",
-          "type": "color"
+          "default": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "subtle": {
+            "value": "{color.grey.100}",
+            "type": "color"
+          },
+          "muted": {
+            "value": "{color.grey.800}",
+            "type": "color"
+          }
         }
       }
     }
