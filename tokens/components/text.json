@@ -4,7 +4,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.md.default}",
+            "value": "{semantic.typography.text.default-emphasis.md.text.typography}",
             "type": "typography"
           }
         }
@@ -12,7 +12,7 @@
       "sm": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.sm.default}",
+            "value": "{semantic.typography.text.default-emphasis.sm.text.typography}",
             "type": "typography"
           }
         }
@@ -20,7 +20,7 @@
       "xs": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.xs.default}",
+            "value": "{semantic.typography.text.default-emphasis.xs.text.typography}",
             "type": "typography"
           }
         }

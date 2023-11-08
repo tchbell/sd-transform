@@ -53,6 +53,12 @@
         "value": "{semantic.color.typography.contrast.text-color}",
         "type": "color"
       }
+    },
+    "inverted": {
+      "text-color": {
+        "value": "{semantic.color.typography.contrast.text-color}",
+        "type": "color"
+      }
     }
   }
 }

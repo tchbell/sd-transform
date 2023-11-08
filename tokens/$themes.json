@@ -34,7 +34,16 @@
     "id": "1c54cdb8da6866374ae6f148388174bc8da9dd68",
     "name": "VPM",
     "$figmaStyleReferences": {},
-    "selectedTokenSets": {},
+    "selectedTokenSets": {
+      "core/font": "source",
+      "core/colors": "source",
+      "core/dimension": "source",
+      "view-overrides/VPM": "enabled",
+      "semantic/simple": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/granular": "enabled",
+      "components/title": "enabled"
+    },
     "group": "Viewport"
   },
   {
