@@ -30,7 +30,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.md.emphasis}",
+            "value": "{semantic.typography.text.heavy-emphasis.md.text.typography}",
             "type": "typography"
           }
         }
@@ -38,7 +38,7 @@
       "sm": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.sm.emphasis}",
+            "value": "{semantic.typography.text.heavy-emphasis.sm.text.typography}",
             "type": "typography"
           }
         }
@@ -46,7 +46,7 @@
       "xs": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.xs.emphasis}",
+            "value": "{semantic.typography.text.heavy-emphasis.xs.text.typography}",
             "type": "typography"
           }
         }
@@ -59,6 +59,10 @@
           "type": "color"
         }
       }
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.text.padding-bottom}",
+      "type": "spacing"
     }
   }
 }
