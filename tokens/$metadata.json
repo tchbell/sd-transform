@@ -29,6 +29,8 @@
     "components/message",
     "components/tags",
     "components/link",
+    "components/quantity selector",
+    "components/sidebar nav",
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",

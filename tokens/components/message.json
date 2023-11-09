@@ -1,27 +1,51 @@
 {
-  "message": {
-    "background": {
-      "color": {
-        "value": "{color.grey.500}",
-        "type": "color"
-      }
-    },
-    "text": {
-      "color": {
-        "value": "{color.neutrals.black}",
-        "type": "color"
-      }
-    },
-    "gap": {
-      "value": "{dimension.0_50}",
-      "type": "spacing"
-    }
+  "gap": {
+    "value": "{dimension.0_50}",
+    "type": "spacing"
   },
   "messages": {
     "text": {
       "typography": {
         "value": "{global.S-1-default}",
         "type": "typography"
+      }
+    }
+  },
+  "padding-right": {
+    "value": "{dimension.100}",
+    "type": "spacing"
+  },
+  "padding-left": {
+    "value": "{dimension.100}",
+    "type": "spacing"
+  },
+  "padding-top": {
+    "value": "{dimension.0_50}",
+    "type": "spacing"
+  },
+  "padding-bottom": {
+    "value": "{dimension.0_50}",
+    "type": "spacing"
+  },
+  "message": {
+    "default": {
+      "bg-color": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      },
+      "fg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "bg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "fg-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
       }
     }
   }

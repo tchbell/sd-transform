@@ -7,41 +7,97 @@
       }
     },
     "default": {
-      "line": {
+      "rested": {
+        "line-color": {
+          "value": "{color.grey.100}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "line-color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        }
+      },
+      "expanded": {
+        "line-color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.black}",
+          "type": "color"
+        }
+      },
+      "circle": {
         "color": {
-          "value": "#CFCFCF",
+          "value": "{color.grey.60}",
           "type": "color"
         }
       }
     },
-    "hover": {
-      "line": {
+    "inverse": {
+      "rested": {
+        "line-color": {
+          "value": "{color.grey.500}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "line-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "expanded": {
+        "line-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{color.neutrals.white}",
+          "type": "color"
+        }
+      },
+      "circle": {
         "color": {
-          "value": "#000000",
+          "value": "{color.grey.900}",
           "type": "color"
         }
       }
+    }
+  },
+  "element": {
+    "gap": {
+      "value": "{dimension.150}",
+      "type": "spacing"
     },
-    "expanded": {
-      "line": {
-        "color": {
-          "value": "#000000",
-          "type": "color"
-        }
-      }
+    "padding-top": {
+      "value": "{dimension.150}",
+      "type": "spacing"
     },
-    "title": {
-      "color": {
-        "value": "#000000",
-        "type": "color"
-      }
-    },
-    "circle": {
-      "color": {
-        "value": "{color.grey.100}",
-        "type": "color"
-      }
-    },
+    "padding-bottom": {
+      "value": "{dimension.150}",
+      "type": "spacing"
+    }
+  },
+  "title": {
     "gap": {
       "value": "{dimension.0_50}",
       "type": "spacing"

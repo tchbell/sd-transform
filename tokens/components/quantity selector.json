@@ -1,0 +1,106 @@
+{
+  "qty": {
+    "neutral": {
+      "rested-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "hover-color": {
+        "value": "{color.grey.700}",
+        "type": "color"
+      },
+      "disabled-color": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      }
+    },
+    "accent": {
+      "rested-color": {
+        "value": "{color.orange.500}",
+        "type": "color"
+      },
+      "hover-color": {
+        "value": "{color.orange.400}",
+        "type": "color"
+      },
+      "disabled-color": {
+        "value": "{color.orange.100}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "rested-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      },
+      "hover-color": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      },
+      "disabled-color": {
+        "value": "{color.grey.700}",
+        "type": "color"
+      }
+    }
+  },
+  "size": {
+    "rested": {
+      "fg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "fg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{color.grey.60}",
+        "type": "color"
+      }
+    },
+    "active": {
+      "fg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "bg-color": {
+        "value": "{color.grey.60}",
+        "type": "color"
+      },
+      "border-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    }
+  },
+  "qtyselector": {
+    "border-radius": {
+      "value": "{border-radius.sm}",
+      "type": "borderRadius"
+    },
+    "padding-right": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    },
+    "padding-top": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{dimension.0_50}",
+      "type": "spacing"
+    }
+  },
+  "sizeselector": {
+    "typography": {
+      "value": "{DTC.S-1-default}",
+      "type": "typography"
+    }
+  }
+}

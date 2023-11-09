@@ -26,7 +26,9 @@
       "components/separator": "enabled",
       "components/pictograms": "enabled",
       "components/progress": "enabled",
-      "components/video": "enabled"
+      "components/video": "enabled",
+      "components/quantity selector": "disabled",
+      "components/sidebar nav": "disabled"
     },
     "group": "Viewport"
   },
@@ -42,7 +44,9 @@
       "semantic/simple": "enabled",
       "semantic/typography": "enabled",
       "semantic/granular": "enabled",
-      "components/title": "enabled"
+      "components/title": "enabled",
+      "components/quantity selector": "disabled",
+      "components/sidebar nav": "disabled"
     },
     "group": "Viewport"
   },
@@ -51,7 +55,9 @@
     "name": "VPS",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "view-overrides/VPS": "enabled"
+      "view-overrides/VPS": "enabled",
+      "components/quantity selector": "disabled",
+      "components/sidebar nav": "disabled"
     },
     "group": "Viewport"
   }
