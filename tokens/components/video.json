@@ -1,26 +1,13 @@
 {
   "video": {
-    "scrubber": {
-      "progress bar": {
-        "active": {
-          "value": "#000000",
-          "type": "color"
-        }
+    "progress-bar": {
+      "active": {
+        "value": "#000000",
+        "type": "color"
       },
-      "base": {
-        "bar": {
-          "value": "#{207,207,207,0.4}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "lighten",
-                "value": "0",
-                "space": "lch"
-              }
-            }
-          }
-        }
+      "rested": {
+        "value": "#CFCFCF",
+        "type": "color"
       }
     },
     "pointer": {
@@ -28,6 +15,27 @@
         "value": "#DB8332",
         "type": "color"
       }
+    },
+    "base-bar": {
+      "rested": {
+        "value": "#CFCFCF",
+        "type": "color",
+        "$extensions": {
+          "studio.tokens": {
+            "modify": {
+              "type": "alpha",
+              "value": "0.4",
+              "space": "srgb"
+            }
+          }
+        }
+      }
+    }
+  },
+  "opacity": {
+    "40": {
+      "value": "40%",
+      "type": "opacity"
     }
   }
 }

@@ -768,6 +768,30 @@
             }
           }
         }
+      },
+      "video": {
+        "rested": {
+          "progress-bar": {
+            "color": {
+              "value": "{color.grey.100}",
+              "type": "color"
+            }
+          }
+        },
+        "active": {
+          "progress-bar": {
+            "color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          }
+        },
+        "pointer": {
+          "color": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
