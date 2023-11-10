@@ -986,7 +986,7 @@
     },
     "spacing": {
       "actions": {
-        "large": {
+        "lg": {
           "padding-right": {
             "value": "{dimension.100}",
             "type": "spacing"
@@ -1008,7 +1008,7 @@
             "type": "spacing"
           }
         },
-        "medium": {
+        "md": {
           "padding-right": {
             "value": "{dimension.0_50}",
             "type": "spacing"
@@ -1045,6 +1045,32 @@
         "padding-bottom": {
           "value": "{dimension.150}",
           "type": "spacing"
+        }
+      },
+      "list": {
+        "lg": {
+          "vertical-gap": {
+            "value": "{dimension.250}",
+            "type": "spacing"
+          }
+        },
+        "md": {
+          "horizontal-gap": {
+            "value": "{dimension.200}",
+            "type": "spacing"
+          }
+        },
+        "sm": {
+          "vertical-gap": {
+            "value": "{dimension.150}",
+            "type": "spacing"
+          }
+        },
+        "xs": {
+          "vertical-gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
         }
       }
     },

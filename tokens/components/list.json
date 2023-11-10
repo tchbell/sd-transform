@@ -36,30 +36,6 @@
         }
       }
     },
-    "default": {
-      "title-color": {
-        "value": "{semantic.color.list.inverse.title-color}",
-        "type": "color"
-      },
-      "rested": {
-        "text-color": {
-          "value": "{semantic.color.list.inverse.rested.text-color}",
-          "type": "color"
-        }
-      },
-      "hover": {
-        "text-color": {
-          "value": "{semantic.color.list.inverse.hover.text-color}",
-          "type": "color"
-        }
-      },
-      "active": {
-        "text-color": {
-          "value": "{semantic.color.list.inverse.active.text-color}",
-          "type": "color"
-        }
-      }
-    },
     "title": {
       "text": {
         "typography": {
@@ -74,13 +50,13 @@
         "type": "spacing"
       }
     },
-    "mg": {
-      "gap": {
-        "value": "24",
+    "sm": {
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.sm.vertical-gap}",
         "type": "spacing"
       }
     },
-    "inverse": {
+    "default": {
       "title-color": {
         "value": "{semantic.color.list.default.title-color}",
         "type": "color"
@@ -102,6 +78,46 @@
           "value": "{semantic.color.list.default.active.text-color}",
           "type": "color"
         }
+      }
+    },
+    "xs": {
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.xs.vertical-gap}",
+        "type": "spacing"
+      }
+    },
+    "colums": {
+      "horizontal-gap": {
+        "value": "{semantic.spacing.list.md.horizontal-gap}",
+        "type": "spacing"
+      },
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.lg.vertical-gap}",
+        "type": "spacing"
+      }
+    }
+  },
+  "inverse": {
+    "title-color": {
+      "value": "{semantic.color.list.inverse.title-color}",
+      "type": "color"
+    },
+    "rested": {
+      "text-color": {
+        "value": "{semantic.color.list.inverse.rested.text-color}",
+        "type": "color"
+      }
+    },
+    "hover": {
+      "text-color": {
+        "value": "{semantic.color.list.inverse.hover.text-color}",
+        "type": "color"
+      }
+    },
+    "active": {
+      "text-color": {
+        "value": "{semantic.color.list.inverse.active.text-color}",
+        "type": "color"
       }
     }
   }
