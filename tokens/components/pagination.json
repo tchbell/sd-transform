@@ -9,17 +9,17 @@
     "default": {
       "text": {
         "color": {
-          "value": "{semantic.color.pagination.text.color}",
+          "value": "{semantic.color.pagination.text}",
           "type": "color"
         }
       },
       "scrubber": {
         "active-color": {
-          "value": "{semantic.color.pagination.active.scrubber.color}",
+          "value": "{semantic.color.pagination.active.scrubber}",
           "type": "color"
         },
         "rested-color": {
-          "value": "{semantic.color.pagination.rested.scrubber.color}",
+          "value": "{semantic.color.pagination.rested.scrubber}",
           "type": "color"
         }
       }
@@ -51,7 +51,7 @@
           "type": "color"
         },
         "rested-color": {
-          "value": "{semantic.color.pagination.rested.scrubber.color}",
+          "value": "{semantic.color.pagination.rested.scrubber}",
           "type": "color"
         }
       }

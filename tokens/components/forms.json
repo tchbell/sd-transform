@@ -9,44 +9,44 @@
     "default": {
       "label": {
         "color": {
-          "value": "{semantic.color.inputs.default.label.color}",
+          "value": "{semantic.color.inputs.default.label}",
           "type": "color"
         }
       },
       "inputtext": {
         "color": {
-          "value": "{semantic.color.inputs.default.inputtext.color}",
+          "value": "{semantic.color.inputs.default.inputtext}",
           "type": "color"
         }
       },
       "line": {
         "color": {
-          "value": "{semantic.color.inputs.default.line.color}",
+          "value": "{semantic.color.inputs.default.line}",
           "type": "color"
         }
       },
       "helpertext": {
         "color": {
-          "value": "{semantic.color.inputs.default.helpertext.color}",
+          "value": "{semantic.color.inputs.default.helpertext}",
           "type": "color"
         }
       },
       "dropdown": {
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.default.dropdown.text.color}",
+            "value": "{semantic.color.inputs.default.dropdown.text}",
             "type": "color"
           }
         },
         "line": {
           "color": {
-            "value": "{semantic.color.inputs.default.dropdown.line.color}",
+            "value": "{semantic.color.inputs.default.dropdown.line}",
             "type": "color"
           }
         },
         "bg": {
           "color": {
-            "value": "{semantic.color.inputs.default.dropdown.bg.color}",
+            "value": "{semantic.color.inputs.default.dropdown.bg}",
             "type": "color"
           }
         }
@@ -60,7 +60,7 @@
         },
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.default.checkbox.text.color}",
+            "value": "{semantic.color.inputs.default.checkbox.text}",
             "type": "color"
           }
         }
@@ -69,38 +69,38 @@
     "disabled": {
       "label": {
         "color": {
-          "value": "{semantic.color.inputs.disabled.label.color}",
+          "value": "{semantic.color.inputs.disabled.label}",
           "type": "color"
         }
       },
       "line": {
         "color": {
-          "value": "{semantic.color.inputs.disabled.line.color}",
+          "value": "{semantic.color.inputs.disabled.line}",
           "type": "color"
         }
       },
       "helpertext": {
         "color": {
-          "value": "{semantic.color.inputs.disabled.helpertext.color}",
+          "value": "{semantic.color.inputs.disabled.helpertext}",
           "type": "color"
         }
       },
       "inputtext": {
         "color": {
-          "value": "{semantic.color.inputs.disabled.inputtext.color}",
+          "value": "{semantic.color.inputs.disabled.inputtext}",
           "type": "color"
         }
       },
       "dropdown": {
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.disabled.dropdown.text.color}",
+            "value": "{semantic.color.inputs.disabled.dropdown.text}",
             "type": "color"
           }
         },
         "line": {
           "color": {
-            "value": "{semantic.color.inputs.disabled.dropdown.line.color}",
+            "value": "{semantic.color.inputs.disabled.dropdown.line}",
             "type": "color"
           }
         }
@@ -114,7 +114,7 @@
         },
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.disabled.checkbox.text.color}",
+            "value": "{semantic.color.inputs.disabled.checkbox.text}",
             "type": "color"
           }
         }
@@ -123,25 +123,25 @@
     "error": {
       "label": {
         "color": {
-          "value": "{semantic.color.inputs.error.label.color}",
+          "value": "{semantic.color.inputs.error.label}",
           "type": "color"
         }
       },
       "line": {
         "color": {
-          "value": "{semantic.color.inputs.error.helpertext.color}",
+          "value": "{semantic.color.inputs.error.helpertext}",
           "type": "color"
         }
       },
       "inputtext": {
         "color": {
-          "value": "{semantic.color.inputs.error.inputtext.color}",
+          "value": "{semantic.color.inputs.error.inputtext}",
           "type": "color"
         }
       },
       "helpertext": {
         "color": {
-          "value": "{semantic.color.inputs.error.helpertext.color}",
+          "value": "{semantic.color.inputs.error.helpertext}",
           "type": "color"
         }
       },
@@ -154,7 +154,7 @@
         },
         "text": {
           "border-color": {
-            "value": "{semantic.color.inputs.error.checkbox.text.color}",
+            "value": "{semantic.color.inputs.error.checkbox.text}",
             "type": "color"
           }
         }
@@ -163,26 +163,26 @@
     "hover": {
       "inputtext": {
         "color": {
-          "value": "{semantic.color.inputs.hover.inputtext.color}",
+          "value": "{semantic.color.inputs.hover.inputtext}",
           "type": "color"
         }
       },
       "line": {
         "color": {
-          "value": "{semantic.color.inputs.hover.line.color}",
+          "value": "{semantic.color.inputs.hover.line}",
           "type": "color"
         }
       },
       "dropdown": {
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.hover.dropdown.text.color}",
+            "value": "{semantic.color.inputs.hover.dropdown.text}",
             "type": "color"
           }
         },
         "line": {
           "color": {
-            "value": "{semantic.color.inputs.hover.dropdown.line.color}",
+            "value": "{semantic.color.inputs.hover.dropdown.line}",
             "type": "color"
           }
         }
@@ -196,7 +196,7 @@
         },
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.hover.checkbox.text.color}",
+            "value": "{semantic.color.inputs.hover.checkbox.text}",
             "type": "color"
           }
         }
@@ -205,7 +205,7 @@
     "filled": {
       "inputtext": {
         "color": {
-          "value": "{semantic.color.inputs.filled.inputtext.color}",
+          "value": "{semantic.color.inputs.filled.inputtext}",
           "type": "color"
         }
       },
@@ -228,7 +228,7 @@
         },
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.filled.checkbox.text.color}",
+            "value": "{semantic.color.inputs.filled.checkbox.text}",
             "type": "color"
           }
         }
@@ -237,7 +237,7 @@
     "success": {
       "helpertext": {
         "color": {
-          "value": "{semantic.color.inputs.success.helpertext.color}",
+          "value": "{semantic.color.inputs.success.helpertext}",
           "type": "color"
         }
       }
@@ -256,7 +256,7 @@
         },
         "text": {
           "color": {
-            "value": "{semantic.color.inputs.disabled-filled.checkbox.text.color}",
+            "value": "{semantic.color.inputs.disabled-filled.checkbox.text}",
             "type": "color"
           }
         }
