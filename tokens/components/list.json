@@ -39,7 +39,7 @@
     "default": {
       "title": {
         "color": {
-          "value": "{semantic.color.list.title-color}",
+          "value": "{semantic.color.list.default.title-color}",
           "type": "color"
         }
       },
@@ -47,11 +47,11 @@
         "bullet": {
           "text": {
             "rested-color": {
-              "value": "{semantic.color.list.rested.text-color}",
+              "value": "{semantic.color.list.default.rested.text-color}",
               "type": "color"
             },
             "active-color": {
-              "value": "{semantic.color.list.active.text-color}",
+              "value": "{semantic.color.list.default.active.text-color}",
               "type": "color"
             }
           }
@@ -59,7 +59,7 @@
         "link": {
           "text": {
             "rested-color": {
-              "value": "{semantic.color.list.rested.text-color}",
+              "value": "{semantic.color.list.default.rested.text-color}",
               "type": "color"
             },
             "hover-color": {
@@ -67,7 +67,7 @@
               "type": "color"
             },
             "active-color": {
-              "value": "{semantic.color.list.active.text-color}",
+              "value": "{semantic.color.list.default.active.text-color}",
               "type": "color"
             }
           }

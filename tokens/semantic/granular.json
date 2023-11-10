@@ -476,21 +476,29 @@
         }
       },
       "list": {
-        "rested": {
-          "text-color": {
-            "value": "{color.grey.700}",
+        "default": {
+          "rested": {
+            "text-color": {
+              "value": "{semantic.color.fg.subtle}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "title-color": {
+            "value": "{color.grey.600}",
             "type": "color"
+          },
+          "hover": {
+            "text-color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            }
           }
-        },
-        "active": {
-          "text-color": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          }
-        },
-        "title-color": {
-          "value": "{color.grey.600}",
-          "type": "color"
         }
       },
       "pagination": {
