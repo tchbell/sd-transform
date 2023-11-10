@@ -82,9 +82,11 @@
         }
       }
     },
-    "gap": {
-      "value": "{dimension.100}",
-      "type": "spacing"
+    "list-item": {
+      "gap": {
+        "value": "{dimension.100}",
+        "type": "spacing"
+      }
     },
     "inverse": {
       "title": {
@@ -122,6 +124,12 @@
             }
           }
         }
+      }
+    },
+    "mg": {
+      "gap": {
+        "value": "24",
+        "type": "spacing"
       }
     }
   }

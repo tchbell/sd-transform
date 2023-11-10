@@ -1,9 +1,7 @@
 {
-  "": {
-    "gap": {
-      "value": "{dimension.0_50}",
-      "type": "spacing"
-    }
+  "gap": {
+    "value": "{dimension.0_50}",
+    "type": "spacing"
   },
   "messages": {
     "text": {

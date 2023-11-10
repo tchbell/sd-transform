@@ -53,16 +53,20 @@
       }
     },
     "default": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.typography.default.text-color}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.default.text-color}",
+        "type": "color"
       }
     },
     "padding-bottom": {
       "value": "{semantic.spacing.text.padding-bottom}",
       "type": "spacing"
+    },
+    "inverse": {
+      "text-color": {
+        "value": "{semantic.color.typography.inverse.text-color}",
+        "type": "color"
+      }
     }
   }
 }

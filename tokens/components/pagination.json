@@ -57,12 +57,8 @@
       }
     }
   },
-  "counter-gap": {
+  "gap": {
     "value": "{dimension.100}",
-    "type": "spacing"
-  },
-  "carousel-gap": {
-    "value": "{dimension.0_50}",
     "type": "spacing"
   }
 }

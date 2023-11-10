@@ -1,0 +1,10 @@
+{
+  "height": {
+    "value": "{dimension.250}",
+    "type": "sizing"
+  },
+  "width": {
+    "value": "{dimension.250}",
+    "type": "sizing"
+  }
+}

@@ -56,7 +56,7 @@
     },
     "inverted": {
       "text-color": {
-        "value": "{semantic.color.typography.contrast.text-color}",
+        "value": "{semantic.color.typography.inverse.text-color}",
         "type": "color"
       }
     }
