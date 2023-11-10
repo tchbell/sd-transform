@@ -39,7 +39,7 @@
     "primary": {
       "rested": {
         "text-color": {
-          "value": "{semantic.color.actions.link.primary.rested.text-color}",
+          "value": "{semantic.color.actions.link.primary.rested.text}",
           "type": "color"
         },
         "icon-color": {

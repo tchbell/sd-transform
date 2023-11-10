@@ -389,7 +389,7 @@
         "link": {
           "primary": {
             "rested": {
-              "text-color": {
+              "text": {
                 "value": "{color.orange.500}",
                 "type": "color"
               },
@@ -858,22 +858,6 @@
       "actions": {
         "button-label": {
           "value": "{semantic.typography.text.sm.emphasis}",
-          "type": "typography"
-        }
-      },
-      "footer": {
-        "list-title": {
-          "value": {
-            "fontFamily": "{fontFamilies.text}",
-            "fontWeight": "{fontWeights.text.400}",
-            "lineHeight": "{lineHeights.2}",
-            "fontSize": "{fontSize.f0}",
-            "letterSpacing": "{letterSpacing.1}",
-            "paragraphSpacing": "{paragraphSpacing.0}",
-            "paragraphIndent": "{paragraphIndent.0}",
-            "textCase": "{textCase.none}",
-            "textDecoration": "{textDecoration.none}"
-          },
           "type": "typography"
         }
       },

@@ -3,7 +3,7 @@
     "xxl": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.xxl}",
+          "value": "{semantic.typography.title.xxl.default}",
           "type": "typography"
         }
       }
@@ -11,7 +11,7 @@
     "xl": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.xl}",
+          "value": "{semantic.typography.title.xl.default}",
           "type": "typography"
         }
       }
@@ -19,7 +19,7 @@
     "l": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.lg}",
+          "value": "{semantic.typography.title.lg.default}",
           "type": "typography"
         }
       }
@@ -27,7 +27,7 @@
     "m": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.md}",
+          "value": "{semantic.typography.title.md.default}",
           "type": "typography"
         }
       }
