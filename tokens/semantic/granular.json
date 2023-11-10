@@ -380,7 +380,7 @@
             },
             "disabled": {
               "fg": {
-                "value": "{semantic.color.fg.inverse.muted}",
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
                 "type": "color"
               }
             }
@@ -483,21 +483,45 @@
               "type": "color"
             }
           },
-          "active": {
-            "text-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
-          },
-          "title-color": {
-            "value": "{color.grey.600}",
-            "type": "color"
-          },
           "hover": {
             "text-color": {
               "value": "{color.grey.700}",
               "type": "color"
             }
+          },
+          "active": {
+            "text-color": {
+              "value": "{semantic.color.fg.default}",
+              "type": "color"
+            }
+          },
+          "title-color": {
+            "value": "{semantic.color.fg.muted}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "rested": {
+            "text-color": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text-color": {
+              "value": "{semantic.color.fg.inverse.subtle}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text-color": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            }
+          },
+          "title-color": {
+            "value": "{semantic.color.fg.inverse.muted}",
+            "type": "color"
           }
         }
       },

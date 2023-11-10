@@ -412,11 +412,11 @@
             "type": "color"
           },
           "subtle": {
-            "value": "{color.grey.100}",
+            "value": "{color.grey.80}",
             "type": "color"
           },
           "muted": {
-            "value": "{color.grey.800}",
+            "value": "{color.grey.90}",
             "type": "color"
           }
         }
