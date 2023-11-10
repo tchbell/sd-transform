@@ -1,38 +1,18 @@
 {
   "list": {
-    "item": {
-      "bullet": {
-        "rested": {
-          "typography": {
-            "value": "{semantic.typography.text.md.default}",
-            "type": "typography"
-          }
-        },
-        "active": {
-          "typography": {
-            "value": "{general.global.S-1-link}",
-            "type": "typography"
-          }
+    "rested": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.text.md.default}",
+          "type": "typography"
         }
-      },
-      "link": {
-        "rested": {
-          "typography": {
-            "value": "{semantic.typography.text.md.default}",
-            "type": "typography"
-          }
-        },
-        "active": {
-          "typography": {
-            "value": "{general.global.S-1-link}",
-            "type": "typography"
-          }
-        },
-        "hover": {
-          "typography": {
-            "value": "{general.global.S-1-link}",
-            "type": "typography"
-          }
+      }
+    },
+    "active": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.text.md.underline}",
+          "type": "typography"
         }
       }
     },
@@ -45,8 +25,8 @@
       }
     },
     "list-item": {
-      "gap": {
-        "value": "{dimension.100}",
+      "horizontal-gap": {
+        "value": "{semantic.spacing.list.xs.horizontal-gap}",
         "type": "spacing"
       }
     },
