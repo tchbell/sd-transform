@@ -836,9 +836,23 @@
           "value": "{semantic.typography.text.xs.default}",
           "type": "typography"
         },
-        "list-text": {
-          "value": "{semantic.typography.text.md.default}",
-          "type": "typography"
+        "rested": {
+          "list-text": {
+            "value": "{semantic.typography.text.md.default}",
+            "type": "typography"
+          }
+        },
+        "hover": {
+          "list-text": {
+            "value": "{semantic.typography.text.md.underline}",
+            "type": "typography"
+          }
+        },
+        "active": {
+          "list-text": {
+            "value": "{semantic.typography.text.md.underline}",
+            "type": "typography"
+          }
         }
       },
       "actions": {

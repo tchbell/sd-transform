@@ -3,7 +3,15 @@
     "rested": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.text.md.default}",
+          "value": "{semantic.typography.navigation.rested.list-text}",
+          "type": "typography"
+        }
+      }
+    },
+    "hover": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.navigation.hover.list-text}",
           "type": "typography"
         }
       }
@@ -11,17 +19,15 @@
     "active": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.text.md.underline}",
+          "value": "{semantic.typography.navigation.active.list-text}",
           "type": "typography"
         }
       }
     },
     "title": {
-      "text": {
-        "typography": {
-          "value": "{general.global.XXS-2-emphasis}",
-          "type": "typography"
-        }
+      "typography": {
+        "value": "{semantic.typography.navigation.list-title}",
+        "type": "typography"
       }
     },
     "list-item": {
