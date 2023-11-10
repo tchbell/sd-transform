@@ -8,7 +8,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -22,7 +22,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -36,7 +36,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.500}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.wide}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -50,7 +50,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -66,7 +66,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.sm}",
+              "fontSize": "{semantic.fontSize.text.sm}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -80,7 +80,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.500}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.sm}",
+              "fontSize": "{semantic.fontSize.text.sm}",
               "letterSpacing": "{letterSpacing.wider}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -94,7 +94,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -109,7 +109,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.md}",
+              "fontSize": "{semantic.fontSize.text.md}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -125,7 +125,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.xs}",
+              "fontSize": "{semantic.fontSize.text.xs}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -139,7 +139,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.xs}",
+              "fontSize": "{semantic.fontSize.text.xs}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -153,7 +153,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.500}",
               "lineHeight": "{lineHeights.text.compact}",
-              "fontSize": "{semantic.fontSize.static.xs}",
+              "fontSize": "{semantic.fontSize.text.xs}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -167,7 +167,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.700}",
               "lineHeight": "{lineHeights.text.compact}",
-              "fontSize": "{semantic.fontSize.static.xs}",
+              "fontSize": "{semantic.fontSize.text.xs}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -186,7 +186,7 @@
               "paragraphIndent": "{paragraphIndent.0}",
               "textCase": "{textCase.uppercase}",
               "textDecoration": "{textDecoration.none}",
-              "fontSize": "{semantic.fontSize.static.xs}"
+              "fontSize": "{semantic.fontSize.text.xs}"
             },
             "type": "typography"
           },
@@ -195,7 +195,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.static.xs}",
+              "fontSize": "{semantic.fontSize.text.xs}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",
@@ -274,7 +274,7 @@
       }
     },
     "fontSize": {
-      "static": {
+      "text": {
         "md": {
           "value": "{fontSize.f0}*{util.fontsizeAdjust.text}",
           "type": "fontSizes"
@@ -288,7 +288,7 @@
           "type": "fontSizes"
         }
       },
-      "responsive": {
+      "title": {
         "md": {
           "value": "{fontSize.f2}*{util.fontsizeAdjust.title}",
           "type": "fontSizes"
