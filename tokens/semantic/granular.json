@@ -819,7 +819,7 @@
           "type": "typography"
         },
         "sm": {
-          "value": "{semantic.typography.text.xs.emphasis-heavy}",
+          "value": "{semantic.typography.text.xs.emphasis}",
           "type": "typography"
         }
       },
@@ -843,11 +843,11 @@
       },
       "title-eyebrow": {
         "md": {
-          "value": "{semantic.typography.text.default-emphasis.md}",
+          "value": "{semantic.typography.text.sm.emphasis}",
           "type": "typography"
         },
         "sm": {
-          "value": "{semantic.typography.text.default-emphasis.sm}",
+          "value": "{semantic.typography.text.xs.emphasis}",
           "type": "typography"
         }
       },
@@ -975,6 +975,12 @@
             "value": "{dimension.100}",
             "type": "spacing"
           },
+          "horizontal-gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        },
+        "item": {
           "horizontal-gap": {
             "value": "{dimension.100}",
             "type": "spacing"

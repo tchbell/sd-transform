@@ -83,7 +83,7 @@
   },
   "list-item": {
     "horizontal-gap": {
-      "value": "{semantic.spacing.list.xs.horizontal-gap}",
+      "value": "{semantic.spacing.list.item.horizontal-gap}",
       "type": "spacing"
     }
   },

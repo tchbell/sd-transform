@@ -61,6 +61,12 @@
     "padding-bottom": {
       "value": "{semantic.spacing.text.padding-bottom}",
       "type": "spacing"
+    },
+    "inverse": {
+      "text-color": {
+        "value": "{semantic.color.typography.inverse.text}",
+        "type": "color"
+      }
     }
   }
 }
