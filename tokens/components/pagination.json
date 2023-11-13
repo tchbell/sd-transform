@@ -24,8 +24,7 @@
         },
         "rested-color": {
           "value": "{semantic.color.pagination.default.rested.scrubber}",
-          "type": "color",
-          "$extensions": {}
+          "type": "color"
         }
       }
     },
