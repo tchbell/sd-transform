@@ -25,15 +25,7 @@
         "rested-color": {
           "value": "{semantic.color.pagination.default.rested.scrubber}",
           "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{pagination.rested.scrubber.40}",
-                "space": "lch"
-              }
-            }
-          }
+          "$extensions": {}
         }
       }
     },
@@ -82,18 +74,18 @@
   "pagintation": {
     "scrubber": {
       "height": {
-        "value": "{semantic.sizing.pagination.scrubber.height}",
+        "value": "{semantic.sizing.scrubber.height}",
         "type": "sizing"
       },
       "lg": {
         "width": {
-          "value": "{semantic.sizing.pagination.scrubber.lg.width}",
+          "value": "{semantic.sizing.scrubber.fullWidth.width}",
           "type": "sizing"
         }
       },
       "sm": {
         "width": {
-          "value": "{semantic.sizing.pagination.scrubber.sm.width}",
+          "value": "{semantic.sizing.scrubber.sm.width}",
           "type": "sizing"
         }
       }

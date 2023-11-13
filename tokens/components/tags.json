@@ -223,7 +223,7 @@
       }
     },
     "border-radius": {
-      "value": "{dimension.125}",
+      "value": "{semantic.border-radius.tag}",
       "type": "borderRadius"
     }
   },

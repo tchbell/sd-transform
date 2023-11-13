@@ -419,6 +419,10 @@
             "value": "{color.grey.90}",
             "type": "color"
           }
+        },
+        "super-subtle": {
+          "value": "rgba({color.grey.100} , {opacity.40})",
+          "type": "color"
         }
       }
     }

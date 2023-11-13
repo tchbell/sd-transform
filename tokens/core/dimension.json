@@ -169,6 +169,10 @@
     "md": {
       "value": "{dimension.0_25} * {util.roundness}",
       "type": "borderRadius"
+    },
+    "full": {
+      "value": "10rem",
+      "type": "borderRadius"
     }
   },
   "border-width": {

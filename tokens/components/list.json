@@ -30,13 +30,11 @@
         "type": "typography"
       }
     },
-    "sm": {
+    "default": {
       "vertical-gap": {
         "value": "{semantic.spacing.list.sm.vertical-gap}",
         "type": "spacing"
-      }
-    },
-    "default": {
+      },
       "title-color": {
         "value": "{semantic.color.list.default.title}",
         "type": "color"
@@ -60,13 +58,19 @@
         }
       }
     },
-    "xs": {
+    "compact": {
       "vertical-gap": {
         "value": "{semantic.spacing.list.xs.vertical-gap}",
         "type": "spacing"
+      },
+      "title": {
+        "padding-bottom": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        }
       }
     },
-    "colums": {
+    "columns": {
       "horizontal-gap": {
         "value": "{semantic.spacing.list.md.horizontal-gap}",
         "type": "spacing"

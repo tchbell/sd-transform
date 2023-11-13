@@ -4,7 +4,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.md.text.typography}",
+            "value": "{semantic.typography.text.default-emphasis.md}",
             "type": "typography"
           }
         }
@@ -12,7 +12,7 @@
       "sm": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.sm.text}",
+            "value": "{semantic.typography.text.default-emphasis.sm}",
             "type": "typography"
           }
         }
@@ -20,7 +20,7 @@
       "xs": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.xs.text.typography}",
+            "value": "{semantic.typography.text.default-emphasis.xs}",
             "type": "typography"
           }
         }
@@ -53,11 +53,9 @@
       }
     },
     "default": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.typography.default.text}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{semantic.color.typography.default.text}",
+        "type": "color"
       }
     },
     "padding-bottom": {

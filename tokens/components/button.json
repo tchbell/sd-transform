@@ -385,11 +385,11 @@
       }
     },
     "padding-right": {
-      "value": "{semantic.spacing.actions.large.padding-right}",
+      "value": "{semantic.spacing.actions.lg.padding-right}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{semantic.spacing.actions.large.padding-left}",
+      "value": "{semantic.spacing.actions.lg.padding-left}",
       "type": "spacing"
     },
     "label": {
@@ -399,15 +399,15 @@
       }
     },
     "padding-top": {
-      "value": "{semantic.spacing.actions.large.padding-top}",
+      "value": "{semantic.spacing.actions.lg.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{semantic.spacing.actions.large.padding-bottom}",
+      "value": "{semantic.spacing.actions.lg.padding-bottom}",
       "type": "spacing"
     },
     "gap": {
-      "value": "{semantic.spacing.actions.large.gap}",
+      "value": "{semantic.spacing.actions.lg.gap}",
       "type": "spacing"
     },
     "border-radius": {
