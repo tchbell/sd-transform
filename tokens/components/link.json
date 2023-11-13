@@ -39,21 +39,21 @@
     "primary": {
       "rested": {
         "text-color": {
-          "value": "{semantic.color.actions.link.primary.rested.text}",
+          "value": "{semantic.color.actions.link.primary.rested.text-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.link.primary.rested.icon}",
+          "value": "{semantic.color.actions.link.primary.rested.icon color}",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "{semantic.color.actions.link.primary.hover.text}",
+          "value": "{semantic.color.actions.link.primary.hover.text-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.link.primary.hover.icon}",
+          "value": "{semantic.color.actions.link.primary.hover.icon-color}",
           "type": "color"
         }
       }
@@ -61,21 +61,21 @@
     "secondary": {
       "rested": {
         "text-color": {
-          "value": "{semantic.color.actions.link.secondary.rested.text}",
+          "value": "{semantic.color.actions.link.secondary.rested.text-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.link.secondary.rested.icon}",
+          "value": "{semantic.color.actions.link.secondary.rested.icon-color}",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "{semantic.color.actions.link.secondary.hover.text}",
+          "value": "{semantic.color.actions.link.secondary.hover.text-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.link.secondary.hover.icon}",
+          "value": "{semantic.color.actions.link.secondary.hover.icon-color}",
           "type": "color"
         }
       }
@@ -83,17 +83,17 @@
     "inverse": {
       "rested": {
         "text-color": {
-          "value": "{semantic.color.actions.link.inverse.rested.text}",
+          "value": "{semantic.color.actions.link.inverse.rested.text-color}",
           "type": "color"
         },
         "icon-color": {
-          "value": "{semantic.color.actions.link.inverse.rested.icon}",
+          "value": "{semantic.color.actions.link.inverse.rested.icon-color}",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "{semantic.color.actions.link.inverse.hover.text}",
+          "value": "{semantic.color.actions.link.inverse.hover.text-color}",
           "type": "color"
         },
         "icon-color": {

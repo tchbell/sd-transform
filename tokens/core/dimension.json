@@ -187,6 +187,10 @@
     "lg": {
       "value": "{util.borderThickness} * 1.5",
       "type": "borderWidth"
+    },
+    "xl": {
+      "value": "{util.borderThickness} * 2",
+      "type": "borderWidth"
     }
   }
 }

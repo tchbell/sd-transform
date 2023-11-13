@@ -38,24 +38,24 @@
     },
     "default": {
       "title-color": {
-        "value": "{semantic.color.list.default.title-color}",
+        "value": "{semantic.color.list.default.title}",
         "type": "color"
       },
       "rested": {
         "text-color": {
-          "value": "{semantic.color.list.default.rested.text-color}",
+          "value": "{semantic.color.list.default.rested.text}",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "{semantic.color.list.default.hover.text-color}",
+          "value": "{semantic.color.list.default.hover.text}",
           "type": "color"
         }
       },
       "active": {
         "text-color": {
-          "value": "{semantic.color.list.default.active.text-color}",
+          "value": "{semantic.color.list.default.active.text}",
           "type": "color"
         }
       }
@@ -85,24 +85,24 @@
   },
   "inverse": {
     "title-color": {
-      "value": "{semantic.color.list.inverse.title-color}",
+      "value": "{semantic.color.list.inverse.title}",
       "type": "color"
     },
     "rested": {
       "text-color": {
-        "value": "{semantic.color.list.inverse.rested.text-color}",
+        "value": "{semantic.color.list.inverse.rested.text}",
         "type": "color"
       }
     },
     "hover": {
       "text-color": {
-        "value": "{semantic.color.list.inverse.hover.text-color}",
+        "value": "{semantic.color.list.inverse.hover.text}",
         "type": "color"
       }
     },
     "active": {
       "text-color": {
-        "value": "{semantic.color.list.inverse.active.text-color}",
+        "value": "{semantic.color.list.inverse.active.text}",
         "type": "color"
       }
     }

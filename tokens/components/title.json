@@ -50,13 +50,13 @@
     },
     "default": {
       "text-color": {
-        "value": "{semantic.color.typography.contrast.text-color}",
+        "value": "{semantic.color.typography.contrast.text}",
         "type": "color"
       }
     },
     "inverted": {
       "text-color": {
-        "value": "{semantic.color.typography.inverse.text-color}",
+        "value": "{semantic.color.typography.inverse.text}",
         "type": "color"
       }
     }

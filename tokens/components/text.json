@@ -4,7 +4,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.md}",
+            "value": "{semantic.typography.text.default-emphasis.md.text.typography}",
             "type": "typography"
           }
         }
@@ -12,7 +12,7 @@
       "sm": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.sm}",
+            "value": "{semantic.typography.text.default-emphasis.sm.text}",
             "type": "typography"
           }
         }
@@ -20,7 +20,7 @@
       "xs": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.default-emphasis.xs}",
+            "value": "{semantic.typography.text.default-emphasis.xs.text.typography}",
             "type": "typography"
           }
         }
@@ -30,7 +30,7 @@
       "md": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.heavy-emphasis.md}",
+            "value": "{semantic.typography.text.heavy-emphasis.md.text.typography}",
             "type": "typography"
           }
         }
@@ -38,7 +38,7 @@
       "sm": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.heavy-emphasis.sm}",
+            "value": "{semantic.typography.text.heavy-emphasis.sm.text.typography}",
             "type": "typography"
           }
         }
@@ -46,27 +46,23 @@
       "xs": {
         "text": {
           "typography": {
-            "value": "{semantic.typography.text.heavy-emphasis.xs}",
+            "value": "{semantic.typography.text.heavy-emphasis.xs.text.typography}",
             "type": "typography"
           }
         }
       }
     },
     "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.default.text-color}",
-        "type": "color"
+      "text": {
+        "color": {
+          "value": "{semantic.color.typography.default.text}",
+          "type": "color"
+        }
       }
     },
     "padding-bottom": {
       "value": "{semantic.spacing.text.padding-bottom}",
       "type": "spacing"
-    },
-    "inverse": {
-      "text-color": {
-        "value": "{semantic.color.typography.inverse.text-color}",
-        "type": "color"
-      }
     }
   }
 }

@@ -25,6 +25,10 @@
         "value": "{button.button-title}",
         "type": "typography"
       }
+    },
+    "border-width": {
+      "value": "{border-width.xl}",
+      "type": "borderWidth"
     }
   },
   "multislect": {

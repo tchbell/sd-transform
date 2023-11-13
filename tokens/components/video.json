@@ -30,12 +30,12 @@
           }
         }
       }
-    }
-  },
-  "opacity": {
-    "40": {
-      "value": "40%",
-      "type": "opacity"
+    },
+    "opacity": {
+      "40": {
+        "value": "{opacity.40}",
+        "type": "opacity"
+      }
     }
   }
 }
