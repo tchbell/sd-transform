@@ -2,7 +2,7 @@
   "accordion": {
     "text": {
       "typography": {
-        "value": "{general.global.S-1-default}",
+        "value": "{semantic.typography.text.md.default}",
         "type": "typography"
       }
     },
@@ -85,21 +85,21 @@
   },
   "element": {
     "gap": {
-      "value": "{dimension.150}",
+      "value": "{semantic.spacing.accordion.lg.gap}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{dimension.150}",
+      "value": "{semantic.spacing.accordion.lg.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{dimension.150}",
+      "value": "{semantic.spacing.accordion.lg.padding-bottom}",
       "type": "spacing"
     }
   },
   "title": {
     "gap": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.accordion.sm.gap}",
       "type": "spacing"
     }
   }

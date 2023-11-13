@@ -11,13 +11,13 @@
       }
     },
     "gap": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.tags.gap}",
       "type": "spacing"
     },
     "label": {
       "default": {
         "typography": {
-          "value": "{DTC.S-1-default}",
+          "value": "{semantic.typography.text.md.default}",
           "type": "typography"
         }
       }
@@ -33,19 +33,19 @@
       }
     },
     "padding-right": {
-      "value": "{dimension.100}",
+      "value": "{semantic.spacing.tags.padding-right}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{dimension.100}",
+      "value": "{semantic.spacing.tags.padding-left}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.tags.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.tags.padding-bottom}",
       "type": "spacing"
     }
   },
@@ -70,13 +70,13 @@
     },
     "default": {
       "typography": {
-        "value": "{global.XS-1-default}",
+        "value": "{semantic.typography.text.sm.default}",
         "type": "typography"
       }
     },
     "disabled": {
       "typography": {
-        "value": "{DTC.XS1-strikethrough}",
+        "value": "{semantic.typography.text.sm.strikethrough}",
         "type": "typography"
       }
     },
@@ -188,7 +188,7 @@
         }
       },
       "typography": {
-        "value": "{global.XXS-2-emphasis}",
+        "value": "{semantic.typography.text.xs.emphasis}",
         "type": "typography"
       }
     },
@@ -200,7 +200,7 @@
     },
     "disabled": {
       "typography": {
-        "value": "{DTC.XS1-strikethrough}",
+        "value": "{semantic.typography.text.sm.strikethrough}",
         "type": "typography"
       }
     },

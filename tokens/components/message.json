@@ -1,30 +1,22 @@
 {
   "gap": {
-    "value": "{dimension.0_50}",
+    "value": "{semantic.spacing.message.gap}",
     "type": "spacing"
   },
   "messages": {
     "text": {
       "typography": {
-        "value": "{global.S-1-default}",
+        "value": "{semantic.typography.text.md.default}",
         "type": "typography"
       }
     }
   },
   "padding-right": {
-    "value": "{dimension.100}",
+    "value": "{semantic.spacing.message.padding-right}",
     "type": "spacing"
   },
   "padding-left": {
-    "value": "{dimension.100}",
-    "type": "spacing"
-  },
-  "padding-top": {
-    "value": "{dimension.0_50}",
-    "type": "spacing"
-  },
-  "padding-bottom": {
-    "value": "{dimension.0_50}",
+    "value": "{semantic.spacing.message.padding-left}",
     "type": "spacing"
   },
   "message": {
@@ -48,5 +40,13 @@
         "type": "color"
       }
     }
+  },
+  "padding-top": {
+    "value": "{semantic.spacing.message.padding-top}",
+    "type": "spacing"
+  },
+  "padding-bottom": {
+    "value": "{semantic.spacing.message.padding-bottom}",
+    "type": "spacing"
   }
 }

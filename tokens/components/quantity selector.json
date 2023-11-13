@@ -79,7 +79,9 @@
     "border-radius": {
       "value": "{border-radius.sm}",
       "type": "borderRadius"
-    },
+    }
+  },
+  "sm": {
     "padding-right": {
       "value": "{dimension.0_50}",
       "type": "spacing"
@@ -99,7 +101,7 @@
   },
   "sizeselector": {
     "typography": {
-      "value": "{DTC.S-1-default}",
+      "value": "{semantic.typography.text.md.default}",
       "type": "typography"
     }
   },
@@ -259,6 +261,26 @@
           "type": "color"
         }
       }
+    }
+  },
+  "md": {
+    "padding-top": {
+      "value": "{dimension.100}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{dimension.100}",
+      "type": "spacing"
+    }
+  },
+  "lg": {
+    "padding-left": {
+      "value": "{dimension.150}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{dimension.150}",
+      "type": "spacing"
     }
   }
 }

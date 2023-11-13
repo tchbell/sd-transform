@@ -1,21 +1,39 @@
 {
   "pictograms": {
-    "default": {
-      "colour": {
-        "value": "#000000",
-        "type": "color"
-      }
-    },
-    "hover": {
-      "color": {
-        "value": "#2E2E2E",
-        "type": "color"
+    "text": {
+      "default": {
+        "rested": {
+          "colour": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "color": {
+            "value": "{semantic.color.pictogram.default.hover}",
+            "type": "color"
+          }
+        }
+      },
+      "inverse": {
+        "rested": {
+          "colour": {
+            "value": "{semantic.color.pictogram.inverse.rested}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "color": {
+            "value": "{semantic.color.pictogram.inverse.hover}",
+            "type": "color"
+          }
+        }
       }
     },
     "no info": {
       "text": {
         "typography": {
-          "value": "{general.global.XXS-1-default}",
+          "value": "{semantic.typography.text.xs.default}",
           "type": "typography"
         }
       }
@@ -23,7 +41,7 @@
     "info": {
       "text": {
         "typography": {
-          "value": "{general.global.XXS-1-link}",
+          "value": "{semantic.typography.text.xs.underline}",
           "type": "typography"
         }
       }

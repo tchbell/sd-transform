@@ -1,31 +1,33 @@
 {
   "video": {
-    "progress-bar": {
-      "active": {
-        "value": "#000000",
-        "type": "color"
+    "default": {
+      "progress-bar": {
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "rested": {
+          "value": "{semantic.color.video.default.rested.base-bar}",
+          "type": "color"
+        }
       },
-      "rested": {
-        "value": "#CFCFCF",
-        "type": "color"
-      }
-    },
-    "pointer": {
-      "active": {
-        "value": "#DB8332",
-        "type": "color"
-      }
-    },
-    "base-bar": {
-      "rested": {
-        "value": "#CFCFCF",
-        "type": "color",
-        "$extensions": {
-          "studio.tokens": {
-            "modify": {
-              "type": "alpha",
-              "value": "0.4",
-              "space": "srgb"
+      "pointer": {
+        "active": {
+          "value": "{semantic.color.video.default.pointer.default}",
+          "type": "color"
+        }
+      },
+      "base-bar": {
+        "rested": {
+          "value": "{semantic.color.video.default.rested.base-bar}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "srgb"
+              }
             }
           }
         }
@@ -35,6 +37,39 @@
       "40": {
         "value": "{opacity.40}",
         "type": "opacity"
+      }
+    },
+    "inverse": {
+      "progress-bar": {
+        "active": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "rested": {
+          "value": "{semantic.color.video.default.rested.base-bar}",
+          "type": "color"
+        }
+      },
+      "pointer": {
+        "active": {
+          "value": "{semantic.color.video.default.pointer.default}",
+          "type": "color"
+        }
+      },
+      "base-bar": {
+        "rested": {
+          "value": "{semantic.color.video.default.rested.base-bar}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "0.4",
+                "space": "srgb"
+              }
+            }
+          }
+        }
       }
     }
   }
