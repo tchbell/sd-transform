@@ -664,7 +664,11 @@
           "checkbox": {
             "checkmark": {
               "value": "{color.status.error}",
-              "type": "color"
+              "type": "color",
+              "border": {
+                "value": "{color.status.error}",
+                "type": "color"
+              }
             },
             "text": {
               "value": "{color.status.error}",
@@ -710,10 +714,8 @@
             "type": "color"
           },
           "line": {
-            "color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
+            "value": "{color.neutrals.black}",
+            "type": "color"
           },
           "checkbox": {
             "checkmark": {
