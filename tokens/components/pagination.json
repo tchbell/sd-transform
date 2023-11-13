@@ -4,6 +4,10 @@
       "typography": {
         "value": "{semantic.typography.pagination.text}",
         "type": "typography"
+      },
+      "gap": {
+        "value": "{semantic.spacing.pagination.text.gap}",
+        "type": "spacing"
       }
     },
     "default": {
@@ -70,8 +74,28 @@
     },
     "scrubber": {
       "gap": {
-        "value": "{dimension.0_50}",
+        "value": "{semantic.spacing.pagination.scrubber.gap}",
         "type": "spacing"
+      }
+    }
+  },
+  "pagintation": {
+    "scrubber": {
+      "height": {
+        "value": "{semantic.sizing.pagination.scrubber.height}",
+        "type": "sizing"
+      },
+      "lg": {
+        "width": {
+          "value": "{semantic.sizing.pagination.scrubber.lg.width}",
+          "type": "sizing"
+        }
+      },
+      "sm": {
+        "width": {
+          "value": "{semantic.sizing.pagination.scrubber.sm.width}",
+          "type": "sizing"
+        }
       }
     }
   }

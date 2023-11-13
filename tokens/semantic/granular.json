@@ -978,6 +978,20 @@
             "type": "spacing"
           }
         }
+      },
+      "pagination": {
+        "scrubber": {
+          "gap": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          }
+        },
+        "text": {
+          "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "border-radius": {
@@ -1014,6 +1028,26 @@
           "width": {
             "value": "{dimension.500}",
             "type": "sizing"
+          }
+        }
+      },
+      "pagination": {
+        "scrubber": {
+          "height": {
+            "value": "{dimension.0_125}",
+            "type": "sizing"
+          },
+          "lg": {
+            "width": {
+              "value": "{dimension.950}",
+              "type": "sizing"
+            }
+          },
+          "sm": {
+            "width": {
+              "value": "{dimension.200}",
+              "type": "sizing"
+            }
           }
         }
       }
