@@ -2,7 +2,7 @@
   "pagination": {
     "text": {
       "typography": {
-        "value": "{general.global.XXS-1-default}",
+        "value": "{semantic.typography.pagination.text}",
         "type": "typography"
       }
     },
@@ -31,12 +31,6 @@
             }
           }
         }
-      }
-    },
-    "number": {
-      "typography": {
-        "value": "{general.global.XS-1-default}",
-        "type": "typography"
       }
     },
     "rested": {

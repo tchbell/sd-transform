@@ -878,6 +878,12 @@
             "type": "typography"
           }
         }
+      },
+      "pagination": {
+        "text": {
+          "value": "{semantic.typography.text.xs.default}",
+          "type": "typography"
+        }
       }
     },
     "spacing": {
