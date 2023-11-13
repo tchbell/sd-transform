@@ -526,21 +526,41 @@
         }
       },
       "pagination": {
-        "rested": {
-          "scrubber": {
-            "value": "{color.grey.500}",
+        "default": {
+          "rested": {
+            "scrubber": {
+              "value": "{semantic.color.surface.secondary.muted.bg}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "scrubber": {
+              "value": "{semantic.color.surface.secondary.default.bg}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "value": "{semantic.color.fg.default}",
             "type": "color"
           }
         },
-        "active": {
-          "scrubber": {
-            "value": "{color.neutrals.black}",
+        "inverse": {
+          "rested": {
+            "scrubber": {
+              "value": "{semantic.color.surface.onInverse.muted.bg}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "scrubber": {
+              "value": "{semantic.color.surface.onInverse.default.bg}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "value": "{semantic.color.fg.inverse.default}",
             "type": "color"
           }
-        },
-        "text": {
-          "value": "{color.neutrals.black}",
-          "type": "color"
         }
       },
       "inputs": {
