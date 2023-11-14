@@ -106,15 +106,13 @@
         "type": "color"
       }
     },
-    "status": {
-      "error": {
-        "value": "#DB1616",
-        "type": "color"
-      },
-      "success": {
-        "value": "#03AA00",
-        "type": "color"
-      }
+    "red": {
+      "value": "#DB1616",
+      "type": "color"
+    },
+    "green": {
+      "value": "#03AA00",
+      "type": "color"
     }
   }
 }

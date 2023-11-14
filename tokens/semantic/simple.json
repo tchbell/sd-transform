@@ -81,7 +81,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.400}",
+              "value": "{color.grey.100}",
               "type": "color"
             },
             "fg-primary": {
@@ -363,6 +363,12 @@
               "type": "color"
             }
           }
+        },
+        "onNeutral": {
+          "bg": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          }
         }
       },
       "fg": {
@@ -422,6 +428,14 @@
         },
         "super-subtle": {
           "value": "rgba({color.grey.100} , {opacity.40})",
+          "type": "color"
+        },
+        "error": {
+          "value": "{color.red}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.green}",
           "type": "color"
         }
       }

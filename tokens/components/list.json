@@ -79,36 +79,36 @@
         "value": "{semantic.spacing.list.lg.vertical-gap}",
         "type": "spacing"
       }
+    },
+    "inverse": {
+      "title-color": {
+        "value": "{semantic.color.list.inverse.title}",
+        "type": "color"
+      },
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.rested.text}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.hover.text}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.active.text}",
+          "type": "color"
+        }
+      }
     }
   },
   "list-item": {
     "horizontal-gap": {
       "value": "{semantic.spacing.list.item.horizontal-gap}",
       "type": "spacing"
-    }
-  },
-  "inverse": {
-    "title-color": {
-      "value": "{semantic.color.list.inverse.title}",
-      "type": "color"
-    },
-    "rested": {
-      "text-color": {
-        "value": "{semantic.color.list.inverse.rested.text}",
-        "type": "color"
-      }
-    },
-    "hover": {
-      "text-color": {
-        "value": "{semantic.color.list.inverse.hover.text}",
-        "type": "color"
-      }
-    },
-    "active": {
-      "text-color": {
-        "value": "{semantic.color.list.inverse.active.text}",
-        "type": "color"
-      }
     }
   }
 }

@@ -7,198 +7,200 @@
       }
     },
     "default": {
-      "label-color": {
-        "value": "{semantic.color.inputs.default.label}",
-        "type": "color"
-      },
-      "inputtext-color": {
-        "value": "{semantic.color.inputs.default.inputtext}",
-        "type": "color"
-      },
-      "line-color": {
-        "value": "{semantic.color.inputs.default.line}",
-        "type": "color"
-      },
-      "helpertext-color": {
-        "value": "{semantic.color.inputs.default.helpertext}",
-        "type": "color"
-      },
-      "dropdown": {
-        "text-color": {
-          "value": "{semantic.color.inputs.default.dropdown.text}",
+      "rested": {
+        "label-color": {
+          "value": "{semantic.color.inputs.default.rested.label}",
+          "type": "color"
+        },
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.rested.inputtext}",
           "type": "color"
         },
         "line-color": {
-          "value": "{semantic.color.inputs.default.dropdown.line}",
+          "value": "{semantic.color.inputs.default.rested.line}",
           "type": "color"
         },
-        "bg-color": {
-          "value": "{semantic.color.inputs.default.dropdown.bg}",
+        "helpertext-color": {
+          "value": "{semantic.color.inputs.default.rested.helpertext}",
           "type": "color"
-        }
-      },
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.default.checkbox.checkmark.border-color}",
+        },
+        "dropdown": {
+          "text-color": {
+            "value": "{semantic.color.inputs.default.rested.dropdown.text}",
             "type": "color"
-          }
-        },
-        "text-color": {
-          "value": "{semantic.color.inputs.default.checkbox.text}",
-          "type": "color"
-        }
-      }
-    },
-    "disabled": {
-      "label-color": {
-        "value": "{semantic.color.inputs.disabled.label}",
-        "type": "color"
-      },
-      "line-color": {
-        "value": "{semantic.color.inputs.disabled.line}",
-        "type": "color"
-      },
-      "helpertext-color": {
-        "value": "{semantic.color.inputs.disabled.helpertext}",
-        "type": "color"
-      },
-      "inputtext-color": {
-        "value": "{semantic.color.inputs.disabled.inputtext}",
-        "type": "color"
-      },
-      "dropdown": {
-        "text-color": {
-          "value": "{semantic.color.inputs.disabled.dropdown.text}",
-          "type": "color"
-        },
-        "line-color": {
-          "value": "{semantic.color.inputs.disabled.dropdown.line}",
-          "type": "color"
-        }
-      },
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.disabled.checkbox.checkmark.border}",
-            "type": "color"
-          }
-        },
-        "text-color": {
-          "value": "{semantic.color.inputs.disabled.checkbox.text}",
-          "type": "color"
-        }
-      }
-    },
-    "error": {
-      "label-color": {
-        "value": "{semantic.color.inputs.error.label}",
-        "type": "color"
-      },
-      "line-color": {
-        "value": "{semantic.color.inputs.error.helpertext}",
-        "type": "color"
-      },
-      "inputtext-color": {
-        "value": "{semantic.color.inputs.error.inputtext}",
-        "type": "color"
-      },
-      "helpertext-color": {
-        "value": "{semantic.color.inputs.error.helpertext}",
-        "type": "color"
-      },
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.error.checkbox.checkmark.border}",
-            "type": "color"
-          }
-        },
-        "text-color": {
-          "value": "{semantic.color.inputs.error.checkbox.text}",
-          "type": "color"
-        }
-      }
-    },
-    "hover": {
-      "inputtext-color": {
-        "value": "{semantic.color.inputs.hover.inputtext}",
-        "type": "color"
-      },
-      "line-color": {
-        "value": "{semantic.color.inputs.hover.line}",
-        "type": "color"
-      },
-      "dropdown": {
-        "text-color": {
-          "value": "{semantic.color.inputs.hover.dropdown.text}",
-          "type": "color"
-        },
-        "line-color": {
-          "value": "{semantic.color.inputs.hover.dropdown.line}",
-          "type": "color"
-        }
-      },
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.hover.checkbox.checkmark.border}",
-            "type": "color"
-          }
-        },
-        "text-color": {
-          "value": "{semantic.color.inputs.hover.checkbox.text}",
-          "type": "color"
-        }
-      }
-    },
-    "filled": {
-      "inputtext-color": {
-        "value": "{semantic.color.inputs.filled.inputtext}",
-        "type": "color"
-      },
-      "line-color": {
-        "value": "{semantic.color.inputs.filled.line}",
-        "type": "color"
-      },
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.filled.checkbox.checkmark.border}",
+          },
+          "line-color": {
+            "value": "{semantic.color.inputs.default.rested.dropdown.line}",
             "type": "color"
           },
           "bg-color": {
-            "value": "{semantic.color.inputs.filled.checkbox.checkmark.bg}",
+            "value": "{semantic.color.inputs.default.rested.dropdown.bg}",
             "type": "color"
           }
         },
-        "text-color": {
-          "value": "{semantic.color.inputs.filled.checkbox.text}",
-          "type": "color"
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.default.rested.checkbox.checkmark.border}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.rested.checkbox.text}",
+            "type": "color"
+          }
         }
-      }
-    },
-    "success": {
-      "helpertext-color": {
-        "value": "{semantic.color.inputs.success.helpertext}",
-        "type": "color"
-      }
-    },
-    "disabled-filled": {
-      "checkbox": {
-        "checkmark": {
-          "border-color": {
-            "value": "{semantic.color.inputs.disabled-filled.checkbox.checkmark.border}",
+      },
+      "disabled": {
+        "label-color": {
+          "value": "{semantic.color.inputs.default.disabled.label}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.inputs.default.disabled.line}",
+          "type": "color"
+        },
+        "helpertext-color": {
+          "value": "{semantic.color.inputs.default.disabled.helpertext}",
+          "type": "color"
+        },
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.disabled.inputtext}",
+          "type": "color"
+        },
+        "dropdown": {
+          "text-color": {
+            "value": "{semantic.color.inputs.default.disabled.dropdown.text}",
             "type": "color"
           },
-          "bg-color": {
-            "value": "{semantic.color.inputs.disabled-filled.checkbox.checkmark.bg}",
+          "line-color": {
+            "value": "{semantic.color.inputs.default.disabled.dropdown.line}",
             "type": "color"
           }
         },
-        "text-color": {
-          "value": "{semantic.color.inputs.disabled-filled.checkbox.text}",
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.default.disabled.checkbox.checkmark.border}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.disabled.checkbox.text}",
+            "type": "color"
+          }
+        }
+      },
+      "error": {
+        "label-color": {
+          "value": "{semantic.color.inputs.default.error.label}",
           "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.inputs.default.error.helpertext}",
+          "type": "color"
+        },
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.error.inputtext}",
+          "type": "color"
+        },
+        "helpertext-color": {
+          "value": "{semantic.color.inputs.default.error.helpertext}",
+          "type": "color"
+        },
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.error.checkbox.checkmark.border}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.error.checkbox.text}",
+            "type": "color"
+          }
+        }
+      },
+      "hover": {
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.hover.inputtext}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.inputs.default.hover.line}",
+          "type": "color"
+        },
+        "dropdown": {
+          "text-color": {
+            "value": "{semantic.color.inputs.default.hover.dropdown.text}",
+            "type": "color"
+          },
+          "line-color": {
+            "value": "{semantic.color.inputs.default.hover.dropdown.line}",
+            "type": "color"
+          }
+        },
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.default.hover.checkbox.checkmark.border}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.hover.checkbox.text}",
+            "type": "color"
+          }
+        }
+      },
+      "filled": {
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.filled.inputtext}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.inputs.default.filled.line}",
+          "type": "color"
+        },
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.default.filled.checkbox.checkmark.border}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.color.inputs.default.filled.checkbox.checkmark.bg}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.filled.checkbox.text}",
+            "type": "color"
+          }
+        }
+      },
+      "success": {
+        "helpertext-color": {
+          "value": "{semantic.color.inputs.default.success.helpertext}",
+          "type": "color"
+        }
+      },
+      "disabled-filled": {
+        "checkbox": {
+          "checkmark": {
+            "border-color": {
+              "value": "{semantic.color.inputs.default.disabled-filled.checkbox.checkmark.border}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{semantic.color.inputs.default.disabled-filled.checkbox.checkmark.bg}",
+              "type": "color"
+            }
+          },
+          "text-color": {
+            "value": "{semantic.color.inputs.default.disabled-filled.checkbox.text}",
+            "type": "color"
+          }
         }
       }
     },
