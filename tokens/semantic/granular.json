@@ -615,36 +615,36 @@
               "type": "color"
             },
             "inputtext": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               },
               "line": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{color.grey.500}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             }

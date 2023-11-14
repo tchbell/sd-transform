@@ -56,16 +56,16 @@
           "value": "{semantic.color.inputs.default.disabled.label}",
           "type": "color"
         },
+        "inputtext-color": {
+          "value": "{semantic.color.inputs.default.disabled.inputtext}",
+          "type": "color"
+        },
         "line-color": {
           "value": "{semantic.color.inputs.default.disabled.line}",
           "type": "color"
         },
         "helpertext-color": {
           "value": "{semantic.color.inputs.default.disabled.helpertext}",
-          "type": "color"
-        },
-        "inputtext-color": {
-          "value": "{semantic.color.inputs.default.disabled.inputtext}",
           "type": "color"
         },
         "dropdown": {
