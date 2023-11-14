@@ -594,16 +594,6 @@
               "bg": {
                 "value": "{semantic.color.surface.onNeutral.bg}",
                 "type": "color"
-              },
-              "scrollbar": {
-                "active": {
-                  "value": "{semantic.color.surface.neutral.default.fg-default}",
-                  "type": "color"
-                },
-                "base": {
-                  "value": "{semantic.color.fg.super-subtle}",
-                  "type": "color"
-                }
               }
             },
             "checkbox": {
@@ -621,65 +611,65 @@
           },
           "disabled": {
             "label": {
-              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               },
               "line": {
-                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             }
           },
           "error": {
             "label": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "line": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{color.red}",
+                  "value": "{semantic.color.fg.error}",
                   "type": "color",
                   "border": {
                     "value": "{color.status.error}",
@@ -688,7 +678,7 @@
                 }
               },
               "text": {
-                "value": "{color.red}",
+                "value": "{semantic.color.fg.error}",
                 "type": "color"
               }
             }
@@ -783,39 +773,29 @@
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+                "value": "{semantic.color.surface.neutral.default.fg-subtle}",
                 "type": "color"
               },
               "line": {
-                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               },
               "bg": {
-                "value": "{semantic.color.surface.neutral.inverse.bg}",
+                "value": "{semantic.color.surface.onNeutral.bg}",
                 "type": "color"
-              },
-              "scrollbar": {
-                "active": {
-                  "value": "{semantic.color.surface.neutral.default.fg-default}",
-                  "type": "color"
-                },
-                "base": {
-                  "value": "{semantic.color.fg.super-subtle}",
-                  "type": "color"
-                }
               }
             },
             "checkbox": {
@@ -833,65 +813,65 @@
           },
           "disabled": {
             "label": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "value": "{semantic.color.surface.primary.muted.fg-muted}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               },
               "line": {
-                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             }
           },
           "error": {
             "label": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "line": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{color.red}",
+              "value": "{semantic.color.fg.error}",
               "type": "color"
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{color.red}",
+                  "value": "{semantic.color.fg.error}",
                   "type": "color",
                   "border": {
                     "value": "{color.status.error}",
@@ -900,7 +880,7 @@
                 }
               },
               "text": {
-                "value": "{color.red}",
+                "value": "{semantic.color.fg.error}",
                 "type": "color"
               }
             }
@@ -1005,6 +985,84 @@
         "pointer": {
           "value": "{color.orange.500}",
           "type": "color"
+        }
+      },
+      "quantity selector": {
+        "size selector": {
+          "rested": {
+            "fg-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fg-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{color.grey.60}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "fg-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            },
+            "bg-color": {
+              "value": "{color.grey.60}",
+              "type": "color"
+            },
+            "border-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            }
+          }
+        },
+        "quantity button": {
+          "neutral": {
+            "rested-color": {
+              "value": "{color.neutrals.black}",
+              "type": "color"
+            },
+            "hover-color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            },
+            "disabled-color": {
+              "value": "{color.grey.100}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "rested-color": {
+              "value": "{color.orange.500}",
+              "type": "color"
+            },
+            "hover-color": {
+              "value": "{color.orange.400}",
+              "type": "color"
+            },
+            "disabled-color": {
+              "value": "{color.orange.100}",
+              "type": "color"
+            }
+          },
+          "inverse": {
+            "rested-color": {
+              "value": "{color.neutrals.white}",
+              "type": "color"
+            },
+            "hover-color": {
+              "value": "{color.grey.100}",
+              "type": "color"
+            },
+            "disabled-color": {
+              "value": "{color.grey.700}",
+              "type": "color"
+            }
+          }
         }
       }
     },
@@ -1120,7 +1178,7 @@
     },
     "spacing": {
       "actions": {
-        "lg": {
+        "md": {
           "padding-right": {
             "value": "{dimension.100}",
             "type": "spacing"
@@ -1135,6 +1193,28 @@
           },
           "padding-bottom": {
             "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        },
+        "sm": {
+          "padding-right": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.0_50}",
             "type": "spacing"
           },
           "gap": {
@@ -1142,25 +1222,25 @@
             "type": "spacing"
           }
         },
-        "md": {
+        "lg": {
           "padding-right": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.150}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.150}",
             "type": "spacing"
           },
           "padding-top": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.150}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.150}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.150}",
             "type": "spacing"
           }
         }
@@ -1226,6 +1306,32 @@
         },
         "text": {
           "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        }
+      },
+      "message": {
+        "sm": {
+          "padding-top": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          }
+        },
+        "md": {
+          "padding-right": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
             "value": "{dimension.100}",
             "type": "spacing"
           }

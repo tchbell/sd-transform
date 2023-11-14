@@ -1,6 +1,6 @@
 {
   "gap": {
-    "value": "{semantic.spacing.message.gap}",
+    "value": "{semantic.spacing.message.sm.gap}",
     "type": "spacing"
   },
   "messages": {
@@ -12,11 +12,11 @@
     }
   },
   "padding-right": {
-    "value": "{semantic.spacing.message.padding-right}",
+    "value": "{semantic.spacing.message.md.padding-right}",
     "type": "spacing"
   },
   "padding-left": {
-    "value": "{semantic.spacing.message.padding-left}",
+    "value": "{semantic.spacing.message.md.padding-left}",
     "type": "spacing"
   },
   "message": {
@@ -42,11 +42,15 @@
     }
   },
   "padding-top": {
-    "value": "{semantic.spacing.message.padding-top}",
+    "value": "{semantic.spacing.message.sm.padding-top}",
     "type": "spacing"
   },
   "padding-bottom": {
-    "value": "{semantic.spacing.message.padding-bottom}",
+    "value": "{semantic.spacing.message.sm.padding-bottom}",
     "type": "spacing"
+  },
+  "message border radius": {
+    "value": "{border-radius.none}",
+    "type": "borderRadius"
   }
 }

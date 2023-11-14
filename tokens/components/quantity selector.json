@@ -2,25 +2,25 @@
   "qty button": {
     "neutral": {
       "rested-color": {
-        "value": "{color.neutrals.black}",
+        "value": "{semantic.color.quantity selector.quantity button.neutral.rested-color}",
         "type": "color"
       },
       "hover-color": {
-        "value": "{color.grey.700}",
+        "value": "{semantic.color.quantity selector.quantity button.neutral.hover-color}",
         "type": "color"
       },
       "disabled-color": {
-        "value": "{color.grey.100}",
+        "value": "{semantic.color.quantity selector.quantity button.neutral.disabled-color}",
         "type": "color"
       }
     },
     "accent": {
       "rested-color": {
-        "value": "{color.orange.500}",
+        "value": "{semantic.color.quantity selector.quantity button.accent.rested-color}",
         "type": "color"
       },
       "hover-color": {
-        "value": "{color.orange.400}",
+        "value": "{semantic.color.quantity selector.quantity button.accent.hover-color}",
         "type": "color"
       },
       "disabled-color": {
@@ -46,31 +46,31 @@
   "size": {
     "rested": {
       "fg-color": {
-        "value": "{color.neutrals.black}",
+        "value": "{semantic.color.quantity selector.size selector.rested.fg-color}",
         "type": "color"
       }
     },
     "hover": {
       "fg-color": {
-        "value": "{color.neutrals.black}",
+        "value": "{semantic.color.quantity selector.size selector.hover.fg-color}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{color.grey.60}",
+        "value": "{semantic.color.quantity selector.size selector.hover.bg-color}",
         "type": "color"
       }
     },
     "active": {
       "fg-color": {
-        "value": "{color.neutrals.black}",
+        "value": "{semantic.color.quantity selector.size selector.active.fg-color}",
         "type": "color"
       },
       "bg-color": {
-        "value": "{color.grey.60}",
+        "value": "{semantic.color.quantity selector.size selector.active.bg-color}",
         "type": "color"
       },
       "border-color": {
-        "value": "{color.neutrals.black}",
+        "value": "{semantic.color.quantity selector.size selector.active.border-color}",
         "type": "color"
       }
     }
@@ -83,19 +83,19 @@
   },
   "sm": {
     "padding-right": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.actions.sm.padding-right}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.actions.sm.padding-left}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.actions.sm.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{dimension.0_50}",
+      "value": "{semantic.spacing.actions.sm.padding-bottom}",
       "type": "spacing"
     }
   },
@@ -265,21 +265,21 @@
   },
   "md": {
     "padding-top": {
-      "value": "{dimension.100}",
+      "value": "{semantic.spacing.actions.md.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{dimension.100}",
+      "value": "{semantic.spacing.actions.md.padding-bottom}",
       "type": "spacing"
     }
   },
   "lg": {
     "padding-left": {
-      "value": "{dimension.150}",
+      "value": "{semantic.spacing.actions.lg.padding-left}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{dimension.150}",
+      "value": "{semantic.spacing.actions.lg.padding-right}",
       "type": "spacing"
     }
   }
