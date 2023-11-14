@@ -684,33 +684,33 @@
             }
           },
           "hover": {
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
             "inputtext": {
               "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             },
-            "line": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            },
             "dropdown": {
               "text": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               },
               "line": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{color.neutrals.black}",
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
             }
