@@ -594,6 +594,16 @@
               "bg": {
                 "value": "{semantic.color.surface.onNeutral.bg}",
                 "type": "color"
+              },
+              "scrollbar": {
+                "active": {
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
+                  "type": "color"
+                },
+                "base": {
+                  "value": "{semantic.color.fg.super-subtle}",
+                  "type": "color"
+                }
               }
             },
             "checkbox": {
@@ -611,40 +621,40 @@
           },
           "disabled": {
             "label": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
                 "type": "color"
               },
               "line": {
-                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
                 "type": "color"
               }
             }
@@ -717,33 +727,33 @@
           },
           "filled": {
             "inputtext": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
             },
             "line": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
             },
             "checkbox": {
               "checkmark": {
                 "bg": {
-                  "value": "{color.neutrals.black}",
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
                   "type": "color"
                 },
                 "border": {
-                  "value": "{color.neutrals.black}",
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
             }
           },
           "success": {
             "helpertext": {
-              "value": "{color.green}",
+              "value": "{semantic.color.fg.success}",
               "type": "color"
             }
           },
@@ -751,16 +761,228 @@
             "checkbox": {
               "checkmark": {
                 "bg": {
-                  "value": "{color.grey.500}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                   "type": "color"
                 },
                 "border": {
-                  "value": "{color.grey.500}",
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{color.grey.500}",
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "type": "color"
+              }
+            }
+          }
+        },
+        "inverse": {
+          "rested": {
+            "label": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "inputtext": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            },
+            "helpertext": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            },
+            "dropdown": {
+              "text": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.neutral.inverse.bg}",
+                "type": "color"
+              },
+              "scrollbar": {
+                "active": {
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
+                  "type": "color"
+                },
+                "base": {
+                  "value": "{semantic.color.fg.super-subtle}",
+                  "type": "color"
+                }
+              }
+            },
+            "checkbox": {
+              "checkmark": {
+                "border": {
+                  "value": "{semantic.color.surface.neutral.default.fg-muted}",
+                  "type": "color"
+                }
+              },
+              "text": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "disabled": {
+            "label": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "inputtext": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "helpertext": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "dropdown": {
+              "text": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              }
+            },
+            "checkbox": {
+              "checkmark": {
+                "border": {
+                  "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                  "type": "color"
+                }
+              },
+              "text": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              }
+            }
+          },
+          "error": {
+            "label": {
+              "value": "{color.red}",
+              "type": "color"
+            },
+            "inputtext": {
+              "value": "{color.red}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{color.red}",
+              "type": "color"
+            },
+            "helpertext": {
+              "value": "{color.red}",
+              "type": "color"
+            },
+            "checkbox": {
+              "checkmark": {
+                "border": {
+                  "value": "{color.red}",
+                  "type": "color",
+                  "border": {
+                    "value": "{color.status.error}",
+                    "type": "color"
+                  }
+                }
+              },
+              "text": {
+                "value": "{color.red}",
+                "type": "color"
+              }
+            }
+          },
+          "hover": {
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "inputtext": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "type": "color"
+            },
+            "dropdown": {
+              "text": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            },
+            "checkbox": {
+              "checkmark": {
+                "border": {
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
+                  "type": "color"
+                }
+              },
+              "text": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "filled": {
+            "inputtext": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "checkbox": {
+              "checkmark": {
+                "bg": {
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
+                  "type": "color"
+                },
+                "border": {
+                  "value": "{semantic.color.surface.neutral.default.fg-default}",
+                  "type": "color"
+                }
+              },
+              "text": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "success": {
+            "helpertext": {
+              "value": "{semantic.color.fg.success}",
+              "type": "color"
+            }
+          },
+          "disabled-filled": {
+            "checkbox": {
+              "checkmark": {
+                "bg": {
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                  "type": "color"
+                },
+                "border": {
+                  "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                  "type": "color"
+                }
+              },
+              "text": {
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
             }
