@@ -773,40 +773,40 @@
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
             },
             "dropdown": {
               "text": {
-                "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
                 "type": "color"
               },
               "line": {
-                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
                 "type": "color"
               },
               "bg": {
-                "value": "{semantic.color.surface.onNeutral.bg}",
+                "value": "{semantic.color.surface.neutral.inverse.bg}",
                 "type": "color"
               }
             },
             "checkbox": {
               "checkmark": {
                 "border": {
-                  "value": "{semantic.color.surface.neutral.default.fg-muted}",
+                  "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
                   "type": "color"
                 }
               },
               "text": {
-                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
             }
