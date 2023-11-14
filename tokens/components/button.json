@@ -411,7 +411,7 @@
       "type": "spacing"
     },
     "border-radius": {
-      "value": "{semantic.actions.border-radius}",
+      "value": "{semantic.border-radius.actions.default}",
       "type": "borderRadius"
     }
   }
