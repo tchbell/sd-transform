@@ -96,12 +96,12 @@
           "value": "{semantic.color.inputs.default.error.label}",
           "type": "color"
         },
-        "line-color": {
-          "value": "{semantic.color.inputs.default.error.helpertext}",
-          "type": "color"
-        },
         "inputtext-color": {
           "value": "{semantic.color.inputs.default.error.inputtext}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.inputs.default.error.line}",
           "type": "color"
         },
         "helpertext-color": {
@@ -111,7 +111,7 @@
         "checkbox": {
           "checkmark": {
             "border-color": {
-              "value": "{semantic.color.inputs.error.checkbox.checkmark.border}",
+              "value": "{semantic.color.inputs.default.error.checkbox.checkmark.border}",
               "type": "color"
             }
           },

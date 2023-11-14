@@ -658,17 +658,23 @@
               "value": "{color.red}",
               "type": "color"
             },
+            "line": {
+              "value": "{color.red}",
+              "type": "color"
+            },
             "helpertext": {
               "value": "{color.red}",
               "type": "color"
             },
             "checkbox": {
               "checkmark": {
-                "value": "{color.red}",
-                "type": "color",
                 "border": {
-                  "value": "{color.status.error}",
-                  "type": "color"
+                  "value": "{color.red}",
+                  "type": "color",
+                  "border": {
+                    "value": "{color.status.error}",
+                    "type": "color"
+                  }
                 }
               },
               "text": {
