@@ -473,6 +473,12 @@
           }
         }
       }
+    },
+    "checkbox": {
+      "gap": {
+        "value": "{semantic.spacing.inputs.checkbox.gap}",
+        "type": "spacing"
+      }
     }
   }
 }

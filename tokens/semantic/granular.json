@@ -1561,6 +1561,12 @@
             "value": "{dimension.0_25}",
             "type": "spacing"
           }
+        },
+        "checkbox": {
+          "gap": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          }
         }
       },
       "text": {
