@@ -1535,25 +1535,31 @@
               "type": "spacing"
             }
           },
-          "padding-left": {
-            "value": "{dimension.100}",
-            "type": "spacing"
-          },
-          "vertical-gap": {
-            "value": "{dimension.0_25}",
-            "type": "spacing"
-          },
-          "sm": {
-            "padding-right": {
+          "expanded-sheet": {
+            "padding-left": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            },
+            "sm": {
+              "padding-right": {
+                "value": "{dimension.0_50}",
+                "type": "spacing"
+              }
+            },
+            "lg": {
+              "padding-right": {
+                "value": "{dimension.100}",
+                "type": "spacing"
+              }
+            },
+            "horizontal-gap": {
               "value": "{dimension.0_50}",
               "type": "spacing"
             }
           },
-          "lg": {
-            "padding-right": {
-              "value": "{dimension.100}",
-              "type": "spacing"
-            }
+          "vertical-gap": {
+            "value": "{dimension.0_25}",
+            "type": "spacing"
           }
         }
       },

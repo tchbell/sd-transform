@@ -243,19 +243,25 @@
         "value": "{semantic.spacing.inputs.dropdown.vertical-gap}",
         "type": "spacing"
       },
-      "padding-left": {
-        "value": "{semantic.spacing.inputs.dropdown.padding-left}",
-        "type": "spacing"
-      },
-      "sm": {
-        "padding-right": {
-          "value": "{semantic.spacing.inputs.dropdown.sm.padding-right}",
+      "expanded-sheet": {
+        "padding-left": {
+          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.padding-left}",
           "type": "spacing"
-        }
-      },
-      "lg": {
-        "padding-right": {
-          "value": "{semantic.spacing.inputs.dropdown.lg.padding-right}",
+        },
+        "sm": {
+          "padding-right": {
+            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.sm.padding-right}",
+            "type": "spacing"
+          }
+        },
+        "lg": {
+          "padding-right": {
+            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.lg.padding-right}",
+            "type": "spacing"
+          }
+        },
+        "horizontal-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.horizontal-gap}",
           "type": "spacing"
         }
       }
