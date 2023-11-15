@@ -81,7 +81,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.100}",
+              "value": "{color.grey.300}",
               "type": "color"
             },
             "fg-primary": {
@@ -107,11 +107,11 @@
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.200}",
+              "value": "{color.grey.80}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.500}",
+              "value": "{color.grey.300}",
               "type": "color"
             },
             "fg-primary": {

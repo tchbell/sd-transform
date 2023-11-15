@@ -611,19 +611,19 @@
           },
           "disabled": {
             "label": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-muted}",
               "type": "color"
             },
             "inputtext": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-muted}",
               "type": "color"
             },
             "helpertext": {
-              "value": "{semantic.color.surface.primary.muted.fg-muted}",
+              "value": "{semantic.color.surface.neutral.muted.fg-muted}",
               "type": "color"
             },
             "dropdown": {
