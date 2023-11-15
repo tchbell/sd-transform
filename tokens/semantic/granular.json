@@ -1521,20 +1521,26 @@
           }
         },
         "dropdown": {
-          "padding-top": {
-            "value": "{dimension.100}",
-            "type": "spacing"
-          },
-          "padding-bottom": {
-            "value": "{dimension.100}",
-            "type": "spacing"
+          "option": {
+            "padding-top": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            },
+            "vertical-gap": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            },
+            "horizontal-gap": {
+              "value": "{dimension.0_50}",
+              "type": "spacing"
+            }
           },
           "padding-left": {
             "value": "{dimension.100}",
             "type": "spacing"
           },
-          "gap": {
-            "value": "{dimension.0_50}",
+          "vertical-gap": {
+            "value": "{dimension.0_25}",
             "type": "spacing"
           },
           "sm": {

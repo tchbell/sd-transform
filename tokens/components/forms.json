@@ -225,16 +225,22 @@
           "type": "typography"
         }
       },
-      "padding-top": {
-        "value": "{semantic.spacing.inputs.dropdown.padding-top}",
-        "type": "spacing"
+      "option": {
+        "padding-top": {
+          "value": "{semantic.spacing.inputs.dropdown.option.padding-top}",
+          "type": "spacing"
+        },
+        "vertical-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.option.vertical-gap}",
+          "type": "spacing"
+        },
+        "horizontal-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.option.horizontal-gap}",
+          "type": "spacing"
+        }
       },
-      "padding-bottom": {
-        "value": "{semantic.spacing.inputs.dropdown.padding-bottom}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{semantic.spacing.inputs.dropdown.gap}",
+      "vertical-gap": {
+        "value": "{semantic.spacing.inputs.dropdown.vertical-gap}",
         "type": "spacing"
       },
       "padding-left": {
