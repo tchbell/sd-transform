@@ -1,32 +1,32 @@
 {
-  "pictograms": {
+  "pictogram": {
     "text": {
       "default": {
-        "rested": {
-          "colour": {
-            "value": "{color.neutrals.black}",
-            "type": "color"
-          }
+        "no-info": {
+          "value": "{semantic.color.pictograms.text.default.no-info}",
+          "type": "color"
         },
-        "hover": {
-          "color": {
-            "value": "{semantic.color.pictogram.default.hover}",
-            "type": "color"
-          }
+        "info-default": {
+          "value": "{semantic.color.pictograms.text.default.info-default}",
+          "type": "color"
+        },
+        "info-hover": {
+          "value": "{semantic.color.pictograms.text.default.info-hover}",
+          "type": "color"
         }
       },
       "inverse": {
-        "rested": {
-          "colour": {
-            "value": "{semantic.color.pictogram.inverse.rested}",
-            "type": "color"
-          }
+        "no-info": {
+          "value": "{semantic.color.pictograms.text.inverse.no-info}",
+          "type": "color"
         },
-        "hover": {
-          "color": {
-            "value": "{semantic.color.pictogram.inverse.hover}",
-            "type": "color"
-          }
+        "info-default": {
+          "value": "{semantic.color.pictograms.text.inverse.info-default}",
+          "type": "color"
+        },
+        "info-hover": {
+          "value": "{semantic.color.pictograms.text.inverse.info-hover}",
+          "type": "color"
         }
       }
     },
@@ -45,6 +45,20 @@
           "type": "typography"
         }
       }
+    },
+    "sizing": {
+      "height": {
+        "value": "{semantic.sizing.pictogram.height}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.pictogram.width}",
+        "type": "sizing"
+      }
+    },
+    "gap": {
+      "value": "{semantic.spacing.pictogram.gap}",
+      "type": "spacing"
     }
   }
 }

@@ -2,7 +2,7 @@
   "forms": {
     "label": {
       "typography": {
-        "value": "{semantic.typography.inputs.label}",
+        "value": "{semantic.typography.inputs.text}",
         "type": "typography"
       }
     },
@@ -36,16 +36,6 @@
           "bg-color": {
             "value": "{semantic.color.inputs.default.rested.dropdown.bg}",
             "type": "color"
-          },
-          "scrollbar": {
-            "active": {
-              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.active}",
-              "type": "color"
-            },
-            "base": {
-              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.base}",
-              "type": "color"
-            }
           }
         },
         "checkbox": {
@@ -214,19 +204,63 @@
         }
       }
     },
-    "text": {
-      "typography": {
-        "value": "{semantic.typography.inputs.text}",
-        "type": "typography"
-      }
-    },
     "inputtext": {
+      "typography": {
+        "value": "{general.global.XS-1-default}",
+        "type": "typography"
+      },
       "padding-top": {
-        "value": "{semantic.spacing.inputs.padding-top}",
+        "value": "{semantic.spacing.inputs.inputtext.padding-top}",
         "type": "spacing"
       },
       "padding-bottom": {
-        "value": "{semantic.spacing.inputs.padding-bottom}",
+        "value": "{semantic.spacing.inputs.inputtext.padding-bottom}",
+        "type": "spacing"
+      }
+    },
+    "dropdown": {
+      "text": {
+        "typography": {
+          "value": "{global.XS-1-default}",
+          "type": "typography"
+        }
+      },
+      "padding-top": {
+        "value": "{semantic.spacing.inputs.dropdown.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.inputs.dropdown.padding-bottom}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{semantic.spacing.inputs.dropdown.gap}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.inputs.dropdown.padding-left}",
+        "type": "spacing"
+      },
+      "sm": {
+        "padding-right": {
+          "value": "{semantic.spacing.inputs.dropdown.sm.padding-right}",
+          "type": "spacing"
+        }
+      },
+      "lg": {
+        "padding-right": {
+          "value": "{semantic.spacing.inputs.dropdown.lg.padding-right}",
+          "type": "spacing"
+        }
+      }
+    },
+    "helpertext": {
+      "typography": {
+        "value": "{general.global.XXS-1-default}",
+        "type": "typography"
+      },
+      "gap": {
+        "value": "{semantic.spacing.inputs.helpertext.gap}",
         "type": "spacing"
       }
     },
@@ -260,16 +294,6 @@
           "bg-color": {
             "value": "{semantic.color.inputs.inverse.rested.dropdown.bg}",
             "type": "color"
-          },
-          "scrollbar": {
-            "active": {
-              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.active}",
-              "type": "color"
-            },
-            "base": {
-              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.base}",
-              "type": "color"
-            }
           }
         },
         "checkbox": {
@@ -436,12 +460,6 @@
             "type": "color"
           }
         }
-      }
-    },
-    "helpertext": {
-      "typography": {
-        "value": "{semantic.typography.inputs.helpertext}",
-        "type": "typography"
       }
     }
   }
