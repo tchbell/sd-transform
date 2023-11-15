@@ -1174,6 +1174,20 @@
           "value": "{semantic.typography.text.xs.default}",
           "type": "typography"
         }
+      },
+      "inputs": {
+        "label": {
+          "value": "{semantic.typography.text.xs.emphasis}",
+          "type": "typography"
+        },
+        "text": {
+          "value": "{semantic.typography.text.sm.default}",
+          "type": "typography"
+        },
+        "helpertext": {
+          "value": "{semantic.typography.text.xs.default}",
+          "type": "typography"
+        }
       }
     },
     "spacing": {

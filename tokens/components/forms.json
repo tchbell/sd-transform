@@ -2,7 +2,7 @@
   "forms": {
     "label": {
       "typography": {
-        "value": "{global.XXS-2-emphasis}",
+        "value": "{semantic.typography.inputs.label}",
         "type": "typography"
       }
     },
@@ -204,11 +204,13 @@
         }
       }
     },
-    "inputtext": {
+    "text": {
       "typography": {
-        "value": "{general.global.XS-1-default}",
+        "value": "{semantic.typography.inputs.text}",
         "type": "typography"
-      },
+      }
+    },
+    "inputtext": {
       "padding-top": {
         "value": "{semantic.spacing.inputs.padding-top}",
         "type": "spacing"
@@ -216,20 +218,6 @@
       "padding-bottom": {
         "value": "{semantic.spacing.inputs.padding-bottom}",
         "type": "spacing"
-      }
-    },
-    "dropdown": {
-      "text": {
-        "typography": {
-          "value": "{global.XS-1-default}",
-          "type": "typography"
-        }
-      }
-    },
-    "helpertext": {
-      "typography": {
-        "value": "{general.global.XXS-1-default}",
-        "type": "typography"
       }
     },
     "inverse": {
@@ -428,6 +416,12 @@
             "type": "color"
           }
         }
+      }
+    },
+    "helpertext": {
+      "typography": {
+        "value": "{semantic.typography.inputs.helpertext}",
+        "type": "typography"
       }
     }
   }
