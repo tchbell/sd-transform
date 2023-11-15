@@ -594,6 +594,16 @@
               "bg": {
                 "value": "{semantic.color.surface.onNeutral.bg}",
                 "type": "color"
+              },
+              "scrollbar": {
+                "active": {
+                  "value": "{semantic.color.fg.default}",
+                  "type": "color"
+                },
+                "base": {
+                  "value": "{semantic.color.fg.super-subtle}",
+                  "type": "color"
+                }
               }
             },
             "checkbox": {
@@ -796,6 +806,16 @@
               "bg": {
                 "value": "{semantic.color.surface.neutral.inverse.bg}",
                 "type": "color"
+              },
+              "scrollbar": {
+                "active": {
+                  "value": "{semantic.color.fg.inverse.default}",
+                  "type": "color"
+                },
+                "base": {
+                  "value": "{semantic.color.fg.inverse.super-subtle}",
+                  "type": "color"
+                }
               }
             },
             "checkbox": {

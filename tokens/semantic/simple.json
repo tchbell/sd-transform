@@ -424,6 +424,10 @@
           "muted": {
             "value": "{color.grey.90}",
             "type": "color"
+          },
+          "super-subtle": {
+            "value": "rgba( {color.neutrals.white} , {opacity.40})",
+            "type": "color"
           }
         },
         "super-subtle": {

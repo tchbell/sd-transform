@@ -36,6 +36,16 @@
           "bg-color": {
             "value": "{semantic.color.inputs.default.rested.dropdown.bg}",
             "type": "color"
+          },
+          "scrollbar": {
+            "active": {
+              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.active}",
+              "type": "color"
+            },
+            "base": {
+              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.base}",
+              "type": "color"
+            }
           }
         },
         "checkbox": {
@@ -250,6 +260,16 @@
           "bg-color": {
             "value": "{semantic.color.inputs.inverse.rested.dropdown.bg}",
             "type": "color"
+          },
+          "scrollbar": {
+            "active": {
+              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.active}",
+              "type": "color"
+            },
+            "base": {
+              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.base}",
+              "type": "color"
+            }
           }
         },
         "checkbox": {
