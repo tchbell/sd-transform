@@ -1506,10 +1506,10 @@
       "inputs": {
         "inputtext": {
           "padding-top": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.0_25}",
             "type": "spacing"
           },
-          "padding-bottom": {
+          "vertical-gap": {
             "value": "{dimension.0_50}",
             "type": "spacing"
           }
@@ -1570,7 +1570,25 @@
         },
         "label": {
           "padding-bottom": {
-            "value": "{dimension.0_25}",
+            "value": "{dimension.0_50}",
+            "type": "spacing"
+          }
+        },
+        "textarea": {
+          "padding-top": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.100}",
             "type": "spacing"
           }
         }

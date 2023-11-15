@@ -217,8 +217,8 @@
         "value": "{semantic.spacing.inputs.inputtext.padding-top}",
         "type": "spacing"
       },
-      "padding-bottom": {
-        "value": "{semantic.spacing.inputs.inputtext.padding-bottom}",
+      "vertical-gap": {
+        "value": "{semantic.spacing.inputs.inputtext.vertical-gap}",
         "type": "spacing"
       }
     },
@@ -481,6 +481,24 @@
     "checkbox": {
       "gap": {
         "value": "{semantic.spacing.inputs.checkbox.gap}",
+        "type": "spacing"
+      }
+    },
+    "textarea": {
+      "padding-top": {
+        "value": "{semantic.spacing.inputs.textarea.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.inputs.textarea.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.inputs.textarea.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.inputs.textarea.padding-right}",
         "type": "spacing"
       }
     }
