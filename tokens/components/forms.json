@@ -4,6 +4,10 @@
       "typography": {
         "value": "{semantic.typography.inputs.text}",
         "type": "typography"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.inputs.label.padding-bottom}",
+        "type": "spacing"
       }
     },
     "default": {
@@ -239,10 +243,6 @@
           "type": "spacing"
         }
       },
-      "vertical-gap": {
-        "value": "{semantic.spacing.inputs.dropdown.vertical-gap}",
-        "type": "spacing"
-      },
       "expanded-sheet": {
         "padding-left": {
           "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.padding-left}",
@@ -273,6 +273,10 @@
       },
       "gap": {
         "value": "{semantic.spacing.inputs.helpertext.gap}",
+        "type": "spacing"
+      },
+      "padding-top": {
+        "value": "{semantic.spacing.inputs.helpertext.padding-top}",
         "type": "spacing"
       }
     },
