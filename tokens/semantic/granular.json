@@ -670,7 +670,7 @@
                 "type": "color"
               },
               "scrollbar": {
-                "active": {
+                "progress": {
                   "value": "{semantic.color.fg.default}",
                   "type": "color"
                 },
@@ -912,7 +912,7 @@
                 "type": "color"
               },
               "scrollbar": {
-                "active": {
+                "progress": {
                   "value": "{semantic.color.fg.inverse.default}",
                   "type": "color"
                 },
@@ -1809,6 +1809,12 @@
             "value": "{dimension.100}",
             "type": "spacing"
           }
+        },
+        "newsletter": {
+          "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
         }
       },
       "text": {
@@ -2000,6 +2006,56 @@
           "value": "{dimension.150}",
           "type": "sizing"
         }
+      },
+      "inputs": {
+        "dropdown": {
+          "sheet-height": {
+            "value": "{dimension.1850}",
+            "type": "sizing"
+          },
+          "scrollbar": {
+            "width": {
+              "value": "{dimension.0_125}",
+              "type": "sizing"
+            },
+            "progress-height": {
+              "value": "{dimension.300}",
+              "type": "sizing"
+            },
+            "base-height": {
+              "value": "{dimension.1450}",
+              "type": "sizing"
+            }
+          }
+        },
+        "inputtext": {
+          "line-height": {
+            "value": "{dimension.0_125}",
+            "type": "sizing"
+          }
+        },
+        "checkmark": {
+          "lg": {
+            "height": {
+              "value": "{dimension.150}",
+              "type": "sizing"
+            },
+            "width": {
+              "value": "{dimension.150}",
+              "type": "sizing"
+            }
+          },
+          "sm": {
+            "height": {
+              "value": "{dimension.100}",
+              "type": "sizing"
+            },
+            "width": {
+              "value": "{dimension.100}",
+              "type": "sizing"
+            }
+          }
+        }
       }
     },
     "swatch": {
@@ -2017,6 +2073,20 @@
     "actions": {
       "borther-width": {
         "default": {
+          "value": "{border-width.xl}",
+          "type": "borderWidth"
+        }
+      }
+    },
+    "inputs": {
+      "textarea": {
+        "border-width": {
+          "value": "{border-width.xl}",
+          "type": "borderWidth"
+        }
+      },
+      "checkmark": {
+        "border-width": {
           "value": "{border-width.xl}",
           "type": "borderWidth"
         }

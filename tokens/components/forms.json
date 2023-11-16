@@ -252,6 +252,10 @@
       "vertical-gap": {
         "value": "{semantic.spacing.inputs.inputtext.vertical-gap}",
         "type": "spacing"
+      },
+      "line-height": {
+        "value": "{semantic.sizing.inputs.inputtext.line-height}",
+        "type": "sizing"
       }
     },
     "helpertext": {
@@ -532,6 +536,24 @@
           "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.horizontal-gap}",
           "type": "spacing"
         }
+      },
+      "sheet-height": {
+        "value": "{semantic.sizing.inputs.dropdown.sheet-height}",
+        "type": "sizing"
+      },
+      "scrollbar": {
+        "base-height": {
+          "value": "{semantic.sizing.inputs.dropdown.scrollbar.base-height}",
+          "type": "sizing"
+        },
+        "progress-height": {
+          "value": "{semantic.sizing.inputs.dropdown.scrollbar.progress-height}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "2",
+          "type": "sizing"
+        }
       }
     },
     "checkbox": {
@@ -556,6 +578,42 @@
       "padding-right": {
         "value": "{semantic.spacing.inputs.textarea.padding-right}",
         "type": "spacing"
+      },
+      "border-width": {
+        "value": "{semantic.inputs.textarea.border-width}",
+        "type": "borderWidth"
+      }
+    },
+    "newsletter": {
+      "gap": {
+        "value": "{semantic.spacing.inputs.newsletter.gap}",
+        "type": "spacing"
+      }
+    },
+    "checkmark": {
+      "lg": {
+        "height": {
+          "value": "{semantic.sizing.inputs.checkmark.lg.height}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{semantic.sizing.inputs.checkmark.lg.width}",
+          "type": "sizing"
+        }
+      },
+      "sm": {
+        "height": {
+          "value": "{semantic.sizing.inputs.checkmark.sm.height}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{semantic.sizing.inputs.checkmark.sm.width}",
+          "type": "sizing"
+        }
+      },
+      "border-width": {
+        "value": "{semantic.inputs.checkmark.border-width}",
+        "type": "borderWidth"
       }
     }
   }
