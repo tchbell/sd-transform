@@ -1,39 +1,29 @@
 {
   "tabs": {
     "rested": {
-      "text": {
-        "color": {
-          "value": "{token.tabs.tabs-title-default}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{token.tabs.tabs-title-default}",
+        "type": "color"
       }
     },
     "hover": {
-      "text": {
-        "color": {
-          "value": "{token.tabs.tabs-title-hover}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{token.tabs.tabs-title-hover}",
+        "type": "color"
       },
-      "underline": {
-        "color": {
-          "value": "{token.tabs.tabs-underline-hover}",
-          "type": "color"
-        }
+      "underline-color": {
+        "value": "{token.tabs.tabs-underline-hover}",
+        "type": "color"
       }
     },
     "active": {
-      "text": {
-        "color": {
-          "value": "{token.tabs.tabs-title-active}",
-          "type": "color"
-        }
+      "text-color": {
+        "value": "{token.tabs.tabs-title-active}",
+        "type": "color"
       },
-      "underline": {
-        "color": {
-          "value": "{token.tabs.tabs-underline-active}",
-          "type": "color"
-        }
+      "underline-color": {
+        "value": "{token.tabs.tabs-underline-active}",
+        "type": "color"
       }
     },
     "text": {

@@ -1600,6 +1600,34 @@
             "type": "color"
           }
         }
+      },
+      "tabs": {
+        "rested": {
+          "text": {
+            "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
+            "type": "color"
+          }
+        },
+        "hover": {
+          "text": {
+            "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
+            "type": "color"
+          },
+          "line": {
+            "value": "{semantic.color.fg.default}",
+            "type": "color"
+          }
+        },
+        "active": {
+          "text": {
+            "value": "{semantic.color.fg.default}",
+            "type": "color"
+          },
+          "line": {
+            "value": "{semantic.color.fg.primary.default}",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
@@ -1991,6 +2019,20 @@
       },
       "pictogram": {
         "gap": {
+          "value": "{dimension.0_50}",
+          "type": "spacing"
+        }
+      },
+      "accordion": {
+        "padding-top": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "vertical-gap": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "horizontal-gap": {
           "value": "{dimension.0_50}",
           "type": "spacing"
         }

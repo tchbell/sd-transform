@@ -77,25 +77,17 @@
         "value": "{semantic.color.accordion.inverse.circle}",
         "type": "color"
       }
-    }
-  },
-  "element": {
-    "gap": {
-      "value": "{semantic.spacing.accordion.lg.gap}",
-      "type": "spacing"
     },
     "padding-top": {
-      "value": "{semantic.spacing.accordion.lg.padding-top}",
+      "value": "{semantic.spacing.accordion.padding-top}",
       "type": "spacing"
     },
-    "padding-bottom": {
-      "value": "{semantic.spacing.accordion.lg.padding-bottom}",
+    "vertical-gap": {
+      "value": "{semantic.spacing.accordion.vertical-gap}",
       "type": "spacing"
-    }
-  },
-  "title": {
-    "gap": {
-      "value": "{semantic.spacing.accordion.sm.gap}",
+    },
+    "horizontal-gap": {
+      "value": "{semantic.spacing.accordion.horizontal-gap}",
       "type": "spacing"
     }
   }
