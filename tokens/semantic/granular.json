@@ -1526,6 +1526,80 @@
             }
           }
         }
+      },
+      "accordion": {
+        "default": {
+          "rested": {
+            "fg": {
+              "value": "{semantic.color.fg.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fg": {
+              "value": "{semantic.color.fg.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "expanded": {
+            "fg": {
+              "value": "{semantic.color.fg.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.fg.default}",
+              "type": "color"
+            }
+          },
+          "circle": {
+            "value": "{semantic.color.surface.neutral.default.bg}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "rested": {
+            "fg": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "fg": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
+          },
+          "expanded": {
+            "fg": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            }
+          },
+          "circle": {
+            "value": "{semantic.color.surface.neutral.inverse.bg}",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
@@ -1648,6 +1722,12 @@
         },
         "helpertext": {
           "value": "{semantic.typography.text.xs.default}",
+          "type": "typography"
+        }
+      },
+      "accordion": {
+        "text": {
+          "value": "{semantic.typography.text.md.default}",
           "type": "typography"
         }
       }

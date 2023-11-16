@@ -5,11 +5,11 @@
         "neutral": {
           "default": {
             "bg": {
-              "value": "{color.grey.70}",
+              "value": "{color.grey.60}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.70}",
+              "value": "{color.grey.60}",
               "type": "color"
             },
             "fg-default": {
