@@ -2,7 +2,7 @@
   "forms": {
     "label": {
       "typography": {
-        "value": "{semantic.typography.inputs.text}",
+        "value": "{semantic.typography.inputs.label}",
         "type": "typography"
       },
       "padding-bottom": {
@@ -53,6 +53,12 @@
             "value": "{semantic.color.inputs.default.rested.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.default.rested.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "disabled": {
@@ -93,6 +99,12 @@
             "value": "{semantic.color.inputs.default.disabled.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.default.disabled.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "error": {
@@ -121,6 +133,12 @@
           },
           "text-color": {
             "value": "{semantic.color.inputs.default.error.checkbox.text}",
+            "type": "color"
+          }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.default.error.textarea.border}",
             "type": "color"
           }
         }
@@ -155,6 +173,12 @@
             "value": "{semantic.color.inputs.default.hover.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.default.hover.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "filled": {
@@ -179,6 +203,12 @@
           },
           "text-color": {
             "value": "{semantic.color.inputs.default.filled.checkbox.text}",
+            "type": "color"
+          }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.default.filled.textarea.border}",
             "type": "color"
           }
         }
@@ -208,11 +238,13 @@
         }
       }
     },
-    "inputtext": {
+    "text": {
       "typography": {
-        "value": "{general.global.XS-1-default}",
+        "value": "{semantic.typography.inputs.text}",
         "type": "typography"
-      },
+      }
+    },
+    "inputtext": {
       "padding-top": {
         "value": "{semantic.spacing.inputs.inputtext.padding-top}",
         "type": "spacing"
@@ -222,53 +254,9 @@
         "type": "spacing"
       }
     },
-    "dropdown": {
-      "text": {
-        "typography": {
-          "value": "{global.XS-1-default}",
-          "type": "typography"
-        }
-      },
-      "option": {
-        "padding-top": {
-          "value": "{semantic.spacing.inputs.dropdown.option.padding-top}",
-          "type": "spacing"
-        },
-        "vertical-gap": {
-          "value": "{semantic.spacing.inputs.dropdown.option.vertical-gap}",
-          "type": "spacing"
-        },
-        "horizontal-gap": {
-          "value": "{semantic.spacing.inputs.dropdown.option.horizontal-gap}",
-          "type": "spacing"
-        }
-      },
-      "expanded-sheet": {
-        "padding-left": {
-          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.padding-left}",
-          "type": "spacing"
-        },
-        "sm": {
-          "padding-right": {
-            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.sm.padding-right}",
-            "type": "spacing"
-          }
-        },
-        "lg": {
-          "padding-right": {
-            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.lg.padding-right}",
-            "type": "spacing"
-          }
-        },
-        "horizontal-gap": {
-          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.horizontal-gap}",
-          "type": "spacing"
-        }
-      }
-    },
     "helpertext": {
       "typography": {
-        "value": "{general.global.XXS-1-default}",
+        "value": "{semantic.typography.inputs.helpertext}",
         "type": "typography"
       },
       "gap": {
@@ -323,6 +311,12 @@
             "value": "{semantic.color.inputs.inverse.rested.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.inverse.rested.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "disabled": {
@@ -363,6 +357,12 @@
             "value": "{semantic.color.inputs.inverse.disabled.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.inverse.disabled.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "error": {
@@ -391,6 +391,12 @@
           },
           "text-color": {
             "value": "{semantic.color.inputs.inverse.error.checkbox.text}",
+            "type": "color"
+          }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.inverse.error.textarea.border}",
             "type": "color"
           }
         }
@@ -425,6 +431,12 @@
             "value": "{semantic.color.inputs.inverse.hover.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.inverse.hover.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "filled": {
@@ -451,6 +463,12 @@
             "value": "{semantic.color.inputs.inverse.filled.checkbox.text}",
             "type": "color"
           }
+        },
+        "textarea": {
+          "border-color": {
+            "value": "{semantic.color.inputs.inverse.filled.textarea.border}",
+            "type": "color"
+          }
         }
       },
       "success": {
@@ -475,6 +493,44 @@
             "value": "{semantic.color.inputs.inverse.disabled-filled.checkbox.text}",
             "type": "color"
           }
+        }
+      }
+    },
+    "dropdown": {
+      "option": {
+        "padding-top": {
+          "value": "{semantic.spacing.inputs.dropdown.option.padding-top}",
+          "type": "spacing"
+        },
+        "vertical-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.option.vertical-gap}",
+          "type": "spacing"
+        },
+        "horizontal-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.option.horizontal-gap}",
+          "type": "spacing"
+        }
+      },
+      "expanded-sheet": {
+        "padding-left": {
+          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.padding-left}",
+          "type": "spacing"
+        },
+        "sm": {
+          "padding-right": {
+            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.sm.padding-right}",
+            "type": "spacing"
+          }
+        },
+        "lg": {
+          "padding-right": {
+            "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.lg.padding-right}",
+            "type": "spacing"
+          }
+        },
+        "horizontal-gap": {
+          "value": "{semantic.spacing.inputs.dropdown.expanded-sheet.horizontal-gap}",
+          "type": "spacing"
         }
       }
     },

@@ -691,6 +691,12 @@
                 "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+                "type": "color"
+              }
             }
           },
           "disabled": {
@@ -731,6 +737,12 @@
                 "value": "{semantic.color.surface.neutral.muted.fg-muted}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.default.fg-muted}",
+                "type": "color"
+              }
             }
           },
           "error": {
@@ -762,6 +774,12 @@
                 }
               },
               "text": {
+                "value": "{semantic.color.fg.error}",
+                "type": "color"
+              }
+            },
+            "textarea": {
+              "border": {
                 "value": "{semantic.color.fg.error}",
                 "type": "color"
               }
@@ -797,6 +815,12 @@
                 "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
             }
           },
           "filled": {
@@ -820,6 +844,12 @@
                 }
               },
               "text": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            },
+            "textarea": {
+              "border": {
                 "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
@@ -903,6 +933,12 @@
                 "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+                "type": "color"
+              }
             }
           },
           "disabled": {
@@ -943,6 +979,12 @@
                 "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              }
             }
           },
           "error": {
@@ -974,6 +1016,12 @@
                 }
               },
               "text": {
+                "value": "{semantic.color.fg.error}",
+                "type": "color"
+              }
+            },
+            "textarea": {
+              "border": {
                 "value": "{semantic.color.fg.error}",
                 "type": "color"
               }
@@ -1009,6 +1057,12 @@
                 "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
+            },
+            "textarea": {
+              "border": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              }
             }
           },
           "filled": {
@@ -1032,6 +1086,12 @@
                 }
               },
               "text": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              }
+            },
+            "textarea": {
+              "border": {
                 "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
