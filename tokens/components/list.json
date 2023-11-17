@@ -1,0 +1,114 @@
+{
+  "list": {
+    "rested": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.navigation.rested.list-text}",
+          "type": "typography"
+        }
+      }
+    },
+    "hover": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.navigation.hover.list-text}",
+          "type": "typography"
+        }
+      }
+    },
+    "active": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.navigation.active.list-text}",
+          "type": "typography"
+        }
+      }
+    },
+    "title": {
+      "typography": {
+        "value": "{semantic.typography.navigation.list-title}",
+        "type": "typography"
+      }
+    },
+    "default": {
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.sm.vertical-gap}",
+        "type": "spacing"
+      },
+      "title-color": {
+        "value": "{semantic.color.list.default.title}",
+        "type": "color"
+      },
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.list.default.rested.text}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.list.default.hover.text}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.list.default.active.text}",
+          "type": "color"
+        }
+      }
+    },
+    "compact": {
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.xs.vertical-gap}",
+        "type": "spacing"
+      },
+      "title": {
+        "padding-bottom": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        }
+      }
+    },
+    "columns": {
+      "horizontal-gap": {
+        "value": "{semantic.spacing.list.md.horizontal-gap}",
+        "type": "spacing"
+      },
+      "vertical-gap": {
+        "value": "{semantic.spacing.list.lg.vertical-gap}",
+        "type": "spacing"
+      }
+    },
+    "inverse": {
+      "title-color": {
+        "value": "{semantic.color.list.inverse.title}",
+        "type": "color"
+      },
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.rested.text}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.hover.text}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.list.inverse.active.text}",
+          "type": "color"
+        }
+      }
+    }
+  },
+  "list-item": {
+    "horizontal-gap": {
+      "value": "{semantic.spacing.list.item.horizontal-gap}",
+      "type": "spacing"
+    }
+  }
+}

@@ -1,0 +1,64 @@
+{
+  "pictogram": {
+    "text": {
+      "default": {
+        "no-info": {
+          "value": "{semantic.color.pictograms.text.default.no-info}",
+          "type": "color"
+        },
+        "info-default": {
+          "value": "{semantic.color.pictograms.text.default.info-default}",
+          "type": "color"
+        },
+        "info-hover": {
+          "value": "{semantic.color.pictograms.text.default.info-hover}",
+          "type": "color"
+        }
+      },
+      "inverse": {
+        "no-info": {
+          "value": "{semantic.color.pictograms.text.inverse.no-info}",
+          "type": "color"
+        },
+        "info-default": {
+          "value": "{semantic.color.pictograms.text.inverse.info-default}",
+          "type": "color"
+        },
+        "info-hover": {
+          "value": "{semantic.color.pictograms.text.inverse.info-hover}",
+          "type": "color"
+        }
+      }
+    },
+    "no info": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.text.xs.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "info": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.text.xs.underline}",
+          "type": "typography"
+        }
+      }
+    },
+    "sizing": {
+      "height": {
+        "value": "{semantic.sizing.pictogram.height}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.pictogram.width}",
+        "type": "sizing"
+      }
+    },
+    "gap": {
+      "value": "{semantic.spacing.pictogram.gap}",
+      "type": "spacing"
+    }
+  }
+}

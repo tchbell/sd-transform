@@ -1,0 +1,78 @@
+{
+  "semantic": {
+    "theme": {
+      "color": {
+        "primary": {
+          "weakest": {
+            "value": "{color.orange.100}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.orange.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.orange.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "weakest": {
+            "value": "{color.grey.100}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.grey.700}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.grey.900}",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "weakest": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.grey.60}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{color.grey.200}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.grey.500}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{color.grey.600}",
+            "type": "color"
+          },
+          "stronger": {
+            "value": "{color.grey.800}",
+            "type": "color"
+          },
+          "strongest": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        }
+      }
+    },
+    "signal": {
+      "color": {
+        "error": {
+          "value": "{color.red}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.green}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

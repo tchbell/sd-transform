@@ -1,0 +1,16 @@
+{
+  "separator": {
+    "default": {
+      "color": {
+        "value": "{color.grey.500}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -1,0 +1,56 @@
+{
+  "gap": {
+    "value": "{semantic.spacing.message.sm.gap}",
+    "type": "spacing"
+  },
+  "messages": {
+    "text": {
+      "typography": {
+        "value": "{semantic.typography.text.md.default}",
+        "type": "typography"
+      }
+    }
+  },
+  "padding-right": {
+    "value": "{semantic.spacing.message.md.padding-right}",
+    "type": "spacing"
+  },
+  "padding-left": {
+    "value": "{semantic.spacing.message.md.padding-left}",
+    "type": "spacing"
+  },
+  "message": {
+    "default": {
+      "bg-color": {
+        "value": "{color.grey.100}",
+        "type": "color"
+      },
+      "fg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "bg-color": {
+        "value": "{color.neutrals.black}",
+        "type": "color"
+      },
+      "fg-color": {
+        "value": "{color.neutrals.white}",
+        "type": "color"
+      }
+    }
+  },
+  "padding-top": {
+    "value": "{semantic.spacing.message.sm.padding-top}",
+    "type": "spacing"
+  },
+  "padding-bottom": {
+    "value": "{semantic.spacing.message.sm.padding-bottom}",
+    "type": "spacing"
+  },
+  "message border radius": {
+    "value": "{border-radius.none}",
+    "type": "borderRadius"
+  }
+}

@@ -1,0 +1,94 @@
+{
+  "accordion": {
+    "text": {
+      "typography": {
+        "value": "{semantic.typography.accordion.text}",
+        "type": "typography"
+      }
+    },
+    "default": {
+      "rested": {
+        "line-color": {
+          "value": "{semantic.color.accordion.default.rested.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.default.rested.fg}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "line-color": {
+          "value": "{semantic.color.accordion.default.hover.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.default.hover.fg}",
+          "type": "color"
+        }
+      },
+      "expanded": {
+        "line-color": {
+          "value": "{semantic.color.accordion.default.expanded.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.default.expanded.fg}",
+          "type": "color"
+        }
+      },
+      "circle-color": {
+        "value": "{semantic.color.accordion.default.circle}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "rested": {
+        "line-color": {
+          "value": "{semantic.color.accordion.inverse.rested.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.inverse.rested.fg}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "line-color": {
+          "value": "{semantic.color.accordion.inverse.hover.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.inverse.hover.fg}",
+          "type": "color"
+        }
+      },
+      "expanded": {
+        "line-color": {
+          "value": "{semantic.color.accordion.inverse.expanded.line}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.accordion.inverse.expanded.fg}",
+          "type": "color"
+        }
+      },
+      "circle-color": {
+        "value": "{semantic.color.accordion.inverse.circle}",
+        "type": "color"
+      }
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.accordion.padding-top}",
+      "type": "spacing"
+    },
+    "vertical-gap": {
+      "value": "{semantic.spacing.accordion.vertical-gap}",
+      "type": "spacing"
+    },
+    "horizontal-gap": {
+      "value": "{semantic.spacing.accordion.horizontal-gap}",
+      "type": "spacing"
+    }
+  }
+}

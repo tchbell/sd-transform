@@ -1,0 +1,64 @@
+{
+  "title": {
+    "xxl": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title.xxl.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "xl": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title.xl.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "l": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title.lg.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "m": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title.md.default}",
+          "type": "typography"
+        }
+      }
+    },
+    "subline": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title-eyebrow.md}",
+          "type": "typography"
+        }
+      }
+    },
+    "subline-small": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title-eyebrow.sm}",
+          "type": "typography"
+        }
+      }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.contrast.text}",
+        "type": "color"
+      }
+    },
+    "inverted": {
+      "text-color": {
+        "value": "{semantic.color.typography.inverse.text}",
+        "type": "color"
+      }
+    }
+  }
+}

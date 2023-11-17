@@ -1,0 +1,93 @@
+{
+  "pagination": {
+    "text": {
+      "typography": {
+        "value": "{semantic.typography.pagination.text}",
+        "type": "typography"
+      },
+      "gap": {
+        "value": "{semantic.spacing.pagination.text.gap}",
+        "type": "spacing"
+      }
+    },
+    "default": {
+      "text": {
+        "color": {
+          "value": "{semantic.color.pagination.default.text}",
+          "type": "color"
+        }
+      },
+      "scrubber": {
+        "active-color": {
+          "value": "{semantic.color.pagination.default.active.scrubber}",
+          "type": "color"
+        },
+        "rested-color": {
+          "value": "{semantic.color.pagination.default.rested.scrubber}",
+          "type": "color"
+        }
+      }
+    },
+    "rested": {
+      "scrubber": {
+        "40": {
+          "value": "0.4",
+          "type": "opacity"
+        }
+      }
+    },
+    "inverse": {
+      "text": {
+        "color": {
+          "value": "{semantic.color.pagination.inverse.text}",
+          "type": "color"
+        }
+      },
+      "scrubber": {
+        "active-color": {
+          "value": "{semantic.color.pagination.inverse.active.scrubber}",
+          "type": "color"
+        },
+        "rested-color": {
+          "value": "{semantic.color.pagination.inverse.rested.scrubber}",
+          "type": "color",
+          "$extensions": {
+            "studio.tokens": {
+              "modify": {
+                "type": "alpha",
+                "value": "{pagination.rested.scrubber.40}",
+                "space": "lch"
+              }
+            }
+          }
+        }
+      }
+    },
+    "scrubber": {
+      "gap": {
+        "value": "{semantic.spacing.pagination.scrubber.gap}",
+        "type": "spacing"
+      }
+    }
+  },
+  "pagintation": {
+    "scrubber": {
+      "height": {
+        "value": "{semantic.sizing.scrubber.height}",
+        "type": "sizing"
+      },
+      "lg": {
+        "width": {
+          "value": "{semantic.sizing.scrubber.fullWidth.width}",
+          "type": "sizing"
+        }
+      },
+      "sm": {
+        "width": {
+          "value": "{semantic.sizing.scrubber.sm.width}",
+          "type": "sizing"
+        }
+      }
+    }
+  }
+}

@@ -1,0 +1,108 @@
+{
+  "multiselect": {
+    "border-radius": {
+      "value": "{semantic.border-radius.actions.default}",
+      "type": "borderRadius"
+    },
+    "text": {
+      "typography": {
+        "value": "{button.button-title}",
+        "type": "typography"
+      }
+    },
+    "border-width": {
+      "value": "{semantic.actions.borther-width.default}",
+      "type": "borderWidth"
+    },
+    "padding-right": {
+      "value": "{semantic.spacing.actions.lg.padding-right}",
+      "type": "spacing"
+    },
+    "padding-left": {
+      "value": "{semantic.spacing.actions.lg.padding-left}",
+      "type": "spacing"
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.actions.lg.padding-top}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.actions.lg.padding-bottom}",
+      "type": "spacing"
+    }
+  },
+  "multislect": {
+    "default": {
+      "rested": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.default.rested.border}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.default.rested.fg}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.default.active.border}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.actions.multiselect.default.active.bg}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.default.active.fg}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.default.hover.border}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.default.hover.fg}",
+          "type": "color"
+        }
+      }
+    },
+    "inverse": {
+      "rested": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.rested.border}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.rested.fg}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.active.border}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.active.bg}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.active.fg}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "border-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.hover.border}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.hover.fg}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
