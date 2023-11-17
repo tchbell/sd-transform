@@ -2,27 +2,27 @@
   "tabs": {
     "rested": {
       "text-color": {
-        "value": "{token.tabs.tabs-title-default}",
+        "value": "{semantic.color.tabs.rested.text}",
         "type": "color"
       }
     },
     "hover": {
       "text-color": {
-        "value": "{token.tabs.tabs-title-hover}",
+        "value": "{semantic.color.tabs.hover.text}",
         "type": "color"
       },
-      "underline-color": {
-        "value": "{token.tabs.tabs-underline-hover}",
+      "line-color": {
+        "value": "{semantic.color.tabs.hover.line}",
         "type": "color"
       }
     },
     "active": {
       "text-color": {
-        "value": "{token.tabs.tabs-title-active}",
+        "value": "{semantic.color.tabs.active.text}",
         "type": "color"
       },
       "underline-color": {
-        "value": "{token.tabs.tabs-underline-active}",
+        "value": "{semantic.color.tabs.active.line}",
         "type": "color"
       }
     },
