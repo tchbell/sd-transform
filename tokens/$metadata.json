@@ -8,7 +8,6 @@
     "semantic/surface",
     "semantic/typography",
     "semantic/granular",
-    "theme/brand2",
     "semantic/typography",
     "semantic/granular",
     "view-overrides/VPM",
@@ -37,6 +36,7 @@
     "new-set (template)",
     "new-set (Hornitos)",
     "Brands/BrandA/core",
-    "Brands/BrandA/theme"
+    "Brands/BrandA/theme",
+     "theme/brand2",
   ]
 }
