@@ -33,10 +33,6 @@
     "components/sidebar navigation",
     "components/multiselect",
     "components/swatch",
-    "new-set (template)",
-    "new-set (Hornitos)",
-    "Brands/BrandA/core",
-    "Brands/BrandA/theme",
      "theme/brand2",
   ]
 }
