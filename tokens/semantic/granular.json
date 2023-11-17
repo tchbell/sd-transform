@@ -1758,6 +1758,16 @@
           "value": "{semantic.typography.text.md.default}",
           "type": "typography"
         }
+      },
+      "tabs": {
+        "xs": {
+          "value": "{semantic.typography.text.xs.emphasis}",
+          "type": "typography"
+        },
+        "md": {
+          "value": "{semantic.typography.text.md.emphasis}",
+          "type": "typography"
+        }
       }
     },
     "spacing": {

@@ -27,9 +27,11 @@
       }
     },
     "text": {
-      "typography": {
-        "value": "{general.global.XXS-2-emphasis}",
-        "type": "typography"
+      "sm": {
+        "typography": {
+          "value": "{semantic.typography.tabs.xs}",
+          "type": "typography"
+        }
       }
     },
     "padding-horizontal": {
