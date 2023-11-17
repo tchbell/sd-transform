@@ -1,0 +1,564 @@
+{
+  "semantic": {
+    "intent-template": {
+      "default": {
+        "bg": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "neutral": {
+      "default": {
+        "bg": {
+          "value": "#fff",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#353535",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#5c5c5c",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#898989",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#00995B",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#00995B",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#F1EEEE",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#5c5c5c",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#898989",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#00995B",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#00995B",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#CCC9C9",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#5c5c5c",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#898989",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#00995B",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#00995B",
+          "type": "color"
+        }
+      }
+    },
+    "primary": {
+      "default": {
+        "bg": {
+          "value": "#00995B",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#fff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#E6F5EF",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#CFCFCF",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#234636",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "rgba(34,69,53,0.37)",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#234636",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "rgba(34,69,53,0.2)",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#234636",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "secondary": {
+      "default": {
+        "bg": {
+          "value": "#00995B",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#fff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#E6F5EF",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#CFCFCF",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#154734",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#F8F7F5",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#4E4B48",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#5C5C5C",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#234636",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#FBFAFB",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#000000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "#4e4b48",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "#5c5c5c",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#234636",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "inverse": {
+      "default": {
+        "bg": {
+          "value": "#2e2e2e",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#154734",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#424141",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#154734",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#5F5E5E",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#154734",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#000000",
+          "type": "color"
+        }
+      }
+    },
+    "positive": {
+      "default": {
+        "bg": {
+          "value": "#03AA00",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#72D771",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#00330B",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(0,51,11,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(0,51,11,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#C9DEC9",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#00330B",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(0,51,11,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(0,51,11,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    },
+    "negative": {
+      "default": {
+        "bg": {
+          "value": "#DB1616",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#ffffff",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(255,255,255,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(255,255,255,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "subtle": {
+        "bg": {
+          "value": "#EF7272",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#740000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(115,0,0,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(115,0,0,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      },
+      "muted": {
+        "bg": {
+          "value": "#E9A5A5",
+          "type": "color"
+        },
+        "fg-default": {
+          "value": "#740000",
+          "type": "color"
+        },
+        "fg-subtle": {
+          "value": "rgba(115,0,0,0.6)",
+          "type": "color"
+        },
+        "fg-muted": {
+          "value": "rgba(115,0,0,0.4)",
+          "type": "color"
+        },
+        "fg-primary": {
+          "value": "#",
+          "type": "color"
+        },
+        "fg-secondary": {
+          "value": "#",
+          "type": "color"
+        }
+      }
+    }
+  }
+}

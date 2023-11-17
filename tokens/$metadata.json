@@ -9,6 +9,8 @@
     "semantic/typography",
     "semantic/granular",
     "theme/brand2",
+    "semantic/typography",
+    "semantic/granular",
     "view-overrides/VPM",
     "view-overrides/VPS",
     "components/title",
@@ -31,6 +33,10 @@
     "components/quantity selector",
     "components/sidebar navigation",
     "components/multiselect",
-    "components/swatch"
+    "components/swatch",
+    "new-set (template)",
+    "new-set (Hornitos)",
+    "Brands/BrandA/core",
+    "Brands/BrandA/theme"
   ]
 }

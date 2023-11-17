@@ -7,6 +7,10 @@
       "core/colors": "enabled",
       "core/dimension": "enabled",
       "core/font": "enabled",
+      "core/colors": "enabled",
+      "core/dimension": "enabled",
+      "core/font": "enabled",
+      "semantic/simple": "enabled",
       "semantic/typography": "enabled",
       "semantic/granular": "enabled",
       "components/title": "enabled",
@@ -23,6 +27,7 @@
       "components/progress": "enabled",
       "components/video": "enabled",
       "semantic/surface": "enabled"
+      "components/video": "enabled"
     },
     "group": "Viewport"
   },
