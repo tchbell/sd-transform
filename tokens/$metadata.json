@@ -1,14 +1,14 @@
 {
   "tokenSetOrder": [
-    "old/font",
-    "old/spacer",
-    "old/shadows",
-    "old/color",
     "core/colors",
     "core/dimension",
     "core/font",
     "core/opacities",
     "semantic/simple",
+    "semantic/surface",
+    "semantic/typography",
+    "semantic/granular",
+    "theme/brand2",
     "semantic/typography",
     "semantic/granular",
     "view-overrides/VPM",

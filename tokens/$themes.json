@@ -4,10 +4,9 @@
     "name": "VPL",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "old/font": "enabled",
-      "old/spacer": "enabled",
-      "old/shadows": "enabled",
-      "old/color": "enabled",
+      "core/colors": "enabled",
+      "core/dimension": "enabled",
+      "core/font": "enabled",
       "core/colors": "enabled",
       "core/dimension": "enabled",
       "core/font": "enabled",
@@ -26,6 +25,8 @@
       "components/separator": "enabled",
       "components/pictograms": "enabled",
       "components/progress": "enabled",
+      "components/video": "enabled",
+      "semantic/surface": "enabled"
       "components/video": "enabled"
     },
     "group": "Viewport"
@@ -39,10 +40,10 @@
       "core/colors": "source",
       "core/dimension": "source",
       "view-overrides/VPM": "enabled",
-      "semantic/simple": "enabled",
       "semantic/typography": "enabled",
       "semantic/granular": "enabled",
-      "components/title": "enabled"
+      "components/title": "enabled",
+      "semantic/surface": "enabled"
     },
     "group": "Viewport"
   },

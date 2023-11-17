@@ -4,29 +4,29 @@
       "color": {
         "primary": {
           "weakest": {
-            "value": "{color.orange.100}",
+            "value": "#8facff",
             "type": "color"
           },
           "weaker": {
-            "value": "{color.orange.300}",
+            "value": "#7590ff",
             "type": "color"
           },
           "default": {
-            "value": "{color.orange.500}",
+            "value": "#625eff",
             "type": "color"
           }
         },
         "secondary": {
           "weakest": {
-            "value": "{color.grey.100}",
+            "value": "#ff61d8",
             "type": "color"
           },
           "weaker": {
-            "value": "{color.grey.700}",
+            "value": "#ff12ef",
             "type": "color"
           },
           "default": {
-            "value": "{color.grey.900}",
+            "value": "#d0f",
             "type": "color"
           }
         },
