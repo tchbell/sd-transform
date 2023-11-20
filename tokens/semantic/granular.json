@@ -1848,6 +1848,10 @@
           "vertical-gap": {
             "value": "{dimension.0_50}",
             "type": "spacing"
+          },
+          "horizontal-gap": {
+            "value": "{dimension.0_50}",
+            "type": "spacing"
           }
         },
         "helpertext": {

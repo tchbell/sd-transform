@@ -253,6 +253,10 @@
         "value": "{semantic.spacing.inputs.inputtext.vertical-gap}",
         "type": "spacing"
       },
+      "horizontal-gap": {
+        "value": "{semantic.spacing.inputs.inputtext.horizontal-gap}",
+        "type": "spacing"
+      },
       "line-height": {
         "value": "{semantic.sizing.inputs.inputtext.line-height}",
         "type": "sizing"
