@@ -39,6 +39,10 @@
         "value": "{color.neutrals.white}",
         "type": "color"
       }
+    },
+    "border-radius": {
+      "value": "{border-radius.none}",
+      "type": "borderRadius"
     }
   },
   "padding-top": {
@@ -48,9 +52,5 @@
   "padding-bottom": {
     "value": "{semantic.spacing.message.sm.padding-bottom}",
     "type": "spacing"
-  },
-  "message border radius": {
-    "value": "{border-radius.none}",
-    "type": "borderRadius"
   }
 }
