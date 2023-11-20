@@ -1,1 +1,65 @@
-[]
+[
+  {
+    "id": "0fc2940c3e5e0b74990513495063633db6b65f91",
+    "name": "Foundations",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "core/colors": "source",
+      "core/dimension": "source",
+      "core/font": "source",
+      "core/opacities": "source",
+      "semantic/simple": "enabled",
+      "semantic/surface": "enabled",
+      "semantic/typography": "enabled",
+      "semantic/granular": "enabled"
+    },
+    "group": "Core"
+  },
+  {
+    "id": "19c141fb248bd590f8fafd1dc1d351e3d135e3ac",
+    "name": "M",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "view-overrides/VPM": "source"
+    },
+    "group": "VP"
+  },
+  {
+    "id": "72cf5038e3eb6600562051db312354174096c5ed",
+    "name": "L",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "view-overrides/VPL": "source"
+    },
+    "group": "VP"
+  },
+  {
+    "id": "32e514dadf165f9b1437b1732c24786cac3179c2",
+    "name": "Default",
+    "$figmaStyleReferences": {},
+    "selectedTokenSets": {
+      "components/title": "source",
+      "components/text": "source",
+      "components/list": "source",
+      "components/link": "source",
+      "components/pagination": "source",
+      "components/button": "source",
+      "components/forms": "source",
+      "components/accordion": "source",
+      "components/tabs": "source",
+      "components/breadcrumbs": "source",
+      "components/filtertag": "source",
+      "components/separator": "source",
+      "components/pictograms": "source",
+      "components/progress": "source",
+      "components/video": "source",
+      "components/message": "source",
+      "components/tags": "source",
+      "components/quantity selector": "source",
+      "components/sidebar navigation": "source",
+      "components/multiselect": "source",
+      "components/swatch": "source"
+    },
+    "group": "Components"
+  }
+]

@@ -1,6 +1,20 @@
 {
   "semantic": {
     "fontSize": {
+      "text": {
+        "md": {
+          "value": "{fontSize.f0}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{fontSize.f-1}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        },
+        "xs": {
+          "value": "{fontSize.f-2}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        }
+      },
       "title": {
         "md": {
           "value": "{fontSize.f2}*{util.fontsizeAdjust.title}",
