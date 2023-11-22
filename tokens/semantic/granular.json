@@ -2080,6 +2080,16 @@
           "value": "{dimension.0_50}",
           "type": "spacing"
         }
+      },
+      "tabs": {
+        "padding-top": {
+          "value": "{dimension.50}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.50}",
+          "type": "spacing"
+        }
       }
     },
     "border-radius": {

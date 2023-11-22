@@ -42,16 +42,12 @@
         }
       }
     },
-    "padding-horizontal": {
-      "value": "{semantic.spacing.actions.large.padding-right}",
-      "type": "spacing"
-    },
     "padding-top": {
-      "value": "{semantic.spacing.actions.medium.padding-top}",
+      "value": "{semantic.spacing.tabs.padding-top}",
       "type": "spacing"
     },
     "gap": {
-      "value": "8",
+      "value": "{semantic.spacing.tabs.gap}",
       "type": "spacing"
     },
     "inverse": {
