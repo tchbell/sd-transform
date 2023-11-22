@@ -18,6 +18,28 @@
           "value": "{fontSize.f9}*{util.fontsizeAdjust.title}",
           "type": "fontSizes"
         }
+      },
+      "text": {
+        "md": {
+          "value": "{fontSize.f0}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        },
+        "sm": {
+          "value": "{fontSize.f-1}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        },
+        "xs": {
+          "value": "{fontSize.f-2}*{util.fontsizeAdjust.text}",
+          "type": "fontSizes"
+        }
+      }
+    },
+    "sizing": {
+      "accordion": {
+        "width": {
+          "value": "{dimension.1800}",
+          "type": "sizing"
+        }
       }
     }
   }

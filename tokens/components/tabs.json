@@ -1,35 +1,43 @@
 {
   "tabs": {
-    "rested": {
-      "text-color": {
-        "value": "{semantic.color.tabs.rested.text}",
-        "type": "color"
-      }
-    },
-    "hover": {
-      "text-color": {
-        "value": "{semantic.color.tabs.hover.text}",
-        "type": "color"
+    "default": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.tabs.rested.text}",
+          "type": "color"
+        }
       },
-      "line-color": {
-        "value": "{semantic.color.tabs.hover.line}",
-        "type": "color"
-      }
-    },
-    "active": {
-      "text-color": {
-        "value": "{semantic.color.tabs.active.text}",
-        "type": "color"
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.tabs.hover.text}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.hover.line}",
+          "type": "color"
+        }
       },
-      "underline-color": {
-        "value": "{semantic.color.tabs.active.line}",
-        "type": "color"
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.tabs.active.text}",
+          "type": "color"
+        },
+        "underline-color": {
+          "value": "{semantic.color.tabs.active.line}",
+          "type": "color"
+        }
       }
     },
     "text": {
-      "sm": {
+      "xs": {
         "typography": {
           "value": "{semantic.typography.tabs.xs}",
+          "type": "typography"
+        }
+      },
+      "md": {
+        "typography": {
+          "value": "{semantic.typography.tabs.md}",
           "type": "typography"
         }
       }

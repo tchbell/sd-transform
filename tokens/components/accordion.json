@@ -89,6 +89,10 @@
     "horizontal-gap": {
       "value": "{semantic.spacing.accordion.horizontal-gap}",
       "type": "spacing"
+    },
+    "width": {
+      "value": "{semantic.sizing.accordion.width}",
+      "type": "sizing"
     }
   }
 }

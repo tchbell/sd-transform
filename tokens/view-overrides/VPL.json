@@ -33,6 +33,14 @@
           "type": "fontSizes"
         }
       }
+    },
+    "sizing": {
+      "accordion": {
+        "width": {
+          "value": "{dimension.2550}",
+          "type": "sizing"
+        }
+      }
     }
   }
 }

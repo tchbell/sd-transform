@@ -11,9 +11,11 @@
   },
   "swatch": {
     "typography": {
-      "text": {
-        "value": "{semantic.typography.text.xs.default}",
-        "type": "typography"
+      "sm": {
+        "text": {
+          "value": "{semantic.typography.text.xs.default}",
+          "type": "typography"
+        }
       }
     },
     "gap-text": {

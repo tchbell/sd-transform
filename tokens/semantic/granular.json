@@ -2192,6 +2192,12 @@
             }
           }
         }
+      },
+      "accordion": {
+        "width": {
+          "value": "{dimension.1750}",
+          "type": "sizing"
+        }
       }
     },
     "swatch": {

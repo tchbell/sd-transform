@@ -35,23 +35,23 @@
           },
           "subtle": {
             "bg": {
-              "value": "{color.grey.200}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.200}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.400}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-primary": {
@@ -59,29 +59,29 @@
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.secondary.weaker}",
               "type": "color"
             }
           },
           "muted": {
             "bg": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.300}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-primary": {
@@ -89,37 +89,37 @@
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
             }
           },
           "inverse": {
             "bg": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.80}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-primary": {
-              "value": "{semantic.theme.color.primary.weaker}",
+              "value": "{semantic.theme.color.primary.default}",
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.50}",
+              "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
             }
           }
@@ -135,15 +135,15 @@
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             }
           },
@@ -157,15 +157,15 @@
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             }
           },
@@ -179,15 +179,15 @@
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.300}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             }
           }
@@ -195,23 +195,23 @@
         "secondary": {
           "default": {
             "bg": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.200}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.300}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-primary": {
@@ -221,23 +221,23 @@
           },
           "subtle": {
             "bg": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.secondary.weaker}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.secondary.weaker}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-primary": {
@@ -247,23 +247,23 @@
           },
           "muted": {
             "bg": {
-              "value": "{color.grey.100}",
+              "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.100}",
+              "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.grey.80}",
+              "value": "{semantic.theme.color.neutral.stronger}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.700}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-primary": {
@@ -275,23 +275,23 @@
         "onInverse": {
           "default": {
             "bg": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "border": {
-              "value": "{color.neutrals.white}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.400}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-primary": {
@@ -299,29 +299,29 @@
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             }
           },
           "subtle": {
             "bg": {
-              "value": "{color.grey.100}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.100}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.400}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-primary": {
@@ -329,29 +329,29 @@
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             }
           },
           "muted": {
             "bg": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "border": {
-              "value": "{color.grey.500}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-default": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.theme.color.neutral.strongest}",
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{color.grey.600}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{color.grey.400}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-primary": {
@@ -359,29 +359,29 @@
               "type": "color"
             },
             "fg-secondary": {
-              "value": "{color.grey.800}",
+              "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             }
           }
         },
         "onNeutral": {
           "bg": {
-            "value": "{color.neutrals.white}",
+            "value": "{semantic.theme.color.neutral.weakest}",
             "type": "color"
           }
         }
       },
       "fg": {
         "default": {
-          "value": "#d900ff",
+          "value": "{semantic.theme.color.neutral.strongest}",
           "type": "color"
         },
         "subtle": {
-          "value": "{color.grey.700}",
+          "value": "{semantic.theme.color.neutral.stronger}",
           "type": "color"
         },
         "muted": {
-          "value": "{color.grey.600}",
+          "value": "{semantic.theme.color.neutral.strong}",
           "type": "color"
         },
         "primary": {
@@ -400,46 +400,46 @@
         },
         "secondary": {
           "default": {
-            "value": "{color.grey.900}",
+            "value": "{semantic.theme.color.secondary.default}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.grey.700}",
+            "value": "{semantic.theme.color.secondary.weaker}",
             "type": "color"
           },
           "muted": {
-            "value": "{color.grey.100}",
+            "value": "{semantic.theme.color.secondary.weakest}",
             "type": "color"
           }
         },
         "inverse": {
           "default": {
-            "value": "{color.neutrals.white}",
+            "value": "{semantic.theme.color.neutral.weakest}",
             "type": "color"
           },
           "subtle": {
-            "value": "{color.grey.80}",
+            "value": "{semantic.theme.color.neutral.weaker}",
             "type": "color"
           },
           "muted": {
-            "value": "{color.grey.90}",
+            "value": "{semantic.theme.color.neutral.weak}",
             "type": "color"
           },
           "super-subtle": {
-            "value": "rgba( {color.neutrals.white} , {opacity.40})",
+            "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.40})",
             "type": "color"
           }
         },
         "super-subtle": {
-          "value": "rgba({color.grey.100} , {opacity.40})",
+          "value": "rgba( {semantic.theme.color.neutral.weak} , {opacity.40})",
           "type": "color"
         },
         "error": {
-          "value": "{color.red}",
+          "value": "{semantic.signal.color.error}",
           "type": "color"
         },
         "success": {
-          "value": "{color.green}",
+          "value": "{semantic.signal.color.success}",
           "type": "color"
         }
       }
