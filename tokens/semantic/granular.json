@@ -1602,30 +1602,60 @@
         }
       },
       "tabs": {
-        "rested": {
-          "text": {
-            "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
-            "type": "color"
+        "default": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.fg.primary.default}",
+              "type": "color"
+            }
           }
         },
-        "hover": {
-          "text": {
-            "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
-            "type": "color"
+        "inverse": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            }
           },
-          "line": {
-            "value": "{semantic.color.surface.neutral.default.fg-default}",
-            "type": "color"
-          }
-        },
-        "active": {
-          "text": {
-            "value": "{semantic.color.surface.neutral.default.fg-default}",
-            "type": "color"
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
           },
-          "line": {
-            "value": "{semantic.color.fg.primary.default}",
-            "type": "color"
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
           }
         }
       }

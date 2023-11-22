@@ -3,27 +3,27 @@
     "default": {
       "rested": {
         "text-color": {
-          "value": "{semantic.color.tabs.rested.text}",
+          "value": "{semantic.color.tabs.default.rested.text}",
           "type": "color"
         }
       },
       "hover": {
         "text-color": {
-          "value": "{semantic.color.tabs.hover.text}",
+          "value": "{semantic.color.tabs.default.hover.text}",
           "type": "color"
         },
         "line-color": {
-          "value": "{semantic.color.tabs.hover.line}",
+          "value": "{semantic.color.tabs.default.hover.line}",
           "type": "color"
         }
       },
       "active": {
         "text-color": {
-          "value": "{semantic.color.tabs.active.text}",
+          "value": "{semantic.color.tabs.default.active.text}",
           "type": "color"
         },
-        "underline-color": {
-          "value": "{semantic.color.tabs.active.line}",
+        "line-color": {
+          "value": "{semantic.color.tabs.default.active.line}",
           "type": "color"
         }
       }
@@ -53,6 +53,34 @@
     "gap": {
       "value": "8",
       "type": "spacing"
+    },
+    "inverse": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.tabs.inverse.rested.text}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.tabs.inverse.hover.text}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.inverse.hover.line}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.tabs.inverse.active.text}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.inverse.active.line}",
+          "type": "color"
+        }
+      }
     }
   }
 }

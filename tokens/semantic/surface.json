@@ -111,7 +111,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{semantic.theme.color.neutral.default}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-primary": {
