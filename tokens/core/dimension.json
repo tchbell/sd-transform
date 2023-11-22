@@ -1,15 +1,15 @@
 {
   "spacing": {
     "S-0": {
-      "value": "{dimension.0_125}",
+      "value": "{dimension.12_5}",
       "type": "spacing"
     },
     "S-1": {
-      "value": "{dimension.0_25}",
+      "value": "{dimension.25}",
       "type": "spacing"
     },
     "S-2": {
-      "value": "{dimension.0_50}",
+      "value": "{dimension.50}",
       "type": "spacing"
     },
     "S-3": {
@@ -75,6 +75,16 @@
     "0": {
       "value": "0rem",
       "type": "dimension"
+    },
+    "25": {
+      "value": "0.25rem",
+      "type": "dimension",
+      "description": "4 px"
+    },
+    "50": {
+      "value": "0.5rem",
+      "type": "dimension",
+      "description": "8 px"
     },
     "100": {
       "value": "1rem",
@@ -166,20 +176,15 @@
       "type": "dimension",
       "description": "408 px"
     },
-    "0_125": {
+    "12_5": {
       "value": "0.125rem",
       "type": "dimension",
       "description": "2 px"
     },
-    "0_25": {
-      "value": "0.25rem",
+    "0_63": {
+      "value": "0.063rem",
       "type": "dimension",
-      "description": "4 px"
-    },
-    "0_50": {
-      "value": "0.5rem",
-      "type": "dimension",
-      "description": "8 px"
+      "description": "1 px"
     }
   },
   "border-radius": {
@@ -192,7 +197,7 @@
       "type": "borderRadius"
     },
     "md": {
-      "value": "{dimension.0_25} * {util.roundness}",
+      "value": "{dimension.25} * {util.roundness}",
       "type": "borderRadius"
     },
     "full": {
