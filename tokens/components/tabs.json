@@ -42,13 +42,27 @@
         }
       }
     },
-    "padding-top": {
-      "value": "{semantic.spacing.tabs.padding-top}",
-      "type": "spacing"
-    },
-    "gap": {
-      "value": "{semantic.spacing.tabs.gap}",
-      "type": "spacing"
+    "tabelement": {
+      "padding-top": {
+        "value": "{semantic.spacing.tabs.tabelement.padding-top}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.tabs.tabelement.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.tabs.tabelement.padding-right}",
+        "type": "spacing"
+      },
+      "vertical-gap": {
+        "value": "{semantic.spacing.tabs.tabelement.vertical-gap}",
+        "type": "spacing"
+      },
+      "horizontal-gap": {
+        "value": "{semantic.spacing.tabs.tabelement.horizontal-gap}",
+        "type": "spacing"
+      }
     },
     "inverse": {
       "rested": {

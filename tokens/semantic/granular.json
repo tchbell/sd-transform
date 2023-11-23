@@ -1826,23 +1826,23 @@
         },
         "sm": {
           "padding-right": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "padding-left": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "padding-top": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
@@ -1872,25 +1872,25 @@
       "inputs": {
         "inputtext": {
           "padding-top": {
-            "value": "{dimension.0_25}",
+            "value": "{dimension.25}",
             "type": "spacing"
           },
           "vertical-gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "horizontal-gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
         "helpertext": {
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "padding-top": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
@@ -1905,7 +1905,7 @@
               "type": "spacing"
             },
             "horizontal-gap": {
-              "value": "{dimension.0_50}",
+              "value": "{dimension.50}",
               "type": "spacing"
             }
           },
@@ -1916,7 +1916,7 @@
             },
             "sm": {
               "padding-right": {
-                "value": "{dimension.0_50}",
+                "value": "{dimension.50}",
                 "type": "spacing"
               }
             },
@@ -1927,20 +1927,20 @@
               }
             },
             "horizontal-gap": {
-              "value": "{dimension.0_50}",
+              "value": "{dimension.50}",
               "type": "spacing"
             }
           }
         },
         "checkbox": {
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
         "label": {
           "padding-bottom": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
@@ -2014,7 +2014,7 @@
       "pagination": {
         "scrubber": {
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
@@ -2028,15 +2028,15 @@
       "message": {
         "sm": {
           "padding-top": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "gap": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           },
           "padding-bottom": {
-            "value": "{dimension.0_50}",
+            "value": "{dimension.50}",
             "type": "spacing"
           }
         },
@@ -2053,17 +2053,17 @@
       },
       "swatch": {
         "gap-text": {
-          "value": "{dimension.0_50}",
+          "value": "{dimension.50}",
           "type": "spacing"
         },
         "gap-underline": {
-          "value": "{dimension.0_50}",
+          "value": "{dimension.50}",
           "type": "spacing"
         }
       },
       "pictogram": {
         "gap": {
-          "value": "{dimension.0_50}",
+          "value": "{dimension.50}",
           "type": "spacing"
         }
       },
@@ -2077,18 +2077,32 @@
           "type": "spacing"
         },
         "horizontal-gap": {
-          "value": "{dimension.0_50}",
+          "value": "{dimension.50}",
           "type": "spacing"
         }
       },
       "tabs": {
-        "padding-top": {
-          "value": "{dimension.50}",
-          "type": "spacing"
-        },
-        "gap": {
-          "value": "{dimension.50}",
-          "type": "spacing"
+        "tabelement": {
+          "padding-top": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "vertical-gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "horizontal-gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          }
         }
       }
     },
@@ -2135,7 +2149,7 @@
       },
       "scrubber": {
         "height": {
-          "value": "{dimension.0_125}",
+          "value": "{dimension.12_5}",
           "type": "sizing"
         },
         "fullWidth": {
@@ -2191,7 +2205,7 @@
           },
           "scrollbar": {
             "width": {
-              "value": "{dimension.0_125}",
+              "value": "{dimension.12_5}",
               "type": "sizing"
             },
             "progress-height": {
@@ -2206,7 +2220,7 @@
         },
         "inputtext": {
           "line-height": {
-            "value": "{dimension.0_125}",
+            "value": "{dimension.12_5}",
             "type": "sizing"
           }
         },

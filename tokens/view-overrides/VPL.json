@@ -41,6 +41,32 @@
           "type": "sizing"
         }
       }
+    },
+    "spacing": {
+      "tabs-copy": {
+        "tabelement": {
+          "padding-top": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "vertical-gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "horizontal-gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-left": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          }
+        }
+      }
     }
   }
 }
