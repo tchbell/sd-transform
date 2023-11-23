@@ -1607,6 +1607,12 @@
             "text": {
               "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
               "type": "color"
+            },
+            "accordion": {
+              "line": {
+                "value": "{semantic.color.surface.neutral.subtle.fg-muted}",
+                "type": "color"
+              }
             }
           },
           "hover": {
@@ -1617,6 +1623,12 @@
             "line": {
               "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
+            },
+            "accordion": {
+              "line": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
             }
           },
           "active": {
@@ -2083,25 +2095,49 @@
       },
       "tabs": {
         "tabelement": {
-          "padding-top": {
-            "value": "{dimension.50}",
-            "type": "spacing"
+          "sm": {
+            "padding-top": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            },
+            "vertical-gap": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            },
+            "horizontal-gap": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            },
+            "padding-left": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            },
+            "padding-right": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            }
           },
-          "vertical-gap": {
-            "value": "{dimension.50}",
-            "type": "spacing"
-          },
-          "horizontal-gap": {
-            "value": "{dimension.50}",
-            "type": "spacing"
-          },
-          "padding-left": {
-            "value": "{dimension.50}",
-            "type": "spacing"
-          },
-          "padding-right": {
-            "value": "{dimension.50}",
-            "type": "spacing"
+          "lg": {
+            "padding-top": {
+              "value": "{dimension.150}",
+              "type": "spacing"
+            },
+            "vertical-gap": {
+              "value": "{dimension.150}",
+              "type": "spacing"
+            },
+            "horizontal-gap": {
+              "value": "{dimension.50}",
+              "type": "spacing"
+            },
+            "padding-left": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            },
+            "padding-right": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            }
           }
         }
       }
