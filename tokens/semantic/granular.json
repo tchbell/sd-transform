@@ -114,7 +114,7 @@
                 "type": "color"
               },
               "fg": {
-                "value": "{semantic.color.surface.secondary.muted.fg-default}",
+                "value": "{semantic.color.surface.secondary.muted.fg-muted}",
                 "type": "color"
               }
             }
@@ -258,7 +258,7 @@
                 "type": "color"
               },
               "fg": {
-                "value": "{semantic.color.surface.secondary.muted.fg-default}",
+                "value": "{semantic.color.surface.secondary.muted.fg-muted}",
                 "type": "color"
               }
             }
@@ -348,7 +348,7 @@
             },
             "active": {
               "fg": {
-                "value": "{semantic.color.fg.secondary.subtle}",
+                "value": "{semantic.color.fg.secondary.default}",
                 "type": "color"
               }
             },
@@ -1666,6 +1666,60 @@
             },
             "line": {
               "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "filter-tag": {
+        "default": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          }
+        },
+        "inverse": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
             }
           }

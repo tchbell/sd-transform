@@ -98,7 +98,7 @@
             "type": "color"
           },
           "fg-color": {
-            "value": "{semantic.color.actions.secondary-cta.secondary.disabled.fg}",
+            "value": "{semantic.color.actions.primary-cta.secondary.disabled.fg}",
             "type": "color"
           }
         },
@@ -352,7 +352,7 @@
         },
         "active": {
           "fg-color": {
-            "value": "#454545",
+            "value": "{semantic.color.actions.tertiary-cta.secondary.active.fg}",
             "type": "color"
           }
         }
