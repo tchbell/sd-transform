@@ -38,6 +38,44 @@
         "type": "color"
       }
     },
+    "blue-moon": {
+      "100": {
+        "value": "#e2eef1",
+        "type": "color"
+      },
+      "200": {
+        "value": "#c6dde4",
+        "type": "color"
+      },
+      "300": {
+        "value": "#aaccd6",
+        "type": "color"
+      },
+      "400": {
+        "value": "#8ebbc9",
+        "type": "color"
+      },
+      "500": {
+        "value": "#72aabc",
+        "type": "color"
+      },
+      "600": {
+        "value": "#5b8896",
+        "type": "color"
+      },
+      "700": {
+        "value": "#446670",
+        "type": "color"
+      },
+      "800": {
+        "value": "#2d444b",
+        "type": "color"
+      },
+      "900": {
+        "value": "#162225",
+        "type": "color"
+      }
+    },
     "grey": {
       "50": {
         "value": "#fcfcfc",

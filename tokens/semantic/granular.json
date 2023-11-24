@@ -2139,6 +2139,24 @@
               "type": "spacing"
             }
           }
+        },
+        "group": {
+          "sm": {
+            "horizontal-gap": {
+              "value": "{dimension.100}",
+              "type": "spacing"
+            }
+          },
+          "lg": {
+            "horizontal-gap": {
+              "value": "{dimension.150}",
+              "type": "spacing"
+            }
+          },
+          "vertical-gap": {
+            "value": "{dimension.250}",
+            "type": "spacing"
+          }
         }
       }
     },

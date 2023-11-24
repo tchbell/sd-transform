@@ -121,6 +121,24 @@
           "type": "color"
         }
       }
+    },
+    "group": {
+      "sm": {
+        "horizontal-gap": {
+          "value": "{semantic.spacing.tabs.group.sm.horizontal-gap}",
+          "type": "spacing"
+        }
+      },
+      "lg": {
+        "horizontal-gap": {
+          "value": "{semantic.spacing.tabs.group.lg.horizontal-gap}",
+          "type": "spacing"
+        }
+      },
+      "vertical-gap": {
+        "value": "{semantic.spacing.tabs.group.vertical-gap}",
+        "type": "spacing"
+      }
     }
   }
 }
