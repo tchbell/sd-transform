@@ -147,6 +147,128 @@
               "type": "color"
             }
           }
+        },
+        "neutral": {
+          "default": {
+            "bg": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.strongest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "fg-secondary": {
+              "value": "{semantic.theme.color.secondary.default}",
+              "type": "color"
+            }
+          },
+          "subtle": {
+            "bg": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.strongest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.weaker}",
+              "type": "color"
+            },
+            "fg-secondary": {
+              "value": "{semantic.theme.color.secondary.weaker}",
+              "type": "color"
+            }
+          },
+          "muted": {
+            "bg": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.strongest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.weakest}",
+              "type": "color"
+            },
+            "fg-secondary": {
+              "value": "{semantic.theme.color.secondary.weakest}",
+              "type": "color"
+            }
+          },
+          "inverse": {
+            "bg": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "fg-secondary": {
+              "value": "{semantic.theme.color.secondary.weakest}",
+              "type": "color"
+            }
+          }
         }
       }
     },
