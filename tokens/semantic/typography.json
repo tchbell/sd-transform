@@ -392,19 +392,19 @@
     "fontSize": {
       "title": {
         "md": {
-          "value": "{fontSize.f1}*{util.fontsizeAdjust.title}",
+          "value": "{fontSize.f2} *{util.fontsizeAdjust.title}",
           "type": "fontSizes"
         },
         "lg": {
-          "value": "{fontSize.f2}*{util.fontsizeAdjust.title}",
+          "value": "{fontSize.f4} *{util.fontsizeAdjust.title}",
           "type": "fontSizes"
         },
         "xl": {
-          "value": "{fontSize.f5}*{util.fontsizeAdjust.title}",
+          "value": "{fontSize.f7} *{util.fontsizeAdjust.title}",
           "type": "fontSizes"
         },
         "xxl": {
-          "value": "{fontSize.f6}*{util.fontsizeAdjust.title}",
+          "value": "{fontSize.f9} *{util.fontsizeAdjust.title}",
           "type": "fontSizes"
         }
       },
