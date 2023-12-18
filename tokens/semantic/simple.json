@@ -60,6 +60,10 @@
             "type": "color"
           }
         }
+      },
+      "border-radius": {
+        "value": "0",
+        "type": "borderRadius"
       }
     },
     "signal": {

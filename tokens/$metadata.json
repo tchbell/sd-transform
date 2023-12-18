@@ -8,6 +8,8 @@
     "semantic/surface",
     "semantic/typography",
     "semantic/granular",
+    "theme/LP",
+    "theme/brand2",
     "view-overrides/VPS",
     "view-overrides/VPM",
     "view-overrides/VPL",
@@ -32,7 +34,6 @@
     "components/sidebar navigation",
     "components/multiselect",
     "components/swatch",
-    "theme/brand2",
     "Brands/BrandA/core",
     "Brands/BrandA/theme"
   ]

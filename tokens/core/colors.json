@@ -151,6 +151,44 @@
     "green": {
       "value": "#03AA00",
       "type": "color"
+    },
+    "earthly-green": {
+      "100": {
+        "value": "#37956c",
+        "type": "color"
+      },
+      "200": {
+        "value": "#2c7757",
+        "type": "color"
+      },
+      "300": {
+        "value": "#256449",
+        "type": "color"
+      },
+      "400": {
+        "value": "#1d563f",
+        "type": "color"
+      },
+      "500": {
+        "value": "#154734",
+        "type": "color"
+      },
+      "600": {
+        "value": "#133f2e",
+        "type": "color"
+      },
+      "700": {
+        "value": "#103628",
+        "type": "color"
+      },
+      "800": {
+        "value": "#0e2f23",
+        "type": "color"
+      },
+      "900": {
+        "value": "#091f17",
+        "type": "color"
+      }
     }
   }
 }

@@ -1,0 +1,164 @@
+{
+  "semantic": {
+    "theme": {
+      "color": {
+        "primary": {
+          "weakest": {
+            "value": "{color.earthly-green.100}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.earthly-green.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.earthly-green.500}",
+            "type": "color"
+          }
+        },
+        "secondary": {
+          "weakest": {
+            "value": "{color.blue-moon.100}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.blue-moon.300}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.blue-moon.500}",
+            "type": "color"
+          }
+        },
+        "neutral": {
+          "weakest": {
+            "value": "{color.neutrals.white}",
+            "type": "color"
+          },
+          "weaker": {
+            "value": "{color.grey.60}",
+            "type": "color"
+          },
+          "weak": {
+            "value": "{color.grey.200}",
+            "type": "color"
+          },
+          "default": {
+            "value": "{color.grey.500}",
+            "type": "color"
+          },
+          "strong": {
+            "value": "{color.grey.600}",
+            "type": "color"
+          },
+          "stronger": {
+            "value": "{color.grey.800}",
+            "type": "color"
+          },
+          "strongest": {
+            "value": "{color.neutrals.black}",
+            "type": "color"
+          }
+        }
+      },
+      "border-radius": {
+        "value": "8",
+        "type": "borderRadius"
+      }
+    },
+    "signal": {
+      "color": {
+        "error": {
+          "value": "{color.red}",
+          "type": "color"
+        },
+        "success": {
+          "value": "{color.green}",
+          "type": "color"
+        }
+      }
+    },
+    "color": {
+      "surface": {
+        "primary": {
+          "default": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            }
+          },
+          "subtle": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.weaker}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.weaker}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            }
+          },
+          "muted": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.weakest}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.weakest}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            }
+          }
+        }
+      }
+    }
+  },
+  "fontFamilies": {
+    "text": {
+      "value": "Atten New",
+      "type": "fontFamilies"
+    },
+    "title": {
+      "value": "EB Garamond",
+      "type": "fontFamilies"
+    }
+  }
+}
