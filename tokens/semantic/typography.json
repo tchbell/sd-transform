@@ -80,7 +80,7 @@
               "fontFamily": "{fontFamilies.text}",
               "fontWeight": "{fontWeights.text.400}",
               "lineHeight": "{lineHeights.text.default}",
-              "fontSize": "{semantic.fontSize.text.md}",
+              "fontSize": "{semantic.fontSize.text.sm}",
               "letterSpacing": "{letterSpacing.none}",
               "paragraphSpacing": "{paragraphSpacing.0}",
               "paragraphIndent": "{paragraphIndent.0}",

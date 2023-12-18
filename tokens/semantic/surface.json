@@ -55,7 +55,7 @@
               "type": "color"
             },
             "fg-primary": {
-              "value": "{semantic.theme.color.primary.default}",
+              "value": "{semantic.theme.color.primary.weaker}",
               "type": "color"
             },
             "fg-secondary": {
@@ -85,7 +85,7 @@
               "type": "color"
             },
             "fg-primary": {
-              "value": "{semantic.theme.color.primary.default}",
+              "value": "{semantic.theme.color.primary.weakest}",
               "type": "color"
             },
             "fg-secondary": {
