@@ -149,6 +149,74 @@
           }
         }
       }
+    },
+    "typography": {
+      "title": {
+        "xxl": {
+          "default": {
+            "value": {
+              "fontFamily": "{fontFamilies.title}",
+              "fontWeight": "{fontWeights.title.800}",
+              "lineHeight": "{lineHeights.title.default}",
+              "fontSize": "{semantic.fontSize.title.xxl}",
+              "letterSpacing": "{letterSpacing.none}",
+              "paragraphSpacing": "{paragraphSpacing.0}",
+              "paragraphIndent": "{paragraphIndent.0}",
+              "textCase": "{textCase.uppercase}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography"
+          }
+        },
+        "xl": {
+          "default": {
+            "value": {
+              "fontFamily": "{fontFamilies.title}",
+              "fontWeight": "{fontWeights.title.800}",
+              "lineHeight": "{lineHeights.title.default}",
+              "fontSize": "{semantic.fontSize.title.xl}",
+              "letterSpacing": "{letterSpacing.none}",
+              "paragraphSpacing": "{paragraphSpacing.0}",
+              "paragraphIndent": "{paragraphIndent.0}",
+              "textCase": "{textCase.uppercase}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography"
+          }
+        },
+        "lg": {
+          "default": {
+            "value": {
+              "fontFamily": "{fontFamilies.title}",
+              "fontWeight": "{fontWeights.title.800}",
+              "lineHeight": "{lineHeights.title.default}",
+              "fontSize": "{semantic.fontSize.title.lg}",
+              "letterSpacing": "{letterSpacing.none}",
+              "paragraphSpacing": "{paragraphSpacing.0}",
+              "paragraphIndent": "{paragraphIndent.0}",
+              "textCase": "{textCase.uppercase}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography"
+          }
+        },
+        "md": {
+          "default": {
+            "value": {
+              "fontFamily": "{fontFamilies.title}",
+              "fontWeight": "{fontWeights.title.800}",
+              "lineHeight": "{lineHeights.title.default}",
+              "fontSize": "{semantic.fontSize.title.md}",
+              "letterSpacing": "{letterSpacing.none}",
+              "paragraphSpacing": "{paragraphSpacing.0}",
+              "paragraphIndent": "{paragraphIndent.0}",
+              "textCase": "{textCase.uppercase}",
+              "textDecoration": "{textDecoration.none}"
+            },
+            "type": "typography"
+          }
+        }
+      }
     }
   },
   "fontFamilies": {
@@ -157,7 +225,7 @@
       "type": "fontFamilies"
     },
     "title": {
-      "value": "EB Garamond",
+      "value": "Atten New",
       "type": "fontFamilies"
     }
   }

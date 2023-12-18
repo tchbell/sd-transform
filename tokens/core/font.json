@@ -62,6 +62,10 @@
       "400": {
         "value": "Regular",
         "type": "fontWeights"
+      },
+      "800": {
+        "value": "ExtraBold",
+        "type": "fontWeights"
       }
     }
   },
