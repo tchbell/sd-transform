@@ -18,15 +18,15 @@
         },
         "secondary": {
           "weakest": {
-            "value": "{color.blue-moon.100}",
+            "value": "{color.grey.100}",
             "type": "color"
           },
           "weaker": {
-            "value": "{color.blue-moon.300}",
+            "value": "{color.grey.700}",
             "type": "color"
           },
           "default": {
-            "value": "{color.blue-moon.500}",
+            "value": "{color.grey.900}",
             "type": "color"
           }
         },
