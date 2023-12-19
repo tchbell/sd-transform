@@ -1,58 +1,58 @@
 {
   "progress": {
     "default": {
-      "text": {
-        "color": {
-          "value": "{token.progress.progress-label-default}",
-          "type": "color"
-        }
-      },
-      "progress-number": {
-        "bg-color": {
-          "value": "{token.progress.progress-background-default}",
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.progress.default.rested.text}",
           "type": "color"
         },
-        "fg-color": {
-          "value": "{token.progress.progress-icon-default}",
-          "type": "color"
+        "progress-number": {
+          "bg-color": {
+            "value": "{semantic.color.progress.default.rested.progress-number.bg}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.default.rested.progress-number.fg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.progress.default.rested.progress-number.border}",
+            "type": "color"
+          }
         },
-        "border-color": {
-          "value": "{token.progress.progress-outline-default}",
-          "type": "color"
+        "progress-line": {
+          "color": {
+            "value": "{semantic.color.progress.default.rested.progress-line}",
+            "type": "color"
+          }
         }
       },
-      "progress-line": {
-        "color": {
-          "value": "{token.progress.progress-line-default}",
-          "type": "color"
-        }
-      }
-    },
-    "active": {
-      "text": {
-        "color": {
-          "value": "{token.progress.progress-label-active}",
-          "type": "color"
-        }
-      },
-      "progress-number": {
-        "bg-color": {
-          "value": "{token.progress.progress-background-active}",
-          "type": "color"
+      "active": {
+        "text": {
+          "color": {
+            "value": "{semantic.color.progress.default.active.text}",
+            "type": "color"
+          }
         },
-        "fg-color": {
-          "value": "{token.progress.progress-icon-active}",
-          "type": "color"
+        "progress-number": {
+          "bg-color": {
+            "value": "{semantic.color.progress.default.active.progress-number.bg}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.default.active.progress-number.fg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.progress.default.active.progress-number.border}",
+            "type": "color"
+          }
         },
-        "border-color": {
-          "value": "{token.progress.progress-outline-active}",
-          "type": "color"
-        }
-      },
-      "progress-line": {
-        "color": {
-          "value": "{token.progress.progress-line-active}",
-          "type": "color"
+        "progress-line": {
+          "color": {
+            "value": "{semantic.color.progress.default.active.progress-line}",
+            "type": "color"
+          }
         }
       }
     },
@@ -92,9 +92,75 @@
         "type": "sizing"
       }
     },
-    "gap": {
-      "value": "{dimension.100}",
+    "horizontal-gap": {
+      "value": "{semantic.spacing.progress.horizontal-gap}",
       "type": "spacing"
+    },
+    "vertical-gap": {
+      "value": "{semantic.spacing.progress.vertical-gap}",
+      "type": "spacing"
+    },
+    "group": {
+      "vertical-gap": {
+        "value": "{semantic.spacing.progress.group.vertical-gap}",
+        "type": "spacing"
+      }
+    },
+    "inverse": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.progress.inverse.rested.text}",
+          "type": "color"
+        },
+        "progress-number": {
+          "bg-color": {
+            "value": "{semantic.color.progress.inverse.rested.progress-number.bg}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.inverse.rested.progress-number.fg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.progress.inverse.rested.progress-number.border}",
+            "type": "color"
+          }
+        },
+        "progress-line": {
+          "color": {
+            "value": "{semantic.color.progress.inverse.rested.progress-line}",
+            "type": "color"
+          }
+        }
+      },
+      "active": {
+        "text": {
+          "color": {
+            "value": "{semantic.color.progress.inverse.active.text}",
+            "type": "color"
+          }
+        },
+        "progress-number": {
+          "bg-color": {
+            "value": "{semantic.color.progress.inverse.active.progress-number.bg}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.inverse.active.progress-number.fg}",
+            "type": "color"
+          },
+          "border-color": {
+            "value": "{semantic.color.progress.inverse.active.progress-number.border}",
+            "type": "color"
+          }
+        },
+        "progress-line": {
+          "color": {
+            "value": "{semantic.color.progress.inverse.active.progress-line}",
+            "type": "color"
+          }
+        }
+      }
     }
   }
 }

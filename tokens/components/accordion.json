@@ -40,6 +40,14 @@
       "circle-color": {
         "value": "{semantic.color.accordion.default.circle}",
         "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.accordion.default.icon}",
+        "type": "color"
+      },
+      "chevron-color": {
+        "value": "{semantic.color.accordion.default.chevron}",
+        "type": "color"
       }
     },
     "inverse": {
@@ -75,6 +83,14 @@
       },
       "circle-color": {
         "value": "{semantic.color.accordion.inverse.circle}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.accordion.default.icon}",
+        "type": "color"
+      },
+      "chevron-color": {
+        "value": "{semantic.color.accordion.inverse.chevron}",
         "type": "color"
       }
     },

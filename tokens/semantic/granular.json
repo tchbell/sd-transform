@@ -605,10 +605,18 @@
             "scrubber": {
               "value": "{semantic.color.fg.super-subtle}",
               "type": "color"
+            },
+            "slider": {
+              "value": "{semantic.color.fg.super-subtle}",
+              "type": "color"
             }
           },
           "active": {
             "scrubber": {
+              "value": "{semantic.color.surface.secondary.default.bg}",
+              "type": "color"
+            },
+            "slider": {
               "value": "{semantic.color.surface.secondary.default.bg}",
               "type": "color"
             }
@@ -1562,6 +1570,14 @@
           "circle": {
             "value": "{semantic.color.surface.neutral.default.bg}",
             "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+            "type": "color"
+          },
+          "chevron": {
+            "value": "{semantic.color.fg.default}",
+            "type": "color"
           }
         },
         "inverse": {
@@ -1597,6 +1613,14 @@
           },
           "circle": {
             "value": "{semantic.color.surface.neutral.inverse.bg}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+            "type": "color"
+          },
+          "chevron": {
+            "value": "{semantic.color.fg.inverse.default}",
             "type": "color"
           }
         }
@@ -1720,6 +1744,108 @@
           "active": {
             "text": {
               "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          }
+        }
+      },
+      "progress": {
+        "default": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            },
+            "progress-number": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.subtle.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.neutral.default.border}",
+                "type": "color"
+              }
+            },
+            "progress-line": {
+              "value": "{semantic.color.surface.neutral.default.border}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "progress-number": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.inverse.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.neutral.inverse.border}",
+                "type": "color"
+              }
+            },
+            "progress-line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          }
+        },
+        "inverse": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            },
+            "progress-number": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.inverse.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              }
+            },
+            "progress-line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "progress-number": {
+              "bg": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.onInverse.default.border}",
+                "type": "color"
+              }
+            },
+            "progress-line": {
+              "value": "{semantic.color.surface.onInverse.default.fg-muted}",
               "type": "color"
             }
           }
@@ -2099,6 +2225,12 @@
             "value": "{dimension.100}",
             "type": "spacing"
           }
+        },
+        "slider": {
+          "gap": {
+            "value": "{dimension.200}",
+            "type": "spacing"
+          }
         }
       },
       "message": {
@@ -2219,6 +2351,28 @@
           },
           "vertical-gap": {
             "value": "{dimension.250}",
+            "type": "spacing"
+          }
+        }
+      },
+      "link": {
+        "horizontal-gap": {
+          "value": "{dimension.50}",
+          "type": "spacing"
+        }
+      },
+      "progress": {
+        "horizontal-gap": {
+          "value": "{dimension.100}",
+          "type": "spacing"
+        },
+        "vertical-gap": {
+          "value": "{dimension.125}",
+          "type": "spacing"
+        },
+        "group": {
+          "vertical-gap": {
+            "value": "{dimension.150}",
             "type": "spacing"
           }
         }

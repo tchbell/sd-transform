@@ -77,6 +77,10 @@
           "type": "color"
         }
       }
+    },
+    "horizontal-gap": {
+      "value": "{semantic.spacing.link.horizontal-gap}",
+      "type": "spacing"
     }
   }
 }
