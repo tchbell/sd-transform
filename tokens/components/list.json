@@ -55,6 +55,10 @@
         "text-color": {
           "value": "{semantic.color.list.default.active.text}",
           "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.list.default.active.icon}",
+          "type": "color"
         }
       }
     },
@@ -100,6 +104,10 @@
       "active": {
         "text-color": {
           "value": "{semantic.color.list.inverse.active.text}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.list.inverse.active.icon}",
           "type": "color"
         }
       }

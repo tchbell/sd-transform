@@ -567,6 +567,10 @@
             "text": {
               "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
             }
           },
           "title": {
@@ -589,6 +593,10 @@
           },
           "active": {
             "text": {
+              "value": "{semantic.color.fg.inverse.default}",
+              "type": "color"
+            },
+            "icon": {
               "value": "{semantic.color.fg.inverse.default}",
               "type": "color"
             }
