@@ -24,6 +24,10 @@
               "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
+            "fg-supermuted": {
+              "value": "rgba( {semantic.theme.color.neutral.weak} , {opacity.40})",
+              "type": "color"
+            },
             "fg-primary": {
               "value": "{semantic.theme.color.primary.default}",
               "type": "color"
@@ -90,6 +94,16 @@
             },
             "fg-secondary": {
               "value": "{semantic.theme.color.secondary.weakest}",
+              "type": "color"
+            }
+          },
+          "supermuted": {
+            "bg": {
+              "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.80})",
+              "type": "color"
+            },
+            "border": {
+              "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.80})",
               "type": "color"
             }
           },
@@ -120,154 +134,6 @@
             },
             "fg-secondary": {
               "value": "{semantic.theme.color.secondary.weakest}",
-              "type": "color"
-            }
-          }
-        },
-        "primary": {
-          "default": {
-            "bg": {
-              "value": "{semantic.theme.color.primary.default}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.primary.default}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.strongest}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.stronger}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.strong}",
-              "type": "color"
-            }
-          },
-          "subtle": {
-            "bg": {
-              "value": "{semantic.theme.color.primary.weaker}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.primary.weaker}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.strongest}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.stronger}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.strong}",
-              "type": "color"
-            }
-          },
-          "muted": {
-            "bg": {
-              "value": "{semantic.theme.color.primary.weakest}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.primary.weakest}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.stronger}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.default}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.weak}",
-              "type": "color"
-            }
-          }
-        },
-        "secondary": {
-          "default": {
-            "bg": {
-              "value": "{semantic.theme.color.secondary.default}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.secondary.default}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.weakest}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.weaker}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.weak}",
-              "type": "color"
-            },
-            "fg-primary": {
-              "value": "{semantic.theme.color.primary.default}",
-              "type": "color"
-            }
-          },
-          "subtle": {
-            "bg": {
-              "value": "{semantic.theme.color.secondary.weaker}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.secondary.weaker}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.weakest}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.weaker}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.weak}",
-              "type": "color"
-            },
-            "fg-primary": {
-              "value": "{semantic.theme.color.primary.default}",
-              "type": "color"
-            }
-          },
-          "muted": {
-            "bg": {
-              "value": "{semantic.theme.color.secondary.weakest}",
-              "type": "color"
-            },
-            "border": {
-              "value": "{semantic.theme.color.secondary.weakest}",
-              "type": "color"
-            },
-            "fg-default": {
-              "value": "{semantic.theme.color.neutral.stronger}",
-              "type": "color"
-            },
-            "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.strong}",
-              "type": "color"
-            },
-            "fg-muted": {
-              "value": "{semantic.theme.color.neutral.weak}",
-              "type": "color"
-            },
-            "fg-primary": {
-              "value": "{semantic.theme.color.primary.default}",
               "type": "color"
             }
           }
@@ -362,6 +228,164 @@
               "value": "{semantic.theme.color.secondary.default}",
               "type": "color"
             }
+          },
+          "supermuted": {
+            "bg": {
+              "value": "rgba( {semantic.theme.color.neutral.strongest} , {opacity.80})",
+              "type": "color"
+            },
+            "border": {
+              "value": "rgba( {semantic.theme.color.neutral.strongest} , {opacity.80})",
+              "type": "color"
+            }
+          }
+        },
+        "primary": {
+          "default": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.strongest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            }
+          },
+          "subtle": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.weaker}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.weaker}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.strongest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            }
+          },
+          "muted": {
+            "bg": {
+              "value": "{semantic.theme.color.primary.weakest}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.primary.weakest}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.default}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            }
+          }
+        },
+        "secondary": {
+          "default": {
+            "bg": {
+              "value": "{semantic.theme.color.secondary.default}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.secondary.default}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            }
+          },
+          "subtle": {
+            "bg": {
+              "value": "{semantic.theme.color.secondary.weaker}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.secondary.weaker}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.weakest}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.weaker}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            }
+          },
+          "muted": {
+            "bg": {
+              "value": "{semantic.theme.color.secondary.weakest}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.theme.color.secondary.weakest}",
+              "type": "color"
+            },
+            "fg-default": {
+              "value": "{semantic.theme.color.neutral.stronger}",
+              "type": "color"
+            },
+            "fg-subtle": {
+              "value": "{semantic.theme.color.neutral.strong}",
+              "type": "color"
+            },
+            "fg-muted": {
+              "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-primary": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color"
+            }
           }
         },
         "onNeutral": {
@@ -372,68 +396,6 @@
         }
       },
       "fg": {
-        "default": {
-          "value": "{semantic.theme.color.neutral.strongest}",
-          "type": "color"
-        },
-        "subtle": {
-          "value": "{semantic.theme.color.neutral.stronger}",
-          "type": "color"
-        },
-        "muted": {
-          "value": "{semantic.theme.color.neutral.strong}",
-          "type": "color"
-        },
-        "primary": {
-          "default": {
-            "value": "{semantic.theme.color.primary.default}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{semantic.theme.color.primary.weaker}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{semantic.theme.color.primary.weakest}",
-            "type": "color"
-          }
-        },
-        "secondary": {
-          "default": {
-            "value": "{semantic.theme.color.secondary.default}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{semantic.theme.color.secondary.weaker}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{semantic.theme.color.secondary.weakest}",
-            "type": "color"
-          }
-        },
-        "inverse": {
-          "default": {
-            "value": "{semantic.theme.color.neutral.weakest}",
-            "type": "color"
-          },
-          "subtle": {
-            "value": "{semantic.theme.color.neutral.weaker}",
-            "type": "color"
-          },
-          "muted": {
-            "value": "{semantic.theme.color.neutral.weak}",
-            "type": "color"
-          },
-          "super-subtle": {
-            "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.40})",
-            "type": "color"
-          }
-        },
-        "super-subtle": {
-          "value": "rgba( {semantic.theme.color.neutral.weak} , {opacity.40})",
-          "type": "color"
-        },
         "error": {
           "value": "{semantic.signal.color.error}",
           "type": "color"

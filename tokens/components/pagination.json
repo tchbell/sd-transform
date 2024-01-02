@@ -16,29 +16,43 @@
         "type": "color"
       },
       "active": {
-        "scrubber-color": {
-          "value": "{semantic.color.pagination.default.active.scrubber}",
-          "type": "color"
+        "scrubber": {
+          "line-color": {
+            "value": "{semantic.color.pagination.default.active.scrubber.line}",
+            "type": "color"
+          }
         },
-        "slider-color": {
-          "value": "{semantic.color.pagination.default.active.slider}",
-          "type": "color"
+        "slider": {
+          "line-color": {
+            "value": "{semantic.color.pagination.default.active.slider.line}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.color.pagination.default.active.slider.bg}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.pagination.default.active.slider.icon}",
+            "type": "color"
+          }
         }
       },
       "rested": {
-        "scrubber-color": {
-          "value": "{semantic.color.pagination.default.rested.scrubber}",
-          "type": "color"
+        "scrubber": {
+          "line-color": {
+            "value": "{semantic.color.pagination.default.rested.scrubber.line}",
+            "type": "color"
+          }
         },
-        "slider-color": {
-          "value": "{semantic.color.pagination.default.rested.slider}",
-          "type": "color"
-        }
-      },
-      "slider": {
-        "bg-color": {
-          "value": "#fff",
-          "type": "color"
+        "slider": {
+          "line-color": {
+            "value": "{semantic.color.pagination.default.rested.slider.line}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.pagination.default.rested.slider.icon}",
+            "type": "color"
+          }
         }
       }
     },
@@ -51,28 +65,56 @@
       }
     },
     "inverse": {
-      "text": {
-        "color": {
-          "value": "{semantic.color.pagination.inverse.text}",
-          "type": "color"
+      "text-color": {
+        "value": "{semantic.color.pagination.inverse.text}",
+        "type": "color"
+      },
+      "active": {
+        "scrubber": {
+          "line-color": {
+            "value": "{semantic.color.pagination.inverse.active.scrubber.line}",
+            "type": "color"
+          }
+        },
+        "slider": {
+          "line-color": {
+            "value": "{semantic.color.pagination.inverse.active.slider.line}",
+            "type": "color"
+          },
+          "bg-color": {
+            "value": "{semantic.color.pagination.inverse.active.slider.bg}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.pagination.inverse.active.slider.icon}",
+            "type": "color"
+          }
         }
       },
-      "scrubber": {
-        "active-color": {
-          "value": "{semantic.color.pagination.inverse.active.scrubber}",
-          "type": "color"
-        },
-        "rested-color": {
-          "value": "{semantic.color.pagination.inverse.rested.scrubber}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "{pagination.rested.scrubber.40}",
-                "space": "lch"
+      "rested": {
+        "scrubber": {
+          "line-color": {
+            "value": "{semantic.color.pagination.inverse.rested.scrubber.line}",
+            "type": "color",
+            "$extensions": {
+              "studio.tokens": {
+                "modify": {
+                  "type": "alpha",
+                  "value": "{pagination.rested.scrubber.40}",
+                  "space": "lch"
+                }
               }
             }
+          }
+        },
+        "slider": {
+          "line-color": {
+            "value": "{semantic.color.pagination.inverse.rested.slider.line}",
+            "type": "color"
+          },
+          "icon-color": {
+            "value": "{semantic.color.pagination.inverse.rested.slider.icon}",
+            "type": "color"
           }
         }
       }
@@ -87,6 +129,10 @@
       "gap": {
         "value": "{semantic.spacing.pagination.slider.gap}",
         "type": "spacing"
+      },
+      "bg-color": {
+        "value": "#fff",
+        "type": "color"
       }
     }
   },

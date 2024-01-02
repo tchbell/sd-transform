@@ -1,8 +1,8 @@
 {
-  "filter-tag": {
+  "filtertag": {
     "rested": {
       "text-color": {
-        "value": "#A1A1A1",
+        "value": "{semantic.color.filtertag.default.rested.text}",
         "type": "color"
       },
       "border-color": {
@@ -56,6 +56,28 @@
         "type": "color"
       }
     },
+    "height": {
+      "value": "{dimension.500}",
+      "type": "sizing"
+    },
+    "width": {
+      "value": "{dimension.500}",
+      "type": "sizing"
+    },
+    "padding-left": {
+      "value": "{semantic.filtertag.padding-left}",
+      "type": "spacing"
+    },
+    "padding-right": {
+      "value": "{semantic.filtertag.padding-right}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{semantic.filtertag.gap}",
+      "type": "spacing"
+    }
+  },
+  "filter-tag": {
     "border-width": {
       "value": "{border-width.xs}",
       "type": "borderWidth"
@@ -67,20 +89,6 @@
         "value": "{general.global.XS-1-default}",
         "type": "typography"
       }
-    }
-  },
-  "filtertag": {
-    "height": {
-      "value": "{dimension.500}",
-      "type": "sizing"
-    },
-    "width": {
-      "value": "{dimension.500}",
-      "type": "sizing"
-    },
-    "padding-horizontal": {
-      "value": "{dimension.150}",
-      "type": "spacing"
     }
   }
 }

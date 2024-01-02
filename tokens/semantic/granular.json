@@ -270,7 +270,7 @@
                 "type": "color"
               },
               "fg": {
-                "value": "{semantic.color.fg.secondary.muted}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
             },
@@ -280,7 +280,7 @@
                 "type": "color"
               },
               "fg": {
-                "value": "{semantic.color.fg.secondary.muted}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
             },
@@ -290,7 +290,7 @@
                 "type": "color"
               },
               "fg": {
-                "value": "{semantic.color.fg.inverse.default}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
             },
@@ -310,25 +310,25 @@
           "primary": {
             "rested": {
               "fg": {
-                "value": "{semantic.color.fg.primary.default}",
+                "value": "{semantic.color.surface.neutral.default.fg-primary}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{semantic.color.fg.primary.subtle}",
+                "value": "{semantic.color.surface.neutral.subtle.fg-primary}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{semantic.color.fg.primary.subtle}",
+                "value": "{semantic.color.surface.neutral.subtle.fg-primary}",
                 "type": "color"
               }
             },
             "disabled": {
               "fg": {
-                "value": "{semantic.color.fg.primary.muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-primary}",
                 "type": "color"
               }
             }
@@ -336,25 +336,25 @@
           "secondary": {
             "rested": {
               "fg": {
-                "value": "{semantic.color.fg.secondary.default}",
+                "value": "{semantic.color.surface.neutral.default.fg-secondary}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{semantic.color.fg.secondary.subtle}",
+                "value": "{semantic.color.surface.neutral.subtle.fg-secondary}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{semantic.color.fg.secondary.default}",
+                "value": "{semantic.color.surface.neutral.default.fg-secondary}",
                 "type": "color"
               }
             },
             "disabled": {
               "fg": {
-                "value": "{semantic.color.fg.secondary.muted}",
+                "value": "{semantic.color.surface.neutral.muted.fg-secondary}",
                 "type": "color"
               }
             }
@@ -362,19 +362,19 @@
           "inverse": {
             "rested": {
               "fg": {
-                "value": "{semantic.color.fg.inverse.default}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "fg": {
-                "value": "{semantic.color.fg.inverse.subtle}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
                 "type": "color"
               }
             },
             "active": {
               "fg": {
-                "value": "{semantic.color.fg.inverse.subtle}",
+                "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
                 "type": "color"
               }
             },
@@ -532,7 +532,7 @@
       "typography": {
         "default": {
           "text": {
-            "value": "{semantic.color.fg.subtle}",
+            "value": "{semantic.color.surface.neutral.default.fg-subtle}",
             "type": "color"
           }
         },
@@ -544,7 +544,7 @@
         },
         "inverse": {
           "text": {
-            "value": "{semantic.color.fg.inverse.default}",
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
             "type": "color"
           }
         }
@@ -553,13 +553,13 @@
         "default": {
           "rested": {
             "text": {
-              "value": "{semantic.color.fg.subtle}",
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             }
           },
           "hover": {
             "text": {
-              "value": "{semantic.color.fg.subtle}",
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             }
           },
@@ -574,59 +574,79 @@
             }
           },
           "title": {
-            "value": "{semantic.color.fg.muted}",
+            "value": "{semantic.color.surface.neutral.default.fg-muted}",
             "type": "color"
           }
         },
         "inverse": {
           "rested": {
             "text": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
           },
           "hover": {
             "text": {
-              "value": "{semantic.color.fg.inverse.subtle}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
             }
           },
           "active": {
             "text": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
           },
           "title": {
-            "value": "{semantic.color.fg.inverse.muted}",
+            "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
             "type": "color"
           }
         }
       },
       "pagination": {
         "default": {
-          "rested": {
-            "scrubber": {
-              "value": "{semantic.color.fg.super-subtle}",
-              "type": "color"
-            },
-            "slider": {
-              "value": "{semantic.color.fg.super-subtle}",
-              "type": "color"
-            }
-          },
           "active": {
             "scrubber": {
-              "value": "{semantic.color.surface.secondary.default.bg}",
-              "type": "color"
+              "line": {
+                "value": "{semantic.color.surface.secondary.default.bg}",
+                "type": "color"
+              }
             },
             "slider": {
-              "value": "{semantic.color.surface.secondary.default.bg}",
-              "type": "color"
+              "line": {
+                "value": "{semantic.color.surface.secondary.default.bg}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.neutral.supermuted.bg}",
+                "type": "color"
+              },
+              "icon": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "rested": {
+            "scrubber": {
+              "line": {
+                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "type": "color"
+              }
+            },
+            "slider": {
+              "line": {
+                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "type": "color"
+              },
+              "icon": {
+                "value": "{semantic.color.surface.neutral.default.fg-muted}",
+                "type": "color"
+              }
             }
           },
           "text": {
@@ -635,20 +655,48 @@
           }
         },
         "inverse": {
-          "rested": {
-            "scrubber": {
-              "value": "{semantic.color.surface.onInverse.muted.bg}",
-              "type": "color"
-            }
-          },
           "active": {
             "scrubber": {
-              "value": "{semantic.color.surface.onInverse.default.bg}",
-              "type": "color"
+              "line": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
+                "type": "color"
+              }
+            },
+            "slider": {
+              "line": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.onInverse.supermuted.bg}",
+                "type": "color"
+              },
+              "icon": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "rested": {
+            "scrubber": {
+              "line": {
+                "value": "{semantic.color.surface.onInverse.muted.bg}",
+                "type": "color"
+              }
+            },
+            "slider": {
+              "line": {
+                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "type": "color"
+              },
+              "icon": {
+                "value": "{semantic.color.surface.neutral.default.fg-muted}",
+                "type": "color"
+              }
             }
           },
           "text": {
-            "value": "{semantic.color.fg.inverse.default}",
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
             "type": "color"
           }
         }
@@ -691,7 +739,7 @@
                   "type": "color"
                 },
                 "base": {
-                  "value": "{semantic.color.fg.super-subtle}",
+                  "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
                   "type": "color"
                 }
               }
@@ -1703,11 +1751,15 @@
           }
         }
       },
-      "filter-tag": {
+      "filtertag": {
         "default": {
           "rested": {
             "text": {
               "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            },
+            "border": {
+              "value": "{semantic.color.surface.neutral.default.border}",
               "type": "color"
             }
           },
@@ -2566,6 +2618,20 @@
           "value": "{border-width.xl}",
           "type": "borderWidth"
         }
+      }
+    },
+    "filtertag": {
+      "padding-left": {
+        "value": "{dimension.150}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{dimension.150}",
+        "type": "spacing"
+      },
+      "gap": {
+        "value": "{dimension.100}",
+        "type": "spacing"
       }
     }
   }
