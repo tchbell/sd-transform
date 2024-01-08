@@ -12,7 +12,7 @@
       "semantic/surface": "enabled",
       "semantic/typography": "enabled",
       "semantic/granular": "enabled",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "Core"
   },
@@ -22,7 +22,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "view-overrides/VPM": "source",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "VP"
   },
@@ -32,7 +32,7 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "view-overrides/VPL": "source",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "VP"
   },
@@ -42,7 +42,6 @@
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
       "components/title": "source",
-      "components/text": "source",
       "components/list": "source",
       "components/link": "source",
       "components/pagination": "source",
@@ -62,7 +61,7 @@
       "components/sidebar navigation": "source",
       "components/multiselect": "source",
       "components/swatch": "source",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "Components"
   },
@@ -80,7 +79,6 @@
       "semantic/typography": "enabled",
       "semantic/granular": "enabled",
       "components/title": "source",
-      "components/text": "source",
       "components/list": "source",
       "components/link": "source",
       "components/pagination": "source",
@@ -100,7 +98,7 @@
       "components/sidebar navigation": "source",
       "components/multiselect": "source",
       "components/swatch": "source",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "Brand"
   },
@@ -119,7 +117,6 @@
       "semantic/granular": "enabled",
       "theme/LP": "enabled",
       "components/title": "enabled",
-      "components/text": "enabled",
       "components/list": "enabled",
       "components/link": "enabled",
       "components/pagination": "enabled",
@@ -139,7 +136,7 @@
       "components/sidebar navigation": "enabled",
       "components/multiselect": "enabled",
       "components/swatch": "enabled",
-      "components/overline": "disabled"
+      "components/image": "disabled"
     },
     "group": "Brand"
   }

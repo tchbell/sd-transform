@@ -1,0 +1,26 @@
+{
+  "image": {
+    "gap": {
+      "value": "{semantic.spacing.image.gap}",
+      "type": "spacing"
+    },
+    "text": {
+      "typography": {
+        "value": "{semantic.typography.image.text}",
+        "type": "typography"
+      }
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.default.text}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "text-color": {
+        "value": "{semantic.color.typography.inverse.text}",
+        "type": "color"
+      }
+    }
+  }
+}

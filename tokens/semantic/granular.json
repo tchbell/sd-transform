@@ -2015,36 +2015,6 @@
           "type": "typography"
         }
       },
-      "text": {
-        "default-emphasis": {
-          "md": {
-            "value": "{semantic.typography.text.md.default}",
-            "type": "typography"
-          },
-          "sm": {
-            "value": "{semantic.typography.text.sm.default}",
-            "type": "typography"
-          },
-          "xs": {
-            "value": "{semantic.typography.text.xs.default}",
-            "type": "typography"
-          }
-        },
-        "heavy-emphasis": {
-          "md": {
-            "value": "{semantic.typography.text.md.emphasis}",
-            "type": "typography"
-          },
-          "sm": {
-            "value": "{semantic.typography.text.sm.emphasis}",
-            "type": "typography"
-          },
-          "xs": {
-            "value": "{semantic.typography.text.xs.emphasis}",
-            "type": "typography"
-          }
-        }
-      },
       "pagination": {
         "text": {
           "value": "{semantic.typography.text.xs.default}",
@@ -2078,6 +2048,12 @@
         },
         "md": {
           "value": "{semantic.typography.text.md.emphasis}",
+          "type": "typography"
+        }
+      },
+      "image": {
+        "text": {
+          "value": "{semantic.typography.text.sm.default}",
           "type": "typography"
         }
       }
@@ -2455,6 +2431,12 @@
             "value": "{dimension.150}",
             "type": "spacing"
           }
+        }
+      },
+      "image": {
+        "gap": {
+          "value": "{dimension.100}",
+          "type": "spacing"
         }
       }
     },
