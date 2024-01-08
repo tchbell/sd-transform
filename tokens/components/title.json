@@ -48,16 +48,32 @@
         }
       }
     },
-    "default": {
-      "text-color": {
-        "value": "{semantic.color.typography.contrast.text}",
-        "type": "color"
+    "main": {
+      "default": {
+        "text-color": {
+          "value": "{semantic.color.typography.accent.text}",
+          "type": "color"
+        }
+      },
+      "inverted": {
+        "text-color": {
+          "value": "{semantic.color.typography.inverse.text}",
+          "type": "color"
+        }
       }
     },
-    "inverted": {
-      "text-color": {
-        "value": "{semantic.color.typography.inverse.text}",
-        "type": "color"
+    "sm": {
+      "default": {
+        "text-color": {
+          "value": "{semantic.color.typography.contrast.text}",
+          "type": "color"
+        }
+      },
+      "inverted": {
+        "text-color": {
+          "value": "{semantic.color.typography.inverse.text}",
+          "type": "color"
+        }
       }
     }
   }

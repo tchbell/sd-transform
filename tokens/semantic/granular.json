@@ -547,6 +547,12 @@
             "value": "{semantic.color.surface.neutral.inverse.fg-default}",
             "type": "color"
           }
+        },
+        "accent": {
+          "text": {
+            "value": "{semantic.color.surface.neutral.default.fg-primary}",
+            "type": "color"
+          }
         }
       },
       "list": {
