@@ -1652,14 +1652,14 @@
             "type": "color"
           },
           "chevron": {
-            "value": "{semantic.color.fg.default}",
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
             "type": "color"
           }
         },
         "inverse": {
           "rested": {
             "fg": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             },
             "line": {
@@ -1669,7 +1669,7 @@
           },
           "hover": {
             "fg": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             },
             "line": {
@@ -1679,11 +1679,11 @@
           },
           "expanded": {
             "fg": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.fg.inverse.default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
           },
@@ -1696,7 +1696,7 @@
             "type": "color"
           },
           "chevron": {
-            "value": "{semantic.color.fg.inverse.default}",
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
             "type": "color"
           }
         }
