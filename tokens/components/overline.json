@@ -1,0 +1,32 @@
+{
+  "overline": {
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.typography.overline.default.text}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "text-color": {
+        "value": "{semantic.color.typography.overline.inverse.text}",
+        "type": "color"
+      }
+    },
+    "sm": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title-eyebrow.md}",
+          "type": "typography"
+        }
+      }
+    },
+    "xs": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title-eyebrow.sm}",
+          "type": "typography"
+        }
+      }
+    }
+  }
+}

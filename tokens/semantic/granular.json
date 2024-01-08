@@ -553,6 +553,20 @@
             "value": "{semantic.color.surface.neutral.default.fg-primary}",
             "type": "color"
           }
+        },
+        "overline": {
+          "default": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "inverse": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          }
         }
       },
       "list": {

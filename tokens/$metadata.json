@@ -14,6 +14,7 @@
     "view-overrides/VPM",
     "view-overrides/VPL",
     "components/title",
+    "components/overline",
     "components/text",
     "components/list",
     "components/link",
