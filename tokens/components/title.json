@@ -3,7 +3,7 @@
     "xxl": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.xxl.default}",
+          "value": "{semantic.typography.title.xxl}",
           "type": "typography"
         }
       }
@@ -11,47 +11,37 @@
     "xl": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.xl.default}",
+          "value": "{semantic.typography.title.xl}",
           "type": "typography"
         }
       }
     },
-    "l": {
+    "lg": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.lg.default}",
+          "value": "{semantic.typography.title.lg}",
           "type": "typography"
         }
       }
     },
-    "m": {
+    "md": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title.md.default}",
+          "value": "{semantic.typography.title.md}",
           "type": "typography"
         }
       }
     },
-    "subline": {
+    "sm": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title-eyebrow.md}",
+          "value": "{semantic.typography.title.sm}",
           "type": "typography"
         }
-      }
-    },
-    "subline-small": {
-      "text": {
-        "typography": {
-          "value": "{semantic.typography.title-eyebrow.sm}",
-          "type": "typography"
-        }
-      }
-    },
-    "main": {
+      },
       "default": {
         "text-color": {
-          "value": "{semantic.color.typography.accent.text}",
+          "value": "{semantic.color.typography.contrast.text}",
           "type": "color"
         }
       },
@@ -62,10 +52,18 @@
         }
       }
     },
-    "sm": {
+    "xs": {
+      "text": {
+        "typography": {
+          "value": "{semantic.typography.title.xs}",
+          "type": "typography"
+        }
+      }
+    },
+    "main": {
       "default": {
         "text-color": {
-          "value": "{semantic.color.typography.contrast.text}",
+          "value": "{semantic.color.typography.accent.text}",
           "type": "color"
         }
       },

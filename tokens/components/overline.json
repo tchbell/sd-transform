@@ -15,7 +15,7 @@
     "sm": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title-eyebrow.md}",
+          "value": "{semantic.typography.title.sm}",
           "type": "typography"
         }
       }
@@ -23,7 +23,7 @@
     "xs": {
       "text": {
         "typography": {
-          "value": "{semantic.typography.title-eyebrow.sm}",
+          "value": "{semantic.typography.title.xs}",
           "type": "typography"
         }
       }

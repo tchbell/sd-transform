@@ -56,14 +56,6 @@
         "type": "color"
       }
     },
-    "height": {
-      "value": "{dimension.500}",
-      "type": "sizing"
-    },
-    "width": {
-      "value": "{dimension.500}",
-      "type": "sizing"
-    },
     "padding-left": {
       "value": "{semantic.filtertag.padding-left}",
       "type": "spacing"

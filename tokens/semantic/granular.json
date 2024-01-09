@@ -2003,14 +2003,12 @@
         "md": {
           "value": "{semantic.typography.title.md.default}",
           "type": "typography"
-        }
-      },
-      "title-eyebrow": {
-        "md": {
+        },
+        "sm": {
           "value": "{semantic.typography.text.sm.emphasis}",
           "type": "typography"
         },
-        "sm": {
+        "xs": {
           "value": "{semantic.typography.text.xs.emphasis}",
           "type": "typography"
         }
