@@ -1,59 +1,77 @@
 {
   "filtertag": {
-    "rested": {
-      "text-color": {
-        "value": "{semantic.color.filtertag.default.rested.text}",
-        "type": "color"
+    "default": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.default.rested.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.default.rested.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.default.rested.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.default.rested.border}",
+          "type": "color"
+        }
       },
-      "border-color": {
-        "value": "#e1e1e1",
-        "type": "color"
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.default.hover.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.default.hover.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.default.hover.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.default.hover.icon}",
+          "type": "color"
+        }
       },
-      "background-color": {
-        "value": "#FCFCFC",
-        "type": "color"
-      }
-    },
-    "hover": {
-      "text-color": {
-        "value": "#454545",
-        "type": "color"
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.default.active.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.default.active.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.default.active.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.default.active.icon}",
+          "type": "color"
+        }
       },
-      "border-color": {
-        "value": "#e1e1e1",
-        "type": "color"
-      },
-      "background-color": {
-        "value": "#fcfcfc",
-        "type": "color"
-      }
-    },
-    "active": {
-      "text-color": {
-        "value": "#000000",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "#e1e1e1",
-        "type": "color"
-      },
-      "background-color": {
-        "value": "#fcfcfc",
-        "type": "color"
-      }
-    },
-    "disabled": {
-      "text-color": {
-        "value": "#B7B7B7",
-        "type": "color"
-      },
-      "border-color": {
-        "value": "#e2e2e2",
-        "type": "color"
-      },
-      "background-color": {
-        "value": "#eaeaea",
-        "type": "color"
+      "disabled": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.default.disabled.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.default.disabled.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.default.disabled.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.default.disabled.icon}",
+          "type": "color"
+        }
       }
     },
     "padding-left": {
@@ -67,6 +85,80 @@
     "gap": {
       "value": "{semantic.filtertag.gap}",
       "type": "spacing"
+    },
+    "inverse": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.inverse.rested.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.inverse.rested.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.inverse.rested.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.inverse.rested.border}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.inverse.hover.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.inverse.hover.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.inverse.hover.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.inverse.hover.icon}",
+          "type": "color"
+        }
+      },
+      "active": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.inverse.active.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.inverse.active.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.inverse.active.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.inverse.active.icon}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{semantic.color.filtertag.inverse.disabled.text}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.filtertag.inverse.disabled.bg}",
+          "type": "color"
+        },
+        "border-color": {
+          "value": "{semantic.color.filtertag.inverse.disabled.border}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.filtertag.inverse.disabled.icon}",
+          "type": "color"
+        }
+      }
     }
   },
   "filter-tag": {
@@ -78,7 +170,7 @@
   "filter tags": {
     "text": {
       "typography": {
-        "value": "{general.global.XS-1-default}",
+        "value": "{semantic.typography.filtertag.text}",
         "type": "typography"
       }
     }

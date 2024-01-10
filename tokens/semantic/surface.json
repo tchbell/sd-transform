@@ -5,11 +5,11 @@
         "neutral": {
           "default": {
             "bg": {
-              "value": "{semantic.theme.color.neutral.weaker}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "border": {
-              "value": "{semantic.theme.color.neutral.weaker}",
+              "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
             "fg-default": {
@@ -39,11 +39,11 @@
           },
           "subtle": {
             "bg": {
-              "value": "{semantic.theme.color.neutral.weakest}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "border": {
-              "value": "{semantic.theme.color.neutral.weakest}",
+              "value": "{semantic.theme.color.neutral.weaker}",
               "type": "color"
             },
             "fg-default": {
