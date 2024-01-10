@@ -642,7 +642,7 @@
                 "type": "color"
               },
               "bg": {
-                "value": "{semantic.color.surface.neutral.supermuted.bg}",
+                "value": "{semantic.color.surface.neutral.opacity.bg}",
                 "type": "color"
               },
               "icon": {
@@ -654,13 +654,13 @@
           "rested": {
             "scrubber": {
               "line": {
-                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "value": "{semantic.color.surface.neutral.default.fg-opacity}",
                 "type": "color"
               }
             },
             "slider": {
               "line": {
-                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "value": "{semantic.color.surface.neutral.default.fg-opacity}",
                 "type": "color"
               },
               "icon": {
@@ -706,7 +706,7 @@
             },
             "slider": {
               "line": {
-                "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                "value": "{semantic.color.surface.neutral.default.fg-opacity}",
                 "type": "color"
               },
               "icon": {
@@ -759,7 +759,7 @@
                   "type": "color"
                 },
                 "base": {
-                  "value": "{semantic.color.surface.neutral.default.fg-supermuted}",
+                  "value": "{semantic.color.surface.neutral.default.fg-opacity}",
                   "type": "color"
                 }
               }
@@ -1208,21 +1208,41 @@
         }
       },
       "video": {
-        "rested": {
-          "base-bar": {
-            "value": "{color.grey.100}",
-            "type": "color"
+        "default": {
+          "active": {
+            "progress-bar": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "pointer": {
+              "value": "{semantic.color.surface.neutral.default.fg-primary}",
+              "type": "color"
+            }
+          },
+          "rested": {
+            "progress-bar": {
+              "value": "{semantic.color.surface.neutral.default.fg-opacity}",
+              "type": "color"
+            }
           }
         },
-        "active": {
-          "progress-bar": {
-            "value": "{semantic.color.surface.neutral.default.fg-default}",
-            "type": "color"
+        "inverse": {
+          "active": {
+            "progress-bar": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "pointer": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-primary}",
+              "type": "color"
+            }
+          },
+          "rested": {
+            "progress-bar": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-opacity}",
+              "type": "color"
+            }
           }
-        },
-        "pointer": {
-          "value": "{color.orange.500}",
-          "type": "color"
         }
       },
       "quantity-selector": {
@@ -1837,7 +1857,7 @@
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.neutral.supermuted.bg}",
+              "value": "{semantic.color.surface.neutral.opacity.bg}",
               "type": "color"
             },
             "icon": {

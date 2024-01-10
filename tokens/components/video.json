@@ -1,34 +1,25 @@
 {
   "video": {
     "default": {
-      "progress-bar": {
-        "active": {
-          "value": "#000000",
-          "type": "color"
+      "active": {
+        "progress-bar": {
+          "color": {
+            "value": "{semantic.color.video.default.active.progress-bar}",
+            "type": "color"
+          }
         },
-        "rested": {
-          "value": "{semantic.color.video.default.rested.base-bar}",
-          "type": "color"
+        "pointer": {
+          "color": {
+            "value": "{semantic.color.video.default.active.pointer}",
+            "type": "color"
+          }
         }
       },
-      "pointer": {
-        "active": {
-          "value": "{semantic.color.video.default.pointer.default}",
-          "type": "color"
-        }
-      },
-      "base-bar": {
-        "rested": {
-          "value": "{semantic.color.video.default.rested.base-bar}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.4",
-                "space": "srgb"
-              }
-            }
+      "rested": {
+        "progress-bar": {
+          "color": {
+            "value": "{semantic.color.video.default.rested.progress-bar}",
+            "type": "color"
           }
         }
       }
@@ -40,34 +31,25 @@
       }
     },
     "inverse": {
-      "progress-bar": {
-        "active": {
-          "value": "#000000",
-          "type": "color"
+      "active": {
+        "progress-bar": {
+          "color": {
+            "value": "{semantic.color.video.inverse.active.progress-bar}",
+            "type": "color"
+          }
         },
-        "rested": {
-          "value": "{semantic.color.video.default.rested.base-bar}",
-          "type": "color"
+        "pointer": {
+          "color": {
+            "value": "{semantic.color.video.inverse.active.pointer}",
+            "type": "color"
+          }
         }
       },
-      "pointer": {
-        "active": {
-          "value": "{semantic.color.video.default.pointer.default}",
-          "type": "color"
-        }
-      },
-      "base-bar": {
-        "rested": {
-          "value": "{semantic.color.video.default.rested.base-bar}",
-          "type": "color",
-          "$extensions": {
-            "studio.tokens": {
-              "modify": {
-                "type": "alpha",
-                "value": "0.4",
-                "space": "srgb"
-              }
-            }
+      "rested": {
+        "progress-bar": {
+          "color": {
+            "value": "{semantic.color.video.inverse.rested.progress-bar}",
+            "type": "color"
           }
         }
       }

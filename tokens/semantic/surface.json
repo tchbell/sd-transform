@@ -24,7 +24,7 @@
               "value": "{semantic.theme.color.neutral.weak}",
               "type": "color"
             },
-            "fg-supermuted": {
+            "fg-opacity": {
               "value": "rgba( {semantic.theme.color.neutral.weak} , {opacity.40})",
               "type": "color"
             },
@@ -97,7 +97,7 @@
               "type": "color"
             }
           },
-          "supermuted": {
+          "opacity": {
             "bg": {
               "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.80})",
               "type": "color"
@@ -126,6 +126,10 @@
             },
             "fg-muted": {
               "value": "{semantic.theme.color.neutral.weak}",
+              "type": "color"
+            },
+            "fg-opacity": {
+              "value": "rgba( {semantic.theme.color.neutral.weakest} , {opacity.40})",
               "type": "color"
             },
             "fg-primary": {
