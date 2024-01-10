@@ -159,6 +159,14 @@
           "type": "color"
         }
       }
+    },
+    "circle-height": {
+      "value": "{semantic.sizing.filtertag.circle-height}",
+      "type": "sizing"
+    },
+    "circle-width": {
+      "value": "{semantic.sizing.filtertag.circle-width}",
+      "type": "sizing"
     }
   },
   "filter-tag": {

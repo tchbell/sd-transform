@@ -40,6 +40,16 @@
           "value": "{dimension.2550}",
           "type": "sizing"
         }
+      },
+      "filtertag": {
+        "circle-height": {
+          "value": "{dimension.500}",
+          "type": "sizing"
+        },
+        "circle-width": {
+          "value": "{dimension.500}",
+          "type": "sizing"
+        }
       }
     },
     "spacing": {

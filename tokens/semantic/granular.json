@@ -1853,11 +1853,11 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.color.surface.neutral.default.border}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.neutral.subtle.bg}",
+              "value": "{semantic.color.surface.neutral.inverse.bg}",
               "type": "color"
             },
             "icon": {
@@ -1867,19 +1867,19 @@
           },
           "hover": {
             "text": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             },
             "border": {
-              "value": "{semantic.color.surface.neutral.default.border}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.neutral.subtle.bg}",
+              "value": "{semantic.color.surface.neutral.inverse.bg}",
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
               "type": "color"
             }
           },
@@ -1889,15 +1889,15 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.color.surface.neutral.default.border}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.neutral.muted.bg}",
+              "value": "{semantic.color.surface.onInverse.supermuted.bg}",
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
           },
@@ -1907,15 +1907,15 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.color.surface.neutral.default.border}",
+              "value": "{semantic.color.surface.onInverse.supermuted.bg}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.neutral.supermuted.bg}",
+              "value": "{semantic.color.surface.onInverse.supermuted.border}",
               "type": "color"
             },
             "icon": {
-              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
               "type": "color"
             }
           }
@@ -2680,6 +2680,16 @@
       "accordion": {
         "width": {
           "value": "{dimension.1750}",
+          "type": "sizing"
+        }
+      },
+      "filtertag": {
+        "circle-height": {
+          "value": "{dimension.350}",
+          "type": "sizing"
+        },
+        "circle-width": {
+          "value": "{dimension.350}",
           "type": "sizing"
         }
       }
