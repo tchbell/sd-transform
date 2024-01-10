@@ -2022,6 +2022,20 @@
             }
           }
         }
+      },
+      "separator": {
+        "default": {
+          "line": {
+            "value": "{semantic.color.surface.neutral.default.fg-muted}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "line": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
@@ -2690,6 +2704,16 @@
         },
         "circle-width": {
           "value": "{dimension.350}",
+          "type": "sizing"
+        }
+      },
+      "separator": {
+        "height": {
+          "value": "{dimension.0_63}",
+          "type": "sizing"
+        },
+        "width": {
+          "value": "{dimension.0_63}",
           "type": "sizing"
         }
       }

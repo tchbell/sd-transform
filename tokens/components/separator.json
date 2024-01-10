@@ -1,16 +1,24 @@
 {
   "separator": {
     "default": {
-      "color": {
-        "value": "{color.grey.500}",
+      "line-color": {
+        "value": "{semantic.color.separator.default.line}",
         "type": "color"
       }
     },
     "inverse": {
-      "color": {
-        "value": "{color.neutrals.white}",
+      "line-color": {
+        "value": "{semantic.color.separator.inverse.line}",
         "type": "color"
       }
+    },
+    "height": {
+      "value": "{semantic.sizing.separator.height}",
+      "type": "sizing"
+    },
+    "width": {
+      "value": "{semantic.sizing.separator.width}",
+      "type": "sizing"
     }
   }
 }
