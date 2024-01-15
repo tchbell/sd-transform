@@ -22,12 +22,10 @@
             "type": "color"
           }
         }
-      }
-    },
-    "opacity": {
-      "40": {
-        "value": "{opacity.40}",
-        "type": "opacity"
+      },
+      "icon-color": {
+        "value": "{semantic.color.video.default.icon}",
+        "type": "color"
       }
     },
     "inverse": {
@@ -52,6 +50,26 @@
             "type": "color"
           }
         }
+      },
+      "icon-color": {
+        "value": "{semantic.color.video.inverse.icon}",
+        "type": "color"
+      }
+    },
+    "progress-bar": {
+      "height": {
+        "value": "{semantic.sizing.video.progress-bar.height}",
+        "type": "sizing"
+      }
+    },
+    "pointer": {
+      "height": {
+        "value": "{semantic.sizing.video.pointer.height}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.video.pointer.width}",
+        "type": "sizing"
       }
     }
   }

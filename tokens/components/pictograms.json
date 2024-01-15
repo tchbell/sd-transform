@@ -1,31 +1,45 @@
 {
   "pictogram": {
-    "text": {
-      "default": {
-        "no-info": {
-          "value": "{semantic.color.pictograms.text.default.no-info}",
+    "default": {
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.pictograms.default.rested.text}",
           "type": "color"
         },
-        "info-default": {
-          "value": "{semantic.color.pictograms.text.default.info-default}",
-          "type": "color"
-        },
-        "info-hover": {
-          "value": "{semantic.color.pictograms.text.default.info-hover}",
+        "icon-color": {
+          "value": "{semantic.color.pictograms.default.rested.icon}",
           "type": "color"
         }
       },
-      "inverse": {
-        "no-info": {
-          "value": "{semantic.color.pictograms.text.inverse.no-info}",
+      "hover": {
+        "text-color": {
+          "value": "{semantic.color.pictograms.default.hover.text}",
           "type": "color"
         },
-        "info-default": {
-          "value": "{semantic.color.pictograms.text.inverse.info-default}",
+        "icon-color": {
+          "value": "{semantic.color.pictograms.default.hover.icon}",
+          "type": "color"
+        }
+      }
+    },
+    "inverse": {
+      "rested": {
+        "icon-color": {
+          "value": "{semantic.color.pictograms.inverse.rested.icon}",
           "type": "color"
         },
-        "info-hover": {
-          "value": "{semantic.color.pictograms.text.inverse.info-hover}",
+        "text-color": {
+          "value": "{semantic.color.pictograms.inverse.rested.text}",
+          "type": "color"
+        }
+      },
+      "hover": {
+        "icon-color": {
+          "value": "{semantic.color.pictograms.inverse.hover.icon}",
+          "type": "color"
+        },
+        "text-color": {
+          "value": "{semantic.color.pictograms.inverse.hover.text}",
           "type": "color"
         }
       }

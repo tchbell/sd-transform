@@ -1224,6 +1224,10 @@
               "value": "{semantic.color.surface.neutral.default.fg-opacity}",
               "type": "color"
             }
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
           }
         },
         "inverse": {
@@ -1242,6 +1246,10 @@
               "value": "{semantic.color.surface.neutral.inverse.fg-opacity}",
               "type": "color"
             }
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+            "type": "color"
           }
         }
       },
@@ -1600,32 +1608,46 @@
         }
       },
       "pictograms": {
-        "text": {
-          "default": {
-            "no-info": {
-              "value": "{color.neutrals.black}",
+        "default": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             },
-            "info-default": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            },
-            "info-hover": {
-              "value": "{color.grey.800}",
+            "icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
             }
           },
-          "inverse": {
-            "no-info": {
-              "value": "{color.neutrals.white}",
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
             },
-            "info-default": {
-              "value": "{color.neutrals.white}",
+            "icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          }
+        },
+        "inverse": {
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
             },
-            "info-hover": {
-              "value": "{color.grey.100}",
+            "icon": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "hover": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
           }
@@ -2735,6 +2757,24 @@
         "width": {
           "value": "{dimension.0_63}",
           "type": "sizing"
+        }
+      },
+      "video": {
+        "progress-bar": {
+          "height": {
+            "value": "{dimension.12_5}",
+            "type": "sizing"
+          }
+        },
+        "pointer": {
+          "height": {
+            "value": "{dimension.50}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{dimension.50}",
+            "type": "sizing"
+          }
         }
       }
     },
