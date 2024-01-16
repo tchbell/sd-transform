@@ -9,6 +9,12 @@
         "icon-color": {
           "value": "{semantic.color.pictograms.default.rested.icon}",
           "type": "color"
+        },
+        "difficulty-icon": {
+          "color": {
+            "value": "{semantic.color.pictograms.default.rested.top-icon}",
+            "type": "color"
+          }
         }
       },
       "hover": {
@@ -20,17 +26,31 @@
           "value": "{semantic.color.pictograms.default.hover.icon}",
           "type": "color"
         }
+      },
+      "active": {
+        "top-icon": {
+          "color": {
+            "value": "{semantic.color.pictograms.default.active.difficulty-icon}",
+            "type": "color"
+          }
+        }
       }
     },
     "inverse": {
       "rested": {
+        "text-color": {
+          "value": "{semantic.color.pictograms.inverse.rested.text}",
+          "type": "color"
+        },
         "icon-color": {
           "value": "{semantic.color.pictograms.inverse.rested.icon}",
           "type": "color"
         },
-        "text-color": {
-          "value": "{semantic.color.pictograms.inverse.rested.text}",
-          "type": "color"
+        "top-icon": {
+          "color": {
+            "value": "{semantic.color.pictograms.inverse.rested.top-icon}",
+            "type": "color"
+          }
         }
       },
       "hover": {
@@ -41,6 +61,14 @@
         "text-color": {
           "value": "{semantic.color.pictograms.inverse.hover.text}",
           "type": "color"
+        }
+      },
+      "active": {
+        "difficulty-icon": {
+          "color": {
+            "value": "{semantic.color.pictograms.inverse.active.difficulty-icon}",
+            "type": "color"
+          }
         }
       }
     },
@@ -60,19 +88,27 @@
         }
       }
     },
-    "sizing": {
+    "icon": {
       "height": {
-        "value": "{semantic.sizing.pictogram.height}",
+        "value": "{semantic.sizing.pictogram.icon.height}",
         "type": "sizing"
       },
       "width": {
-        "value": "{semantic.sizing.pictogram.width}",
+        "value": "{semantic.sizing.pictogram.icon.width}",
         "type": "sizing"
       }
     },
-    "gap": {
-      "value": "{semantic.spacing.pictogram.gap}",
+    "vertical-gap": {
+      "value": "{semantic.spacing.pictogram.vertical-gap}",
       "type": "spacing"
+    },
+    "horizontal-gap": {
+      "value": "{semantic.spacing.pictogram.horizontal-gap}",
+      "type": "spacing"
+    },
+    "width": {
+      "value": "{semantic.sizing.pictogram.width}",
+      "type": "sizing"
     }
   }
 }

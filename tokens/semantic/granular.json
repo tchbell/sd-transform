@@ -1617,6 +1617,10 @@
             "icon": {
               "value": "{semantic.color.surface.neutral.default.fg-subtle}",
               "type": "color"
+            },
+            "top-icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "type": "color"
             }
           },
           "hover": {
@@ -1625,6 +1629,12 @@
               "type": "color"
             },
             "icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "difficulty-icon": {
               "value": "{semantic.color.surface.neutral.default.fg-default}",
               "type": "color"
             }
@@ -1639,6 +1649,10 @@
             "icon": {
               "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
               "type": "color"
+            },
+            "top-icon": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
             }
           },
           "hover": {
@@ -1647,6 +1661,12 @@
               "type": "color"
             },
             "icon": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
+          },
+          "active": {
+            "difficulty-icon": {
               "value": "{semantic.color.surface.neutral.inverse.fg-default}",
               "type": "color"
             }
@@ -2478,8 +2498,12 @@
         }
       },
       "pictogram": {
-        "gap": {
+        "vertical-gap": {
           "value": "{dimension.50}",
+          "type": "spacing"
+        },
+        "horizontal-gap": {
+          "value": "{dimension.25}",
           "type": "spacing"
         }
       },
@@ -2674,12 +2698,18 @@
         }
       },
       "pictogram": {
-        "height": {
-          "value": "{dimension.150}",
-          "type": "sizing"
+        "icon": {
+          "height": {
+            "value": "{dimension.150}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{dimension.150}",
+            "type": "sizing"
+          }
         },
         "width": {
-          "value": "{dimension.150}",
+          "value": "{dimension.500}",
           "type": "sizing"
         }
       },

@@ -236,6 +236,14 @@
             "type": "color"
           }
         }
+      },
+      "active": {
+        "dropdown-scrollbar": {
+          "color": {
+            "value": "#",
+            "type": "color"
+          }
+        }
       }
     },
     "text": {
