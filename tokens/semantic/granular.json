@@ -997,11 +997,11 @@
               },
               "scrollbar": {
                 "progress": {
-                  "value": "{semantic.color.fg.inverse.default}",
+                  "value": "{semantic.color.surface.neutral.inverse.fg-default}",
                   "type": "color"
                 },
                 "base": {
-                  "value": "{semantic.color.fg.inverse.super-subtle}",
+                  "value": "{semantic.color.surface.neutral.inverse.fg-opacity}",
                   "type": "color"
                 }
               }
@@ -2228,6 +2228,12 @@
           "value": "{semantic.typography.text.sm.default}",
           "type": "typography"
         }
+      },
+      "progress": {
+        "text": {
+          "value": "{semantic.typography.text.md.default}",
+          "type": "typography"
+        }
       }
     },
     "spacing": {
@@ -2599,7 +2605,7 @@
           "type": "spacing"
         },
         "vertical-gap": {
-          "value": "{dimension.125}",
+          "value": "{dimension.50}",
           "type": "spacing"
         },
         "group": {

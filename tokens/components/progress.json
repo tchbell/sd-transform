@@ -11,12 +11,12 @@
             "value": "{semantic.color.progress.default.rested.progress-number.bg}",
             "type": "color"
           },
-          "fg-color": {
-            "value": "{semantic.color.progress.default.rested.progress-number.fg}",
-            "type": "color"
-          },
           "border-color": {
             "value": "{semantic.color.progress.default.rested.progress-number.border}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.default.rested.progress-number.fg}",
             "type": "color"
           }
         },
@@ -39,12 +39,12 @@
             "value": "{semantic.color.progress.default.active.progress-number.bg}",
             "type": "color"
           },
-          "fg-color": {
-            "value": "{semantic.color.progress.default.active.progress-number.fg}",
-            "type": "color"
-          },
           "border-color": {
             "value": "{semantic.color.progress.default.active.progress-number.border}",
+            "type": "color"
+          },
+          "fg-color": {
+            "value": "{semantic.color.progress.default.active.progress-number.fg}",
             "type": "color"
           }
         },
@@ -58,19 +58,7 @@
     },
     "text": {
       "typography": {
-        "value": "{general.global.S-1-default}",
-        "type": "typography"
-      }
-    },
-    "number": {
-      "typography": {
-        "value": "{general.global.XS-3-default}",
-        "type": "typography"
-      }
-    },
-    "title": {
-      "typography": {
-        "value": "{title.VPM.headline-M}",
+        "value": "{semantic.typography.progress.text}",
         "type": "typography"
       }
     },

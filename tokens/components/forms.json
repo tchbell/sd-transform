@@ -40,6 +40,16 @@
           "bg-color": {
             "value": "{semantic.color.inputs.default.rested.dropdown.bg}",
             "type": "color"
+          },
+          "scrollbar": {
+            "progress-color": {
+              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.progress}",
+              "type": "color"
+            },
+            "base-color": {
+              "value": "{semantic.color.inputs.default.rested.dropdown.scrollbar.base}",
+              "type": "color"
+            }
           }
         },
         "checkbox": {
@@ -236,14 +246,6 @@
             "type": "color"
           }
         }
-      },
-      "active": {
-        "dropdown-scrollbar": {
-          "color": {
-            "value": "#",
-            "type": "color"
-          }
-        }
       }
     },
     "text": {
@@ -314,6 +316,16 @@
           "bg-color": {
             "value": "{semantic.color.inputs.inverse.rested.dropdown.bg}",
             "type": "color"
+          },
+          "scrollbar": {
+            "progress-color": {
+              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.progress}",
+              "type": "color"
+            },
+            "base-color": {
+              "value": "{semantic.color.inputs.inverse.rested.dropdown.scrollbar.base}",
+              "type": "color"
+            }
           }
         },
         "checkbox": {

@@ -86,7 +86,7 @@
         "type": "color"
       },
       "icon-color": {
-        "value": "{semantic.color.accordion.default.icon}",
+        "value": "{semantic.color.accordion.inverse.icon}",
         "type": "color"
       },
       "chevron-color": {
