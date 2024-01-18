@@ -688,7 +688,7 @@
                 "type": "color"
               },
               "bg": {
-                "value": "{semantic.color.surface.onInverse.supermuted.bg}",
+                "value": "{semantic.color.surface.onInverse.opacity.bg}",
                 "type": "color"
               },
               "icon": {
@@ -1955,7 +1955,7 @@
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.onInverse.supermuted.bg}",
+              "value": "{semantic.color.surface.onInverse.opacity.bg}",
               "type": "color"
             },
             "icon": {
@@ -1969,11 +1969,11 @@
               "type": "color"
             },
             "border": {
-              "value": "{semantic.color.surface.onInverse.supermuted.bg}",
+              "value": "{semantic.color.surface.onInverse.opacity.bg}",
               "type": "color"
             },
             "bg": {
-              "value": "{semantic.color.surface.onInverse.supermuted.border}",
+              "value": "{semantic.color.surface.onInverse.opacity.border}",
               "type": "color"
             },
             "icon": {
@@ -2095,6 +2095,28 @@
         "inverse": {
           "line": {
             "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+            "type": "color"
+          }
+        }
+      },
+      "metadata": {
+        "default": {
+          "text": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "text": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
             "type": "color"
           }
         }
@@ -2232,6 +2254,12 @@
       "progress": {
         "text": {
           "value": "{semantic.typography.text.md.default}",
+          "type": "typography"
+        }
+      },
+      "metadata": {
+        "text": {
+          "value": "{semantic.typography.text.xs.emphasis}",
           "type": "typography"
         }
       }

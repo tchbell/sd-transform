@@ -1,0 +1,28 @@
+{
+  "metadata": {
+    "text-typography": {
+      "value": "{semantic.typography.metadata.text}",
+      "type": "typography"
+    },
+    "default": {
+      "text-color": {
+        "value": "{semantic.color.metadata.default.text}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.metadata.default.icon}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "text-color": {
+        "value": "{semantic.color.metadata.inverse.text}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.metadata.inverse.icon}",
+        "type": "color"
+      }
+    }
+  }
+}

@@ -29,12 +29,14 @@
     "components/video",
     "components/pictograms",
     "components/progress",
+    "components/metadata",
+    "components/category",
+    "components/quantity selector",
+    "components/swatch",
     "components/message",
     "components/tags",
-    "components/quantity selector",
-    "components/sidebar navigation",
     "components/multiselect",
-    "components/swatch",
+    "components/sidebar navigation",
     "Brands/BrandA/core",
     "Brands/BrandA/theme"
   ]

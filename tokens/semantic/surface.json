@@ -233,7 +233,7 @@
               "type": "color"
             }
           },
-          "supermuted": {
+          "opacity": {
             "bg": {
               "value": "rgba( {semantic.theme.color.neutral.strongest} , {opacity.80})",
               "type": "color"
