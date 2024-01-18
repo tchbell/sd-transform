@@ -2120,6 +2120,44 @@
             "type": "color"
           }
         }
+      },
+      "category": {
+        "default": {
+          "accent": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-accent}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.color.surface.neutral.default.fg-accent}",
+              "type": "color"
+            }
+          },
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          }
+        },
+        "inverse": {
+          "accent": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-accent}",
+              "type": "color"
+            },
+            "icon": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-accent}",
+              "type": "color"
+            }
+          },
+          "rested": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "typography": {

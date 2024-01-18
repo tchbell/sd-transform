@@ -144,6 +144,11 @@
             "fg-secondary": {
               "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
+            },
+            "fg-accent": {
+              "value": "{semantic.theme.color.primary.default}",
+              "type": "color",
+              "description": "This token will be used for the brands that need an additional color in some details of the foundations"
             }
           }
         },

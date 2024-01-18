@@ -1,1 +1,40 @@
-{}
+{
+  "category": {
+    "default": {
+      "accent": {
+        "text-color": {
+          "value": "{semantic.color.category.default.accent.text}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.category.default.accent.icon}",
+          "type": "color"
+        }
+      },
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.category.default.rested.text}",
+          "type": "color"
+        }
+      }
+    },
+    "inverse": {
+      "accent": {
+        "text-color": {
+          "value": "{semantic.color.category.inverse.accent.text}",
+          "type": "color"
+        },
+        "icon-color": {
+          "value": "{semantic.color.category.inverse.accent.icon}",
+          "type": "color"
+        }
+      },
+      "rested": {
+        "text-color": {
+          "value": "{semantic.color.category.inverse.rested.text}",
+          "type": "color"
+        }
+      }
+    }
+  }
+}
