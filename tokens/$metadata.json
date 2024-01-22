@@ -32,6 +32,7 @@
     "components/metadata",
     "components/category",
     "components/rating-wrapper",
+    "components/calendar",
     "components/quantity selector",
     "components/swatch",
     "components/message",

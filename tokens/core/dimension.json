@@ -101,6 +101,11 @@
       "type": "dimension",
       "description": "24 px"
     },
+    "175": {
+      "value": "1.75rem",
+      "type": "dimension",
+      "description": "28 px"
+    },
     "200": {
       "value": "2rem",
       "type": "dimension",

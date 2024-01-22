@@ -2172,6 +2172,110 @@
             }
           }
         }
+      },
+      "rating-wrapper": {
+        "default": {
+          "filled": {
+            "icon-color": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "outline": {
+            "icon-color": {
+              "value": "{semantic.color.surface.neutral.default.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "number-color": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "filled": {
+            "icon-color": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
+          },
+          "outline": {
+            "icon-color": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-subtle}",
+              "type": "color"
+            }
+          },
+          "number-color": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+            "type": "color"
+          }
+        }
+      },
+      "calendar": {
+        "default": {
+          "past": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.subtle.fg-muted}",
+              "type": "color"
+            }
+          },
+          "future": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            }
+          },
+          "present": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.default.fg-default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.fg-accent}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
+          }
+        },
+        "inverse": {
+          "past": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "type": "color"
+            }
+          },
+          "future": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            }
+          },
+          "present": {
+            "number": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.inverse.fg-accent}",
+              "type": "color"
+            }
+          },
+          "text": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+            "type": "color"
+          }
+        }
       }
     },
     "typography": {
@@ -2323,6 +2427,32 @@
         "members": {
           "text": {
             "value": "{semantic.typography.text.xs.emphasis}",
+            "type": "typography"
+          }
+        }
+      },
+      "rating-wrapper": {
+        "number": {
+          "value": "{semantic.typography.text.lg.default}",
+          "type": "typography"
+        }
+      },
+      "calendar": {
+        "day": {
+          "number": {
+            "value": "{semantic.typography.text.lg.default}",
+            "type": "typography"
+          }
+        },
+        "year": {
+          "text": {
+            "value": "{semantic.typography.text.md.emphasis}",
+            "type": "typography"
+          }
+        },
+        "month": {
+          "text": {
+            "value": "{semantic.typography.text.sm.emphasis}",
             "type": "typography"
           }
         }
@@ -2750,6 +2880,46 @@
             "type": "spacing"
           }
         }
+      },
+      "rating-wrapper": {
+        "group": {
+          "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        },
+        "icons": {
+          "gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          }
+        }
+      },
+      "calendar": {
+        "padding-top": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "padding-bottom": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "dates": {
+          "gap": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          }
+        },
+        "days": {
+          "gap": {
+            "value": "{dimension.12_5}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "border-radius": {
@@ -2939,6 +3109,18 @@
           },
           "width": {
             "value": "{dimension.50}",
+            "type": "sizing"
+          }
+        }
+      },
+      "calendar": {
+        "line": {
+          "height": {
+            "value": "{dimension.12_5}",
+            "type": "sizing"
+          },
+          "width": {
+            "value": "{dimension.175}",
             "type": "sizing"
           }
         }

@@ -1,0 +1,120 @@
+{
+  "calendar": {
+    "default": {
+      "past": {
+        "number-color": {
+          "value": "{semantic.color.calendar.default.past.number}",
+          "type": "color"
+        }
+      },
+      "future": {
+        "number-color": {
+          "value": "{semantic.color.calendar.default.future.number}",
+          "type": "color"
+        }
+      },
+      "present": {
+        "number-color": {
+          "value": "{semantic.color.calendar.default.present.number}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.calendar.default.present.line}",
+          "type": "color"
+        }
+      },
+      "text-color": {
+        "value": "{semantic.color.calendar.default.text}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.calendar.default.icon}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "past": {
+        "number-color": {
+          "value": "{semantic.color.calendar.inverse.past.number}",
+          "type": "color"
+        }
+      },
+      "future": {
+        "number-color": {
+          "value": "{semantic.color.calendar.inverse.future.number}",
+          "type": "color"
+        }
+      },
+      "present": {
+        "number-color": {
+          "value": "{semantic.color.calendar.inverse.present.number}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.calendar.inverse.present.line}",
+          "type": "color"
+        }
+      },
+      "text-color": {
+        "value": "{semantic.color.calendar.inverse.text}",
+        "type": "color"
+      },
+      "icon-color": {
+        "value": "{semantic.color.calendar.inverse.icon}",
+        "type": "color"
+      }
+    },
+    "line": {
+      "height": {
+        "value": "2",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.calendar.line.width}",
+        "type": "sizing"
+      }
+    },
+    "day": {
+      "number-typography": {
+        "value": "{semantic.typography.calendar.day.number}",
+        "type": "typography"
+      }
+    },
+    "year": {
+      "text-typography": {
+        "value": "{semantic.typography.calendar.year.text}",
+        "type": "typography"
+      }
+    },
+    "month": {
+      "text-typography": {
+        "value": "{semantic.typography.calendar.month.text}",
+        "type": "typography"
+      }
+    },
+    "padding-top": {
+      "value": "{semantic.spacing.calendar.padding-top}",
+      "type": "spacing"
+    },
+    "padding-bottom": {
+      "value": "{semantic.spacing.calendar.padding-bottom}",
+      "type": "spacing"
+    },
+    "gap": {
+      "value": "{semantic.spacing.calendar.gap}",
+      "type": "spacing"
+    },
+    "dates": {
+      "gap": {
+        "value": "{semantic.spacing.calendar.dates.gap}",
+        "type": "spacing"
+      }
+    },
+    "days": {
+      "gap": {
+        "value": "{semantic.spacing.calendar.days.gap}",
+        "type": "spacing"
+      }
+    }
+  }
+}

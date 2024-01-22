@@ -1,1 +1,56 @@
-{}
+{
+  "rating-wrapper": {
+    "default": {
+      "filled": {
+        "icon-color": {
+          "value": "{semantic.color.rating-wrapper.default.filled.icon-color}",
+          "type": "color"
+        }
+      },
+      "outline": {
+        "icon-color": {
+          "value": "{semantic.color.rating-wrapper.default.outline.icon-color}",
+          "type": "color"
+        }
+      },
+      "number-color": {
+        "value": "{semantic.color.rating-wrapper.default.number-color}",
+        "type": "color"
+      }
+    },
+    "inverse": {
+      "filled": {
+        "icon-color": {
+          "value": "{semantic.color.rating-wrapper.inverse.filled.icon-color}",
+          "type": "color"
+        }
+      },
+      "outline": {
+        "icon-color": {
+          "value": "{semantic.color.rating-wrapper.inverse.outline.icon-color}",
+          "type": "color"
+        }
+      },
+      "number-color": {
+        "value": "{semantic.color.rating-wrapper.inverse.number-color}",
+        "type": "color"
+      }
+    },
+    "number-typography": {
+      "value": "{semantic.typography.rating-wrapper.number}",
+      "type": "typography"
+    },
+    "group": {
+      "gap": {
+        "value": "{semantic.spacing.rating-wrapper.group.gap}",
+        "type": "spacing"
+      }
+    },
+    "icons": {
+      "gap": {
+        "value": "{semantic.spacing.rating-wrapper.icons.gap}",
+        "type": "spacing"
+      }
+    }
+  }
+}
