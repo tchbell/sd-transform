@@ -9,6 +9,20 @@
         "icon-color": {
           "value": "{semantic.color.category.default.accent.icon}",
           "type": "color"
+        },
+        "members": {
+          "bg": {
+            "value": "{semantic.color.category.default.accent.members.bg}",
+            "type": "color"
+          },
+          "fg": {
+            "value": "{semantic.color.category.default.accent.members.fg}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.category.default.accent.members.fg}",
+            "type": "color"
+          }
         }
       },
       "rested": {
@@ -27,6 +41,20 @@
         "icon-color": {
           "value": "{semantic.color.category.inverse.accent.icon}",
           "type": "color"
+        },
+        "members": {
+          "bg": {
+            "value": "{semantic.color.category.default.accent.members.bg}",
+            "type": "color"
+          },
+          "fg": {
+            "value": "{semantic.color.category.default.accent.members.fg}",
+            "type": "color"
+          },
+          "icon": {
+            "value": "{semantic.color.category.default.accent.members.fg}",
+            "type": "color"
+          }
         }
       },
       "rested": {
@@ -35,6 +63,36 @@
           "type": "color"
         }
       }
+    },
+    "text-typography": {
+      "value": "{semantic.typography.category.text}",
+      "type": "typography"
+    },
+    "members": {
+      "text-typography": {
+        "value": "{semantic.typography.category.members.text}",
+        "type": "typography"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.category.members.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.category.members.padding-right}",
+        "type": "spacing"
+      },
+      "padding-top": {
+        "value": "{semantic.spacing.category.members.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.category.members.padding-bottom}",
+        "type": "spacing"
+      }
+    },
+    "gap": {
+      "value": "{semantic.spacing.category.gap}",
+      "type": "spacing"
     }
   }
 }

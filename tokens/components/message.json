@@ -4,11 +4,9 @@
     "type": "spacing"
   },
   "messages": {
-    "text": {
-      "typography": {
-        "value": "{semantic.typography.text.md.default}",
-        "type": "typography"
-      }
+    "text-typography": {
+      "value": "{semantic.typography.text.md.default}",
+      "type": "typography"
     }
   },
   "padding-right": {

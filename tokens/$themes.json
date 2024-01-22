@@ -11,7 +11,8 @@
       "semantic/simple": "enabled",
       "semantic/surface": "enabled",
       "semantic/typography": "enabled",
-      "semantic/granular": "enabled"
+      "semantic/granular": "enabled",
+      "components/rating-wrapper": "disabled"
     },
     "group": "Core"
   },
@@ -20,7 +21,8 @@
     "name": "M",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "view-overrides/VPM": "source"
+      "view-overrides/VPM": "source",
+      "components/rating-wrapper": "disabled"
     },
     "group": "VP"
   },
@@ -29,7 +31,8 @@
     "name": "L",
     "$figmaStyleReferences": {},
     "selectedTokenSets": {
-      "view-overrides/VPL": "source"
+      "view-overrides/VPL": "source",
+      "components/rating-wrapper": "disabled"
     },
     "group": "VP"
   },
@@ -59,7 +62,10 @@
       "components/multiselect": "enabled",
       "components/swatch": "enabled",
       "components/overline": "enabled",
-      "components/image": "enabled"
+      "components/image": "enabled",
+      "components/metadata": "enabled",
+      "components/category": "enabled",
+      "components/rating-wrapper": "disabled"
     },
     "group": "Components"
   },
@@ -95,7 +101,8 @@
       "components/quantity selector": "source",
       "components/sidebar navigation": "source",
       "components/multiselect": "source",
-      "components/swatch": "source"
+      "components/swatch": "source",
+      "components/rating-wrapper": "disabled"
     },
     "group": "Brand"
   },
@@ -132,7 +139,8 @@
       "components/quantity selector": "enabled",
       "components/sidebar navigation": "enabled",
       "components/multiselect": "enabled",
-      "components/swatch": "enabled"
+      "components/swatch": "enabled",
+      "components/rating-wrapper": "disabled"
     },
     "group": "Brand"
   }

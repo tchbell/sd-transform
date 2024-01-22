@@ -75,15 +75,15 @@
       }
     },
     "padding-left": {
-      "value": "{semantic.filtertag.padding-left}",
+      "value": "{semantic.spacing.filtertag.padding-left}",
       "type": "spacing"
     },
     "padding-right": {
-      "value": "{semantic.filtertag.padding-right}",
+      "value": "{semantic.spacing.filtertag.padding-right}",
       "type": "spacing"
     },
     "gap": {
-      "value": "{semantic.filtertag.gap}",
+      "value": "{semantic.spacing.filtertag.gap}",
       "type": "spacing"
     },
     "inverse": {

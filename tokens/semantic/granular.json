@@ -2131,6 +2131,20 @@
             "icon": {
               "value": "{semantic.color.surface.neutral.default.fg-accent}",
               "type": "color"
+            },
+            "members": {
+              "bg": {
+                "value": "{semantic.color.surface.primary.default.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.primary.default.fg-default}",
+                "type": "color"
+              },
+              "icon": {
+                "value": "{semantic.color.surface.primary.default.fg-default}",
+                "type": "color"
+              }
             }
           },
           "rested": {
@@ -2299,6 +2313,18 @@
         "text": {
           "value": "{semantic.typography.text.xs.emphasis}",
           "type": "typography"
+        }
+      },
+      "category": {
+        "text": {
+          "value": "{semantic.typography.text.xs.emphasis-heavy}",
+          "type": "typography"
+        },
+        "members": {
+          "text": {
+            "value": "{semantic.typography.text.xs.emphasis}",
+            "type": "typography"
+          }
         }
       }
     },
@@ -2686,6 +2712,44 @@
           "value": "{dimension.100}",
           "type": "spacing"
         }
+      },
+      "filtertag": {
+        "padding-left": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.100}",
+          "type": "spacing"
+        }
+      },
+      "category": {
+        "gap": {
+          "value": "{dimension.50}",
+          "type": "spacing"
+        },
+        "members": {
+          "padding-left": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.25}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.25}",
+            "type": "spacing"
+          }
+        }
       }
     },
     "border-radius": {
@@ -2912,20 +2976,6 @@
           "value": "{border-width.xl}",
           "type": "borderWidth"
         }
-      }
-    },
-    "filtertag": {
-      "padding-left": {
-        "value": "{dimension.150}",
-        "type": "spacing"
-      },
-      "padding-right": {
-        "value": "{dimension.150}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{dimension.100}",
-        "type": "spacing"
       }
     }
   }
