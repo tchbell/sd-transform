@@ -1253,48 +1253,42 @@
           }
         }
       },
-      "quantity-selector": {
+      "qty-selector": {
         "size-selector": {
-          "rested": {
-            "fg-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
+          "fg": {
+            "value": "{semantic.color.surface.neutral.default.fg-default}",
+            "type": "color"
           },
-          "hover": {
-            "fg-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            },
-            "bg-color": {
-              "value": "{color.grey.60}",
-              "type": "color"
-            }
+          "bg": {
+            "value": "{semantic.color.surface.neutral.subtle.bg}",
+            "type": "color"
           },
-          "active": {
-            "fg-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            },
-            "bg-color": {
-              "value": "{color.grey.60}",
-              "type": "color"
-            },
-            "border-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
-            }
+          "border": {
+            "value": "{semantic.color.surface.neutral.default.border}",
+            "type": "color"
           }
         },
         "quantity-button": {
           "neutral": {
-            "rested-color": {
-              "value": "{color.neutrals.black}",
-              "type": "color"
+            "rested": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.subtle.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
             },
-            "hover-color": {
-              "value": "{color.grey.700}",
-              "type": "color"
+            "hover": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.default.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
+                "type": "color"
+              }
             },
             "disabled-color": {
               "value": "{color.grey.100}",

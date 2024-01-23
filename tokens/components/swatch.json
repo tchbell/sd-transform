@@ -28,57 +28,57 @@
     },
     "default": {
       "rested": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.rested.fg}",
           "type": "color"
         }
       },
       "category-selected": {
-        "border": {
+        "border-color": {
           "value": "{semantic.color.swatch.default.category-selected.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.category-selected.fg}",
           "type": "color"
         }
       },
       "filter-selected": {
-        "border": {
+        "border-color": {
           "value": "{semantic.color.swatch.default.filter-selected.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.filter-selected.fg}",
           "type": "color"
         },
-        "underline": {
+        "underline-color": {
           "value": "{semantic.color.swatch.default.filter-selected.underline}",
           "type": "color"
         }
       },
       "paper-not-visible": {
-        "border": {
+        "border-color": {
           "value": "{semantic.color.swatch.default.paper-not-visible.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.paper-not-visible.fg}",
           "type": "color"
         },
-        "underline": {
+        "underline-color": {
           "value": "{semantic.color.swatch.default.paper-not-visible.underline}",
           "type": "color"
         }
       },
       "disabled": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.disabled.fg}",
           "type": "color"
         }
       },
       "hover": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.default.hover.fg}",
           "type": "color"
         }
@@ -86,17 +86,17 @@
     },
     "inverse": {
       "rested": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.rested.fg}",
           "type": "color"
         }
       },
       "category-selected": {
-        "border": {
+        "border-color": {
           "value": "{semantic.color.swatch.inverse.category-selected.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.category-selected.fg}",
           "type": "color"
         }
@@ -106,37 +106,37 @@
           "value": "{semantic.color.swatch.inverse.filter-selected.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.filter-selected.fg}",
           "type": "color"
         },
-        "underline": {
+        "underline-color": {
           "value": "{semantic.color.swatch.inverse.filter-selected.underline}",
           "type": "color"
         }
       },
       "disabled": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.disabled.fg}",
           "type": "color"
         }
       },
       "hover": {
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.hover.fg}",
           "type": "color"
         }
       },
       "paper-not-visible": {
-        "border": {
+        "border-color": {
           "value": "{semantic.color.swatch.inverse.paper-not-visible.border}",
           "type": "color"
         },
-        "fg": {
+        "fg-color": {
           "value": "{semantic.color.swatch.inverse.paper-not-visible.fg}",
           "type": "color"
         },
-        "underline": {
+        "underline-color": {
           "value": "{semantic.color.swatch.inverse.paper-not-visible.underline}",
           "type": "color"
         }

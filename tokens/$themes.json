@@ -61,7 +61,9 @@
       "components/overline": "enabled",
       "components/image": "enabled",
       "components/metadata": "enabled",
-      "components/category": "enabled"
+      "components/category": "enabled",
+      "components/rating-wrapper": "enabled",
+      "components/calendar": "enabled"
     },
     "group": "Components"
   },
