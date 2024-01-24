@@ -1358,7 +1358,7 @@
                 "type": "color"
               },
               "border": {
-                "value": "{semantic.color.surface.primary.default.border}",
+                "value": "{semantic.color.surface.primary.muted.border}",
                 "type": "color"
               }
             }
@@ -1413,7 +1413,7 @@
               }
             },
             "hover": {
-              "fg-color": {
+              "fg": {
                 "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               },
@@ -1427,7 +1427,7 @@
               }
             },
             "active": {
-              "fg-color": {
+              "fg": {
                 "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               },
@@ -1441,22 +1441,122 @@
               }
             },
             "disabled": {
-              "fg-color": {
+              "fg": {
                 "value": "{semantic.color.surface.neutral.default.fg-muted}",
                 "type": "color"
               },
-              "border-color": {
+              "border": {
                 "value": "{semantic.color.surface.neutral.default.fg-muted}",
                 "type": "color"
               }
+            }
+          },
+          "error": {
+            "fg": {
+              "value": "{semantic.color.fg.error}",
+              "type": "color"
             },
-            "error": {
-              "fg-color": {
-                "value": "{semantic.color.fg.error}",
+            "border": {
+              "value": "{semantic.color.fg.error}",
+              "type": "color"
+            }
+          },
+          "accent": {
+            "rested": {
+              "fg": {
+                "value": "{semantic.color.surface.primary.default.fg-default}",
                 "type": "color"
               },
-              "border-color": {
-                "value": "{semantic.color.fg.error}",
+              "border": {
+                "value": "{semantic.color.surface.primary.default.border}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "fg": {
+                "value": "{semantic.color.surface.primary.default.fg-default}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.primary.default.bg}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.primary.default.border}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "fg": {
+                "value": "{semantic.color.surface.primary.default.fg-default}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.primary.default.bg}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.primary.default.border}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "fg": {
+                "value": "{semantic.color.surface.primary.default.fg-muted}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.primary.muted.border}",
+                "type": "color"
+              }
+            }
+          },
+          "inverted": {
+            "rested": {
+              "fg": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.onInverse.default.border}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "fg": {
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.onInverse.default.border}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "fg": {
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.onInverse.default.border}",
+                "type": "color"
+              }
+            },
+            "disabled": {
+              "fg": {
+                "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+                "type": "color"
+              },
+              "border": {
+                "value": "{semantic.color.surface.neutral.default.border}",
                 "type": "color"
               }
             }

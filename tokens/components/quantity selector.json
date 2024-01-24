@@ -115,7 +115,7 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.hover.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.neutral.hover.fg}",
           "type": "color"
         }
       },
@@ -125,27 +125,27 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.active.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.neutral.active.fg}",
           "type": "color"
         }
       },
       "disabled": {
         "border-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.disabled.border-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.neutral.disabled.border}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.disabled.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.neutral.disabled.fg}",
           "type": "color"
         }
       },
       "error": {
         "border-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.error.border-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.error.border}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.neutral.error.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.error.fg}",
           "type": "color"
         }
       }
@@ -167,7 +167,7 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.accent.hover.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.accent.hover.fg}",
           "type": "color"
         }
       },
@@ -177,17 +177,17 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.accent.active.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.accent.active.fg}",
           "type": "color"
         }
       },
       "disabled": {
         "border-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.accent.disabled.border-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.accent.disabled.border}",
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.accent.disabled.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.accent.disabled.fg}",
           "type": "color"
         }
       },
@@ -197,7 +197,7 @@
           "type": "color"
         },
         "text-color": {
-          "value": "{semantic.color.qty-selector.qty-counter.accent.error.fg-color}",
+          "value": "{semantic.color.qty-selector.qty-counter.accent.error.fg}",
           "type": "color"
         }
       }
