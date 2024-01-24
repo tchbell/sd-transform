@@ -273,7 +273,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{semantic.theme.color.neutral.strong}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             }
           },
@@ -295,7 +295,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{semantic.theme.color.neutral.strong}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             }
           },
