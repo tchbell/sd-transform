@@ -1583,7 +1583,7 @@
           },
           "category-selected": {
             "border": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.emphasis.default.border}",
               "type": "color"
             },
             "fg": {
@@ -1593,7 +1593,7 @@
           },
           "filter-selected": {
             "border": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.emphasis.default.border}",
               "type": "color"
             },
             "fg": {
@@ -1601,13 +1601,13 @@
               "type": "color"
             },
             "underline": {
-              "value": "{color.grey.900}",
+              "value": "{semantic.color.surface.emphasis.default.border}",
               "type": "color"
             }
           },
           "paper-not-visible": {
             "border": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.emphasis.default.border}",
               "type": "color"
             },
             "fg": {
@@ -1615,7 +1615,7 @@
               "type": "color"
             },
             "underline": {
-              "value": "{color.neutrals.black}",
+              "value": "{semantic.color.surface.emphasis.default.border}",
               "type": "color"
             }
           },
@@ -3148,16 +3148,6 @@
         }
       },
       "swatch": {
-        "sm": {
-          "height": {
-            "value": "{dimension.250}",
-            "type": "sizing"
-          },
-          "width": {
-            "value": "{dimension.250}",
-            "type": "sizing"
-          }
-        },
         "lg": {
           "height": {
             "value": "{dimension.600}",

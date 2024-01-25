@@ -1,14 +1,4 @@
 {
-  "sm": {
-    "height": {
-      "value": "{semantic.sizing.swatch.sm.height}",
-      "type": "sizing"
-    },
-    "width": {
-      "value": "{semantic.sizing.swatch.sm.width}",
-      "type": "sizing"
-    }
-  },
   "swatch": {
     "typography": {
       "sm": {
@@ -82,6 +72,10 @@
           "value": "{semantic.color.swatch.default.hover.fg}",
           "type": "color"
         }
+      },
+      "circle-height": {
+        "value": "40",
+        "type": "sizing"
       }
     },
     "inverse": {
@@ -151,16 +145,6 @@
         "value": "{semantic.border-width.swatch.2}",
         "type": "borderWidth"
       }
-    }
-  },
-  "lg": {
-    "height": {
-      "value": "{semantic.sizing.swatch.lg.height}",
-      "type": "sizing"
-    },
-    "width": {
-      "value": "{semantic.sizing.swatch.lg.width}",
-      "type": "sizing"
     }
   }
 }
