@@ -1,7 +1,7 @@
 {
   "qtyselector": {
     "border-radius": {
-      "value": "{border-radius.sm}",
+      "value": "{semantic.border-radius.qty-selector}",
       "type": "borderRadius"
     }
   },
@@ -387,6 +387,10 @@
         "value": "{semantic.spacing.qty-selector.qty-button.padding-bottom}",
         "type": "spacing"
       }
+    },
+    "border-width": {
+      "value": "{semantic.border-width.qty-selector}",
+      "type": "borderWidth"
     }
   }
 }

@@ -144,11 +144,11 @@
     },
     "border-width": {
       "1": {
-        "value": "{semantic.swatch.borther-width.1}",
+        "value": "{semantic.border-width.swatch.1}",
         "type": "borderWidth"
       },
       "2": {
-        "value": "{semantic.swatch.borther-width.2}",
+        "value": "{semantic.border-width.swatch.2}",
         "type": "borderWidth"
       }
     }

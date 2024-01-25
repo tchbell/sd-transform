@@ -11,7 +11,7 @@
       }
     },
     "border-width": {
-      "value": "{semantic.actions.borther-width.default}",
+      "value": "{semantic.border-width.actions.default}",
       "type": "borderWidth"
     },
     "padding-right": {

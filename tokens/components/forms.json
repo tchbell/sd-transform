@@ -604,7 +604,7 @@
         "type": "spacing"
       },
       "border-width": {
-        "value": "{semantic.inputs.textarea.border-width}",
+        "value": "{semantic.border-width.inputs.textarea}",
         "type": "borderWidth"
       }
     },
@@ -636,7 +636,7 @@
         }
       },
       "border-width": {
-        "value": "{semantic.inputs.checkmark.border-width}",
+        "value": "{semantic.border-width.inputs.checkmark}",
         "type": "borderWidth"
       }
     }
