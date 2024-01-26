@@ -1,19 +1,11 @@
 {
   "swatch": {
-    "typography": {
-      "sm": {
-        "text": {
-          "value": "{semantic.typography.text.xs.default}",
-          "type": "typography"
-        }
-      }
+    "text-typography": {
+      "value": "{semantic.typography.swatch.text}",
+      "type": "typography"
     },
-    "gap-text": {
-      "value": "{semantic.spacing.swatch.gap-text}",
-      "type": "spacing"
-    },
-    "gap-underline": {
-      "value": "{semantic.spacing.swatch.gap-underline}",
+    "gap": {
+      "value": "{semantic.spacing.swatch.gap}",
       "type": "spacing"
     },
     "default": {
@@ -73,8 +65,20 @@
           "type": "color"
         }
       },
+      "border-height": {
+        "value": "{semantic.sizing.swatch.default.border-height}",
+        "type": "sizing"
+      },
+      "border-width": {
+        "value": "{semantic.sizing.swatch.default.border-width}",
+        "type": "sizing"
+      },
       "circle-height": {
-        "value": "40",
+        "value": "{semantic.sizing.swatch.default.circle-height}",
+        "type": "sizing"
+      },
+      "circle-width": {
+        "value": "{semantic.sizing.swatch.default.circle-width}",
         "type": "sizing"
       }
     },
@@ -137,13 +141,43 @@
       }
     },
     "border-width": {
-      "1": {
-        "value": "{semantic.border-width.swatch.1}",
+      "border-width": {
+        "value": "{semantic.border-width.swatch.border}",
         "type": "borderWidth"
+      }
+    },
+    "group": {
+      "padding-bottom": {
+        "value": "{semantic.spacing.swatch.group.padding-bottom}",
+        "type": "spacing"
+      }
+    },
+    "circle": {
+      "padding-top": {
+        "value": "{semantic.spacing.swatch.circle.padding-top}",
+        "type": "spacing"
       },
-      "2": {
-        "value": "{semantic.border-width.swatch.2}",
-        "type": "borderWidth"
+      "padding-bottom": {
+        "value": "{semantic.spacing.swatch.circle.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.swatch.circle.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.swatch.circle.padding-right}",
+        "type": "spacing"
+      }
+    },
+    "underline": {
+      "height": {
+        "value": "{semantic.sizing.swatch.underline.height}",
+        "type": "sizing"
+      },
+      "width": {
+        "value": "{semantic.sizing.swatch.underline.width}",
+        "type": "sizing"
       }
     }
   }

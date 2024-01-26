@@ -50,6 +50,36 @@
           "value": "{dimension.500}",
           "type": "sizing"
         }
+      },
+      "swatch": {
+        "default": {
+          "circle-height": {
+            "value": "{dimension.250}",
+            "type": "sizing"
+          },
+          "circle-width": {
+            "value": "{dimension.250}",
+            "type": "sizing"
+          },
+          "border-height": {
+            "value": "{dimension.300}",
+            "type": "sizing"
+          },
+          "border-width": {
+            "value": "{dimension.300}",
+            "type": "sizing"
+          }
+        },
+        "hover": {
+          "circle-height": {
+            "value": "{dimension.150}",
+            "type": "sizing"
+          },
+          "circle-width": {
+            "value": "{dimension.150}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "spacing": {

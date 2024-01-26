@@ -50,6 +50,26 @@
           "value": "{dimension.350}",
           "type": "sizing"
         }
+      },
+      "swatch": {
+        "default": {
+          "circle-height": {
+            "value": "{dimension.200}",
+            "type": "sizing"
+          },
+          "circle-width": {
+            "value": "{dimension.200}",
+            "type": "sizing"
+          },
+          "border-height": {
+            "value": "{dimension.250}",
+            "type": "sizing"
+          },
+          "border-width": {
+            "value": "{dimension.250}",
+            "type": "sizing"
+          }
+        }
       }
     },
     "spacing": {

@@ -502,6 +502,16 @@
               "value": "{semantic.theme.color.secondary.weakest}",
               "type": "color"
             }
+          },
+          "opacity": {
+            "bg": {
+              "value": "rgba( {semantic.theme.color.neutral.strongest} , {opacity.80})",
+              "type": "color"
+            },
+            "border": {
+              "value": "rgba( {semantic.theme.color.neutral.strongest} , {opacity.80})",
+              "type": "color"
+            }
           }
         }
       },

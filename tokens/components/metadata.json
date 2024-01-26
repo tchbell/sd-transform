@@ -12,6 +12,16 @@
       "icon-color": {
         "value": "{semantic.color.metadata.default.icon}",
         "type": "color"
+      },
+      "timestamp": {
+        "bg-color": {
+          "value": "{semantic.color.metadata.default.timestamp.bg}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.metadata.default.timestamp.fg}",
+          "type": "color"
+        }
       }
     },
     "inverse": {
@@ -22,6 +32,34 @@
       "icon-color": {
         "value": "{semantic.color.metadata.inverse.icon}",
         "type": "color"
+      },
+      "timestamp": {
+        "bg-color": {
+          "value": "{semantic.color.metadata.inverse.timestamp.bg}",
+          "type": "color"
+        },
+        "fg-color": {
+          "value": "{semantic.color.metadata.inverse.timestamp.fg}",
+          "type": "color"
+        }
+      }
+    },
+    "timestamp": {
+      "padding-top": {
+        "value": "{semantic.spacing.metadata.timestamp.padding-top}",
+        "type": "spacing"
+      },
+      "padding-bottom": {
+        "value": "{semantic.spacing.metadata.timestamp.padding-bottom}",
+        "type": "spacing"
+      },
+      "padding-left": {
+        "value": "{semantic.spacing.metadata.timestamp.padding-left}",
+        "type": "spacing"
+      },
+      "padding-right": {
+        "value": "{semantic.spacing.metadata.timestamp.padding-right}",
+        "type": "spacing"
       }
     }
   }
