@@ -227,11 +227,11 @@
               "type": "color"
             },
             "fg-subtle": {
-              "value": "{semantic.theme.color.neutral.strong}",
+              "value": "{semantic.theme.color.neutral.default}",
               "type": "color"
             },
             "fg-muted": {
-              "value": "{semantic.theme.color.neutral.default}",
+              "value": "{semantic.theme.color.neutral.weakest}",
               "type": "color"
             },
             "fg-primary": {
@@ -427,7 +427,7 @@
               "type": "color"
             },
             "fg-muted": {
-              "value": "{semantic.theme.color.neutral.default}",
+              "value": "{semantic.theme.color.neutral.strong}",
               "type": "color"
             },
             "fg-opacity": {
