@@ -53,7 +53,6 @@
       "components/progress": "enabled",
       "components/video": "enabled",
       "components/message": "enabled",
-      "components/tags": "enabled",
       "components/quantity selector": "enabled",
       "components/sidebar navigation": "enabled",
       "components/multiselect": "enabled",
@@ -63,7 +62,8 @@
       "components/metadata": "enabled",
       "components/category": "enabled",
       "components/rating-wrapper": "enabled",
-      "components/calendar": "enabled"
+      "components/calendar": "enabled",
+      "components/tag": "enabled"
     },
     "group": "Components"
   },
@@ -95,11 +95,11 @@
       "components/progress": "source",
       "components/video": "source",
       "components/message": "source",
-      "components/tags": "source",
       "components/quantity selector": "source",
       "components/sidebar navigation": "source",
       "components/multiselect": "source",
-      "components/swatch": "source"
+      "components/swatch": "source",
+      "components/tag": "source"
     },
     "group": "Brand"
   },
@@ -132,11 +132,11 @@
       "components/progress": "enabled",
       "components/video": "enabled",
       "components/message": "enabled",
-      "components/tags": "enabled",
       "components/quantity selector": "enabled",
       "components/sidebar navigation": "enabled",
       "components/multiselect": "enabled",
-      "components/swatch": "enabled"
+      "components/swatch": "enabled",
+      "components/tag": "enabled"
     },
     "group": "Brand"
   }

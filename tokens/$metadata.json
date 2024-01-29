@@ -36,7 +36,7 @@
     "components/quantity selector",
     "components/swatch",
     "components/message",
-    "components/tags",
+    "components/tag",
     "components/multiselect",
     "components/sidebar navigation",
     "Brands/BrandA/core",

@@ -2487,7 +2487,7 @@
           }
         }
       },
-      "tags": {
+      "tag": {
         "default": {
           "over-image": {
             "default": {
@@ -2988,6 +2988,38 @@
           "value": "{semantic.typography.text.xs.default}",
           "type": "typography"
         }
+      },
+      "tag": {
+        "md": {
+          "text": {
+            "value": "{semantic.typography.text.xs.default}",
+            "type": "typography"
+          },
+          "live-text": {
+            "value": "{semantic.typography.text.xs.emphasis}",
+            "type": "typography"
+          }
+        },
+        "lg": {
+          "text": {
+            "value": "{semantic.typography.text.md.default}",
+            "type": "typography"
+          }
+        },
+        "actionable-tag": {
+          "default": {
+            "text": {
+              "value": "{semantic.typography.text.sm.default}",
+              "type": "typography"
+            }
+          },
+          "disabled": {
+            "text": {
+              "value": "{semantic.typography.text.sm.strikethrough}",
+              "type": "typography"
+            }
+          }
+        }
       }
     },
     "spacing": {
@@ -3367,6 +3399,20 @@
           }
         }
       },
+      "filtertag": {
+        "padding-left": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "padding-right": {
+          "value": "{dimension.150}",
+          "type": "spacing"
+        },
+        "gap": {
+          "value": "{dimension.100}",
+          "type": "spacing"
+        }
+      },
       "link": {
         "horizontal-gap": {
           "value": "{dimension.50}",
@@ -3395,18 +3441,50 @@
           "type": "spacing"
         }
       },
-      "filtertag": {
-        "padding-left": {
-          "value": "{dimension.150}",
-          "type": "spacing"
+      "tag": {
+        "md": {
+          "padding-left": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.25}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.25}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          }
         },
-        "padding-right": {
-          "value": "{dimension.150}",
-          "type": "spacing"
-        },
-        "gap": {
-          "value": "{dimension.100}",
-          "type": "spacing"
+        "lg": {
+          "padding-left": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-right": {
+            "value": "{dimension.100}",
+            "type": "spacing"
+          },
+          "padding-top": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "padding-bottom": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          },
+          "gap": {
+            "value": "{dimension.50}",
+            "type": "spacing"
+          }
         }
       },
       "category": {
@@ -3792,6 +3870,16 @@
       "qty-selector": {
         "value": "{dimension.0_63}",
         "type": "borderWidth"
+      },
+      "tag": {
+        "md": {
+          "value": "{border-width.md}",
+          "type": "borderWidth"
+        },
+        "xl": {
+          "value": "{border-width.xl}",
+          "type": "borderWidth"
+        }
       }
     }
   }
