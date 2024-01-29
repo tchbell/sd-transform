@@ -2380,6 +2380,112 @@
             "type": "color"
           }
         }
+      },
+      "sidebar": {
+        "default": {
+          "item": {
+            "rested": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "group": {
+            "bg": {
+              "value": "{semantic.color.surface.neutral.muted.bg}",
+              "type": "color"
+            }
+          }
+        },
+        "inverse": {
+          "item": {
+            "rested": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-muted}",
+                "type": "color"
+              }
+            },
+            "hover": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-subtle}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              }
+            },
+            "active": {
+              "bg": {
+                "value": "{semantic.color.surface.neutral.muted.bg}",
+                "type": "color"
+              },
+              "fg": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              },
+              "line": {
+                "value": "{semantic.color.surface.neutral.muted.fg-default}",
+                "type": "color"
+              }
+            }
+          },
+          "group": {
+            "bg": {
+              "value": "{semantic.color.surface.neutral.muted.bg}",
+              "type": "color"
+            }
+          }
+        }
       }
     },
     "typography": {

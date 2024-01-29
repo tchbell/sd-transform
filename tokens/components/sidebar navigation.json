@@ -7,7 +7,7 @@
             "value": "{color.neutrals.white}",
             "type": "color"
           },
-          "fg-color-copy": {
+          "fg-color": {
             "value": "{color.grey.400}",
             "type": "color"
           }
