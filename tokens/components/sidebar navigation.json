@@ -4,31 +4,43 @@
       "default": {
         "rested": {
           "bg-color": {
-            "value": "{color.neutrals.white}",
+            "value": "{semantic.color.sidebar.default.item.rested.bg}",
             "type": "color"
           },
           "fg-color": {
-            "value": "{color.grey.400}",
+            "value": "{semantic.color.sidebar.default.item.rested.fg}",
+            "type": "color"
+          },
+          "line-color": {
+            "value": "{semantic.color.sidebar.default.item.rested.line}",
             "type": "color"
           }
         },
         "hover": {
           "bg-color": {
-            "value": "{color.grey.100}",
+            "value": "{semantic.color.sidebar.default.item.hover.bg}",
             "type": "color"
           },
-          "fg-color-copy": {
-            "value": "{color.neutrals.black}",
+          "fg-color": {
+            "value": "{semantic.color.sidebar.default.item.hover.fg}",
+            "type": "color"
+          },
+          "line-color": {
+            "value": "{semantic.color.sidebar.default.item.hover.line}",
             "type": "color"
           }
         },
         "active": {
           "bg-color": {
-            "value": "{color.neutrals.black}",
+            "value": "{semantic.color.sidebar.default.item.active.bg}",
             "type": "color"
           },
-          "fg-color-copy": {
-            "value": "{color.neutrals.white}",
+          "fg-color": {
+            "value": "{semantic.color.sidebar.default.item.active.fg}",
+            "type": "color"
+          },
+          "line-color": {
+            "value": "{semantic.color.sidebar.default.item.active.line}",
             "type": "color"
           }
         }
@@ -59,8 +71,12 @@
             "value": "{color.neutrals.white}",
             "type": "color"
           },
-          "fg-color-copy": {
-            "value": "{color.neutrals.black}",
+          "fg-color": {
+            "value": "{semantic.color.sidebar.default.item.active.fg}",
+            "type": "color"
+          },
+          "line-color": {
+            "value": "{semantic.color.sidebar.default.item.active.line}",
             "type": "color"
           }
         }

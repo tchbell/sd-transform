@@ -458,35 +458,39 @@
           "default": {
             "rested": {
               "border": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.surface.neutral.default.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.neutral.default.fg-default}",
                 "type": "color"
               }
             },
             "active": {
               "border": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.emphasis.default.border}",
                 "type": "color"
               },
               "bg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.emphasis.default.bg}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.emphasis.subtle.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "border": {
-                "value": "{color.grey.900}",
+                "value": "{semantic.color.surface.emphasis.subtle.border}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.emphasis.muted.bg}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.emphasis.subtle.fg-default}",
                 "type": "color"
               }
             }
@@ -494,35 +498,39 @@
           "inverse": {
             "rested": {
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.muted.border}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.100}",
+                "value": "{semantic.color.surface.onInverse.muted.fg-muted}",
                 "type": "color"
               }
             },
             "active": {
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.muted.border}",
                 "type": "color"
               },
               "bg": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.subtle.bg}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.neutrals.black}",
+                "value": "{semantic.color.surface.onInverse.subtle.fg-default}",
                 "type": "color"
               }
             },
             "hover": {
               "border": {
-                "value": "{color.neutrals.white}",
+                "value": "{semantic.color.surface.onInverse.default.border}",
+                "type": "color"
+              },
+              "bg": {
+                "value": "{semantic.color.surface.onInverse.default.bg}",
                 "type": "color"
               },
               "fg": {
-                "value": "{color.grey.100}",
+                "value": "{semantic.color.surface.onInverse.default.fg-default}",
                 "type": "color"
               }
             }

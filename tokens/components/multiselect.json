@@ -29,9 +29,7 @@
     "padding-bottom": {
       "value": "{semantic.spacing.actions.lg.padding-bottom}",
       "type": "spacing"
-    }
-  },
-  "multislect": {
+    },
     "default": {
       "rested": {
         "border-color": {
@@ -60,6 +58,10 @@
       "hover": {
         "border-color": {
           "value": "{semantic.color.actions.multiselect.default.hover.border}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.actions.multiselect.default.hover.bg}",
           "type": "color"
         },
         "fg-color": {
@@ -96,6 +98,10 @@
       "hover": {
         "border-color": {
           "value": "{semantic.color.actions.multiselect.inverse.hover.border}",
+          "type": "color"
+        },
+        "bg-color": {
+          "value": "{semantic.color.actions.multiselect.inverse.hover.bg}",
           "type": "color"
         },
         "fg-color": {

@@ -37,10 +37,6 @@
       }
     },
     "default": {
-      "80": {
-        "value": "0.8",
-        "type": "opacity"
-      },
       "over-image": {
         "default": {
           "bg-color": {
