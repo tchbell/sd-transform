@@ -1862,6 +1862,10 @@
               "value": "{semantic.color.surface.neutral.subtle.fg-subtle}",
               "type": "color"
             },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.border}",
+              "type": "color"
+            },
             "accordion": {
               "line": {
                 "value": "{semantic.color.surface.neutral.subtle.fg-muted}",
@@ -1891,15 +1895,29 @@
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.fg.primary.default}",
+              "value": "{semantic.color.surface.neutral.default.fg-primary}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "text": {
+              "value": "{semantic.color.surface.neutral.default.fg-muted}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.neutral.default.border}",
               "type": "color"
             }
           }
         },
         "inverse": {
           "rested": {
+            "line": {
+              "value": "{semantic.color.surface.onInverse.muted.border}",
+              "type": "color"
+            },
             "text": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-muted}",
+              "value": "{semantic.color.surface.onInverse.subtle.fg-muted}",
               "type": "color"
             }
           },
@@ -1915,11 +1933,21 @@
           },
           "active": {
             "text": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "value": "{semantic.color.surface.onInverse.muted.fg-muted}",
               "type": "color"
             },
             "line": {
-              "value": "{semantic.color.surface.neutral.inverse.fg-default}",
+              "value": "{semantic.color.surface.onInverse.default.border}",
+              "type": "color"
+            }
+          },
+          "disabled": {
+            "text": {
+              "value": "{semantic.color.surface.onInverse.default.fg-subtle}",
+              "type": "color"
+            },
+            "line": {
+              "value": "{semantic.color.surface.onInverse.muted.border}",
               "type": "color"
             }
           }
@@ -3855,6 +3883,12 @@
             "value": "{dimension.175}",
             "type": "sizing"
           }
+        }
+      },
+      "tabs": {
+        "line-height": {
+          "value": "{dimension.12_5}",
+          "type": "sizing"
         }
       }
     },

@@ -6,6 +6,10 @@
           "value": "{semantic.color.tabs.default.rested.text}",
           "type": "color"
         },
+        "line-color": {
+          "value": "{semantic.color.tabs.default.rested.line}",
+          "type": "color"
+        },
         "accordion": {
           "line-color": {
             "value": "#cfcfcf",
@@ -30,6 +34,16 @@
         },
         "line-color": {
           "value": "{semantic.color.tabs.default.active.line}",
+          "type": "color"
+        }
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{semantic.color.tabs.default.disabled.text}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.default.disabled.line}",
           "type": "color"
         }
       }
@@ -99,6 +113,10 @@
         "text-color": {
           "value": "{semantic.color.tabs.inverse.rested.text}",
           "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.inverse.rested.line}",
+          "type": "color"
         }
       },
       "hover": {
@@ -120,6 +138,16 @@
           "value": "{semantic.color.tabs.inverse.active.line}",
           "type": "color"
         }
+      },
+      "disabled": {
+        "text-color": {
+          "value": "{semantic.color.tabs.inverse.disabled.text}",
+          "type": "color"
+        },
+        "line-color": {
+          "value": "{semantic.color.tabs.inverse.disabled.line}",
+          "type": "color"
+        }
       }
     },
     "group": {
@@ -139,6 +167,10 @@
         "value": "{semantic.spacing.tabs.group.vertical-gap}",
         "type": "spacing"
       }
+    },
+    "line-height": {
+      "value": "{semantic.sizing.tabs.line-height}",
+      "type": "sizing"
     }
   }
 }
