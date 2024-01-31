@@ -4,30 +4,28 @@
       "value": "{semantic.border-radius.actions.default}",
       "type": "borderRadius"
     },
-    "text": {
-      "typography": {
-        "value": "{button.button-title}",
-        "type": "typography"
-      }
+    "text-typography": {
+      "value": "{semantic.typography.actions.multiselect-button.text}",
+      "type": "typography"
     },
     "border-width": {
       "value": "{semantic.border-width.actions.default}",
       "type": "borderWidth"
     },
     "padding-right": {
-      "value": "{semantic.spacing.actions.lg.padding-right}",
+      "value": "{semantic.spacing.actions.md.padding-right}",
       "type": "spacing"
     },
     "padding-left": {
-      "value": "{semantic.spacing.actions.lg.padding-left}",
+      "value": "{semantic.spacing.actions.md.padding-left}",
       "type": "spacing"
     },
     "padding-top": {
-      "value": "{semantic.spacing.actions.lg.padding-top}",
+      "value": "{semantic.spacing.actions.md.padding-top}",
       "type": "spacing"
     },
     "padding-bottom": {
-      "value": "{semantic.spacing.actions.lg.padding-bottom}",
+      "value": "{semantic.spacing.actions.md.padding-bottom}",
       "type": "spacing"
     },
     "default": {

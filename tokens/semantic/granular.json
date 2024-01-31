@@ -2833,6 +2833,12 @@
             "value": "{semantic.typography.text.md.underline}",
             "type": "typography"
           }
+        },
+        "multiselect-button": {
+          "text": {
+            "value": "{semantic.typography.text.xs.default}",
+            "type": "typography"
+          }
         }
       },
       "eyebrow": {
