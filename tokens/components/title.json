@@ -38,18 +38,6 @@
           "value": "{semantic.typography.title.sm}",
           "type": "typography"
         }
-      },
-      "default": {
-        "text-color": {
-          "value": "{semantic.color.typography.contrast.text}",
-          "type": "color"
-        }
-      },
-      "inverted": {
-        "text-color": {
-          "value": "{semantic.color.typography.inverse.text}",
-          "type": "color"
-        }
       }
     },
     "xs": {
@@ -60,18 +48,22 @@
         }
       }
     },
-    "main": {
-      "default": {
-        "text-color": {
-          "value": "{semantic.color.typography.accent.text}",
-          "type": "color"
-        }
-      },
-      "inverted": {
-        "text-color": {
-          "value": "{semantic.color.typography.inverse.text}",
-          "type": "color"
-        }
+    "accent": {
+      "text-color": {
+        "value": "{semantic.color.typography.accent.text}",
+        "type": "color"
+      }
+    },
+    "neutral": {
+      "text-color": {
+        "value": "{semantic.color.typography.contrast.text}",
+        "type": "color"
+      }
+    },
+    "inverted": {
+      "text-color": {
+        "value": "{semantic.color.typography.inverse.text}",
+        "type": "color"
       }
     }
   }

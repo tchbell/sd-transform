@@ -71,6 +71,10 @@
         "value": "{semantic.sizing.video.pointer.width}",
         "type": "sizing"
       }
+    },
+    "gap": {
+      "value": "{semantic.spacing.video.gap}",
+      "type": "spacing"
     }
   }
 }

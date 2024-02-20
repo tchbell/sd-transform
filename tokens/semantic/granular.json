@@ -3668,6 +3668,12 @@
             "type": "spacing"
           }
         }
+      },
+      "video": {
+        "gap": {
+          "value": "{dimension.50}",
+          "type": "spacing"
+        }
       }
     },
     "border-radius": {

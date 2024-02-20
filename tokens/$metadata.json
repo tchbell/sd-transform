@@ -39,6 +39,7 @@
     "components/tag",
     "components/multiselect",
     "components/sidebar navigation",
+    "components/icons",
     "Brands/BrandA/core",
     "Brands/BrandA/theme"
   ]
