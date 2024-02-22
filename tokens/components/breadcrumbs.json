@@ -19,12 +19,6 @@
           "type": "color"
         }
       }
-    },
-    "text": {
-      "typography": {
-        "value": "{general.global.XS-1-default}",
-        "type": "typography"
-      }
     }
   },
   "breadcrumb": {

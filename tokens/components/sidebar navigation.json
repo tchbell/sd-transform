@@ -96,20 +96,6 @@
         }
       }
     },
-    "items": {
-      "padding-top": {
-        "value": "{dimension.0_50}",
-        "type": "spacing"
-      },
-      "gap": {
-        "value": "{dimension.0_50}",
-        "type": "spacing"
-      },
-      "typography": {
-        "value": "{general.global.S-2-emphasis}",
-        "type": "typography"
-      }
-    },
     "navigation": {
       "default": {
         "bg-color": {

@@ -858,11 +858,7 @@
               "checkmark": {
                 "border": {
                   "value": "{semantic.color.fg.error}",
-                  "type": "color",
-                  "border": {
-                    "value": "{color.status.error}",
-                    "type": "color"
-                  }
+                  "type": "color"
                 }
               },
               "text": {
@@ -1100,11 +1096,7 @@
               "checkmark": {
                 "border": {
                   "value": "{semantic.color.fg.error}",
-                  "type": "color",
-                  "border": {
-                    "value": "{color.status.error}",
-                    "type": "color"
-                  }
+                  "type": "color"
                 }
               },
               "text": {
